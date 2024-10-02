@@ -1,0 +1,3001 @@
+ID da Venda,Data da Venda,Produto,Categoria,Preço Unitário,Quantidade,Cidade,Estado
+1,2024-05-28,Camisa Social,Roupas,138.11,3,Rio de Janeiro,RJ
+2,2023-10-23,Casaco,Roupas,129.28,3,Rio de Janeiro,RJ
+3,2023-08-19,Moletom,Roupas,91.22,5,Porto Alegre,RS
+4,2024-06-18,Camisa Social,Roupas,146.4,2,Goiânia,GO
+5,2024-03-17,Tênis,Calçados,186.93,4,Rio de Janeiro,RJ
+6,2024-03-31,Bermuda,Roupas,59.04,4,Curitiba,PR
+7,2024-08-01,Casaco,Roupas,122.41,2,Salvador,BA
+8,2023-10-07,Blusa,Roupas,102.0,5,Rio de Janeiro,RJ
+9,2024-06-28,Tênis,Calçados,64.97,2,Manaus,AM
+10,2024-06-12,Calça Jeans,Roupas,38.18,3,Porto Alegre,RS
+11,2024-06-15,Tênis,Calçados,153.81,4,Belo Horizonte,MG
+12,2024-07-23,Camisa Social,Roupas,90.77,1,Fortaleza,CE
+13,2024-01-28,Casaco,Roupas,38.0,3,Rio de Janeiro,RJ
+14,2024-01-02,Bermuda,Roupas,101.31,1,Manaus,AM
+15,2024-04-14,Tênis,Calçados,184.21,1,Manaus,AM
+16,2024-03-15,Camisa Social,Roupas,133.15,1,Recife,PE
+17,2024-07-06,Calça Jeans,Roupas,110.07,2,Belo Horizonte,MG
+18,2023-11-13,Moletom,Roupas,160.3,3,Rio de Janeiro,RJ
+19,2024-06-14,Bermuda,Roupas,184.8,3,Rio de Janeiro,RJ
+20,2024-05-25,Moletom,Roupas,121.76,4,Goiânia,GO
+21,2024-04-04,Moletom,Roupas,190.18,5,Recife,PE
+22,2024-07-11,Blusa,Roupas,86.75,1,Fortaleza,CE
+23,2023-09-04,Blusa,Roupas,133.76,5,Porto Alegre,RS
+24,2023-11-24,Vestido,Roupas,30.23,3,Fortaleza,CE
+25,2023-10-19,Bermuda,Roupas,142.07,5,Goiânia,GO
+26,2024-04-22,Moletom,Roupas,35.9,3,Recife,PE
+27,2024-06-28,Casaco,Roupas,158.69,3,Porto Alegre,RS
+28,2024-07-16,Blusa,Roupas,136.38,5,Porto Alegre,RS
+29,2024-02-26,Bermuda,Roupas,55.46,5,Porto Alegre,RS
+30,2023-12-15,Moletom,Roupas,114.39,4,Salvador,BA
+31,2024-03-03,Blusa,Roupas,190.09,4,Manaus,AM
+32,2024-04-03,Moletom,Roupas,114.62,1,Recife,PE
+33,2024-05-09,Tênis,Calçados,46.51,1,Goiânia,GO
+34,2024-07-08,Casaco,Roupas,148.48,4,Porto Alegre,RS
+35,2023-08-09,Camiseta,Roupas,49.26,2,Curitiba,PR
+36,2024-07-29,Moletom,Roupas,92.49,5,Belo Horizonte,MG
+37,2023-09-26,Camisa Social,Roupas,52.82,4,Fortaleza,CE
+38,2024-06-11,Tênis,Calçados,132.45,2,São Paulo,SP
+39,2024-07-18,Vestido,Roupas,90.32,1,Curitiba,PR
+40,2024-04-10,Vestido,Roupas,33.77,2,Salvador,BA
+41,2023-08-29,Calça Jeans,Roupas,42.36,5,Fortaleza,CE
+42,2024-01-15,Moletom,Roupas,111.64,1,Rio de Janeiro,RJ
+43,2023-09-05,Blusa,Roupas,21.01,4,Curitiba,PR
+44,2024-05-21,Casaco,Roupas,163.64,3,Porto Alegre,RS
+45,2023-09-09,Tênis,Calçados,87.13,4,Goiânia,GO
+46,2023-11-22,Vestido,Roupas,182.25,1,Manaus,AM
+47,2023-10-31,Vestido,Roupas,131.59,5,Porto Alegre,RS
+48,2024-03-28,Camisa Social,Roupas,46.51,1,Fortaleza,CE
+49,2024-06-27,Vestido,Roupas,109.4,5,Rio de Janeiro,RJ
+50,2023-11-16,Camisa Social,Roupas,139.69,3,Curitiba,PR
+51,2024-04-28,Moletom,Roupas,142.27,5,Rio de Janeiro,RJ
+52,2023-10-07,Casaco,Roupas,80.71,5,Goiânia,GO
+53,2024-03-21,Casaco,Roupas,145.09,3,Goiânia,GO
+54,2024-07-24,Tênis,Calçados,176.98,2,Recife,PE
+55,2023-11-14,Vestido,Roupas,49.32,3,Recife,PE
+56,2023-11-03,Camisa Social,Roupas,173.73,3,Goiânia,GO
+57,2024-03-11,Blusa,Roupas,57.81,3,Salvador,BA
+58,2024-05-29,Saia,Roupas,149.3,5,São Paulo,SP
+59,2024-01-10,Casaco,Roupas,24.8,5,Porto Alegre,RS
+60,2023-08-23,Saia,Roupas,107.66,3,Fortaleza,CE
+61,2023-10-27,Moletom,Roupas,80.69,3,Recife,PE
+62,2023-12-30,Camisa Social,Roupas,149.01,2,Salvador,BA
+63,2023-09-06,Camiseta,Roupas,165.08,2,Fortaleza,CE
+64,2023-12-20,Moletom,Roupas,49.72,2,Goiânia,GO
+65,2024-05-31,Saia,Roupas,68.54,1,Recife,PE
+66,2023-12-17,Vestido,Roupas,146.11,5,Goiânia,GO
+67,2024-03-13,Saia,Roupas,164.47,1,Curitiba,PR
+68,2023-09-28,Calça Jeans,Roupas,28.85,1,Salvador,BA
+69,2023-11-28,Casaco,Roupas,139.74,2,Salvador,BA
+70,2024-01-29,Casaco,Roupas,112.28,1,Manaus,AM
+71,2023-11-08,Tênis,Calçados,21.0,5,Salvador,BA
+72,2024-05-30,Calça Jeans,Roupas,56.41,3,Recife,PE
+73,2024-06-22,Camiseta,Roupas,137.82,2,Curitiba,PR
+74,2024-01-13,Vestido,Roupas,129.92,5,Goiânia,GO
+75,2023-09-22,Moletom,Roupas,87.56,2,Curitiba,PR
+76,2024-04-14,Camisa Social,Roupas,51.34,5,Rio de Janeiro,RJ
+77,2023-11-27,Bermuda,Roupas,40.01,5,São Paulo,SP
+78,2024-05-06,Bermuda,Roupas,68.38,3,Salvador,BA
+79,2023-10-11,Tênis,Calçados,177.91,2,Recife,PE
+80,2023-11-02,Saia,Roupas,106.73,1,Fortaleza,CE
+81,2023-11-22,Bermuda,Roupas,178.15,3,Manaus,AM
+82,2023-08-26,Bermuda,Roupas,174.56,5,Goiânia,GO
+83,2024-07-10,Vestido,Roupas,136.15,3,Salvador,BA
+84,2023-12-31,Tênis,Calçados,143.73,1,Recife,PE
+85,2023-12-16,Camisa Social,Roupas,154.32,5,Porto Alegre,RS
+86,2024-04-29,Moletom,Roupas,143.24,3,Curitiba,PR
+87,2023-11-13,Casaco,Roupas,165.49,3,São Paulo,SP
+88,2023-09-17,Camiseta,Roupas,29.04,1,Recife,PE
+89,2024-08-03,Camiseta,Roupas,100.84,4,Porto Alegre,RS
+90,2024-05-03,Camiseta,Roupas,49.89,3,Belo Horizonte,MG
+91,2024-04-13,Calça Jeans,Roupas,34.93,1,Recife,PE
+92,2024-03-06,Saia,Roupas,189.56,1,Salvador,BA
+93,2024-07-24,Moletom,Roupas,121.88,4,Goiânia,GO
+94,2023-09-29,Calça Jeans,Roupas,173.08,2,Manaus,AM
+95,2024-06-10,Vestido,Roupas,157.99,5,São Paulo,SP
+96,2024-03-07,Camisa Social,Roupas,190.05,2,Rio de Janeiro,RJ
+97,2023-10-02,Camiseta,Roupas,44.33,5,Curitiba,PR
+98,2024-01-29,Calça Jeans,Roupas,188.02,5,Rio de Janeiro,RJ
+99,2023-11-03,Moletom,Roupas,36.17,2,Rio de Janeiro,RJ
+100,2024-01-15,Casaco,Roupas,125.34,5,Manaus,AM
+101,2023-08-11,Camiseta,Roupas,196.58,5,Manaus,AM
+102,2023-12-10,Tênis,Calçados,69.28,1,Salvador,BA
+103,2024-04-20,Camiseta,Roupas,188.36,3,Porto Alegre,RS
+104,2024-04-03,Camiseta,Roupas,133.79,2,Rio de Janeiro,RJ
+105,2024-07-14,Blusa,Roupas,162.41,1,Manaus,AM
+106,2024-05-02,Tênis,Calçados,122.68,5,São Paulo,SP
+107,2024-07-18,Camisa Social,Roupas,175.47,5,Salvador,BA
+108,2024-02-29,Camiseta,Roupas,137.09,4,Belo Horizonte,MG
+109,2023-10-15,Saia,Roupas,173.99,4,Recife,PE
+110,2024-03-02,Moletom,Roupas,88.79,5,Rio de Janeiro,RJ
+111,2023-09-20,Camisa Social,Roupas,79.55,5,Goiânia,GO
+112,2024-06-26,Tênis,Calçados,164.57,2,Salvador,BA
+113,2023-09-20,Bermuda,Roupas,70.7,1,Belo Horizonte,MG
+114,2023-10-08,Moletom,Roupas,146.14,5,Porto Alegre,RS
+115,2024-02-08,Camiseta,Roupas,142.11,2,Rio de Janeiro,RJ
+116,2024-08-03,Moletom,Roupas,31.65,1,Salvador,BA
+117,2024-05-14,Calça Jeans,Roupas,144.32,1,Fortaleza,CE
+118,2023-12-24,Camiseta,Roupas,153.05,1,Belo Horizonte,MG
+119,2024-04-04,Saia,Roupas,182.97,3,Recife,PE
+120,2023-09-18,Blusa,Roupas,63.83,5,Fortaleza,CE
+121,2023-10-30,Vestido,Roupas,158.15,3,São Paulo,SP
+122,2024-03-05,Moletom,Roupas,167.63,3,Fortaleza,CE
+123,2023-12-24,Camiseta,Roupas,82.73,1,Fortaleza,CE
+124,2023-12-05,Vestido,Roupas,162.11,2,Goiânia,GO
+125,2024-04-17,Casaco,Roupas,42.39,4,Porto Alegre,RS
+126,2023-11-10,Blusa,Roupas,78.92,4,Rio de Janeiro,RJ
+127,2024-03-01,Moletom,Roupas,168.58,2,Rio de Janeiro,RJ
+128,2023-12-23,Calça Jeans,Roupas,99.62,4,Salvador,BA
+129,2024-01-24,Tênis,Calçados,22.48,1,Fortaleza,CE
+130,2024-06-13,Calça Jeans,Roupas,154.3,2,Recife,PE
+131,2023-12-13,Camiseta,Roupas,83.25,5,Belo Horizonte,MG
+132,2024-05-02,Camisa Social,Roupas,23.63,4,Curitiba,PR
+133,2024-05-10,Camiseta,Roupas,84.78,1,São Paulo,SP
+134,2024-05-31,Tênis,Calçados,103.9,4,Belo Horizonte,MG
+135,2024-03-31,Camisa Social,Roupas,139.96,5,Goiânia,GO
+136,2024-07-04,Vestido,Roupas,138.91,3,Porto Alegre,RS
+137,2024-07-01,Casaco,Roupas,84.17,4,Salvador,BA
+138,2023-11-17,Calça Jeans,Roupas,95.48,3,Salvador,BA
+139,2024-06-03,Blusa,Roupas,37.9,3,Porto Alegre,RS
+140,2023-08-15,Blusa,Roupas,27.07,3,Porto Alegre,RS
+141,2024-02-16,Vestido,Roupas,52.29,2,Recife,PE
+142,2024-04-30,Moletom,Roupas,133.55,5,Goiânia,GO
+143,2023-10-27,Vestido,Roupas,191.28,3,Belo Horizonte,MG
+144,2024-04-22,Saia,Roupas,93.37,3,Curitiba,PR
+145,2024-01-03,Blusa,Roupas,88.38,1,Manaus,AM
+146,2023-09-09,Camiseta,Roupas,72.14,1,Manaus,AM
+147,2023-11-26,Saia,Roupas,124.89,2,Goiânia,GO
+148,2024-03-22,Tênis,Calçados,142.71,1,Porto Alegre,RS
+149,2024-04-09,Bermuda,Roupas,38.3,2,Curitiba,PR
+150,2024-01-27,Bermuda,Roupas,93.16,1,Rio de Janeiro,RJ
+151,2024-03-30,Blusa,Roupas,115.72,1,Recife,PE
+152,2024-07-13,Tênis,Calçados,43.21,2,Manaus,AM
+153,2023-12-02,Camisa Social,Roupas,30.12,3,Goiânia,GO
+154,2024-04-13,Vestido,Roupas,162.81,1,Salvador,BA
+155,2024-04-02,Camisa Social,Roupas,145.54,5,Porto Alegre,RS
+156,2023-09-13,Camisa Social,Roupas,127.42,2,Goiânia,GO
+157,2023-08-16,Camisa Social,Roupas,51.31,4,São Paulo,SP
+158,2023-11-26,Camiseta,Roupas,35.75,1,Curitiba,PR
+159,2024-06-07,Vestido,Roupas,132.42,2,Rio de Janeiro,RJ
+160,2024-01-09,Blusa,Roupas,88.99,3,Salvador,BA
+161,2024-02-01,Bermuda,Roupas,95.57,2,São Paulo,SP
+162,2024-07-12,Tênis,Calçados,137.24,3,Fortaleza,CE
+163,2024-04-09,Calça Jeans,Roupas,42.97,3,Belo Horizonte,MG
+164,2024-06-22,Vestido,Roupas,44.94,2,Porto Alegre,RS
+165,2024-05-13,Tênis,Calçados,58.04,1,Curitiba,PR
+166,2023-08-16,Moletom,Roupas,121.31,4,Fortaleza,CE
+167,2023-12-18,Bermuda,Roupas,163.08,3,Porto Alegre,RS
+168,2023-08-15,Bermuda,Roupas,100.82,2,Salvador,BA
+169,2024-01-04,Tênis,Calçados,64.01,3,Rio de Janeiro,RJ
+170,2024-02-25,Camiseta,Roupas,164.08,3,Recife,PE
+171,2023-12-13,Tênis,Calçados,188.26,4,Manaus,AM
+172,2024-01-16,Bermuda,Roupas,51.5,1,Manaus,AM
+173,2023-08-09,Camiseta,Roupas,184.91,2,Rio de Janeiro,RJ
+174,2023-10-13,Calça Jeans,Roupas,150.49,2,Fortaleza,CE
+175,2023-12-13,Tênis,Calçados,143.51,2,Fortaleza,CE
+176,2023-11-20,Calça Jeans,Roupas,20.44,2,Belo Horizonte,MG
+177,2024-01-01,Calça Jeans,Roupas,193.23,2,Manaus,AM
+178,2024-07-23,Camisa Social,Roupas,52.51,2,Curitiba,PR
+179,2024-04-02,Bermuda,Roupas,147.21,5,Curitiba,PR
+180,2024-01-10,Bermuda,Roupas,92.25,2,Salvador,BA
+181,2024-06-10,Moletom,Roupas,161.8,2,Curitiba,PR
+182,2024-05-21,Casaco,Roupas,127.24,3,Manaus,AM
+183,2024-06-26,Camisa Social,Roupas,150.01,4,Porto Alegre,RS
+184,2023-08-21,Blusa,Roupas,162.32,5,São Paulo,SP
+185,2024-02-26,Calça Jeans,Roupas,168.52,5,Porto Alegre,RS
+186,2023-10-13,Moletom,Roupas,190.79,3,Fortaleza,CE
+187,2024-02-04,Casaco,Roupas,199.09,2,Manaus,AM
+188,2023-12-27,Tênis,Calçados,94.54,4,Porto Alegre,RS
+189,2024-02-24,Casaco,Roupas,101.15,3,Salvador,BA
+190,2024-06-05,Bermuda,Roupas,184.51,5,Fortaleza,CE
+191,2023-10-24,Tênis,Calçados,98.57,2,Fortaleza,CE
+192,2023-12-28,Calça Jeans,Roupas,42.2,5,Goiânia,GO
+193,2024-04-03,Camisa Social,Roupas,96.3,1,Recife,PE
+194,2023-08-29,Casaco,Roupas,121.14,1,Goiânia,GO
+195,2023-08-26,Bermuda,Roupas,62.43,1,São Paulo,SP
+196,2024-06-09,Tênis,Calçados,157.8,3,Salvador,BA
+197,2023-10-05,Vestido,Roupas,118.15,5,Belo Horizonte,MG
+198,2024-01-19,Camiseta,Roupas,132.46,5,Porto Alegre,RS
+199,2023-09-10,Vestido,Roupas,113.54,5,Curitiba,PR
+200,2023-09-12,Blusa,Roupas,107.4,1,Salvador,BA
+201,2024-04-21,Vestido,Roupas,29.12,1,Belo Horizonte,MG
+202,2024-01-06,Casaco,Roupas,150.85,4,Goiânia,GO
+203,2024-04-18,Blusa,Roupas,194.24,2,Curitiba,PR
+204,2024-05-24,Tênis,Calçados,28.66,5,Rio de Janeiro,RJ
+205,2024-07-28,Vestido,Roupas,97.17,3,Belo Horizonte,MG
+206,2023-10-29,Saia,Roupas,139.87,3,Porto Alegre,RS
+207,2024-02-04,Saia,Roupas,193.72,4,Fortaleza,CE
+208,2024-03-23,Casaco,Roupas,120.06,3,Manaus,AM
+209,2024-07-21,Saia,Roupas,94.09,5,Recife,PE
+210,2024-01-28,Tênis,Calçados,85.42,1,Manaus,AM
+211,2023-11-18,Saia,Roupas,44.46,5,Goiânia,GO
+212,2024-06-19,Saia,Roupas,107.04,3,Salvador,BA
+213,2024-03-29,Bermuda,Roupas,55.95,3,Fortaleza,CE
+214,2024-01-07,Vestido,Roupas,112.31,2,Belo Horizonte,MG
+215,2024-04-13,Vestido,Roupas,135.19,5,Belo Horizonte,MG
+216,2024-02-11,Camiseta,Roupas,30.79,1,Manaus,AM
+217,2024-04-17,Calça Jeans,Roupas,161.91,2,Porto Alegre,RS
+218,2024-01-04,Vestido,Roupas,135.48,2,Fortaleza,CE
+219,2023-10-22,Vestido,Roupas,113.62,3,Goiânia,GO
+220,2024-02-17,Blusa,Roupas,25.92,5,Porto Alegre,RS
+221,2023-12-24,Blusa,Roupas,188.81,1,Recife,PE
+222,2024-06-12,Blusa,Roupas,78.07,4,Manaus,AM
+223,2024-04-05,Calça Jeans,Roupas,197.35,1,Belo Horizonte,MG
+224,2024-04-17,Camisa Social,Roupas,168.1,1,São Paulo,SP
+225,2024-03-11,Vestido,Roupas,163.64,2,São Paulo,SP
+226,2024-07-06,Tênis,Calçados,40.09,5,Rio de Janeiro,RJ
+227,2023-08-31,Saia,Roupas,106.87,5,São Paulo,SP
+228,2024-03-31,Tênis,Calçados,75.71,1,Curitiba,PR
+229,2024-06-28,Blusa,Roupas,28.48,4,Fortaleza,CE
+230,2023-12-22,Vestido,Roupas,43.85,3,Recife,PE
+231,2023-12-10,Saia,Roupas,69.46,3,Recife,PE
+232,2024-02-14,Tênis,Calçados,182.54,4,Recife,PE
+233,2023-11-11,Calça Jeans,Roupas,173.57,4,Porto Alegre,RS
+234,2023-11-22,Blusa,Roupas,135.4,3,Rio de Janeiro,RJ
+235,2024-04-10,Calça Jeans,Roupas,59.93,5,Manaus,AM
+236,2024-06-09,Moletom,Roupas,196.33,4,Fortaleza,CE
+237,2023-11-18,Calça Jeans,Roupas,167.47,2,Belo Horizonte,MG
+238,2023-10-10,Calça Jeans,Roupas,133.86,5,Recife,PE
+239,2023-12-05,Saia,Roupas,44.84,5,São Paulo,SP
+240,2024-06-29,Bermuda,Roupas,138.45,5,Rio de Janeiro,RJ
+241,2024-04-13,Camisa Social,Roupas,168.36,2,Salvador,BA
+242,2024-05-11,Bermuda,Roupas,73.77,3,Rio de Janeiro,RJ
+243,2023-12-07,Casaco,Roupas,152.65,3,São Paulo,SP
+244,2024-03-11,Casaco,Roupas,146.43,3,São Paulo,SP
+245,2023-10-25,Moletom,Roupas,67.01,4,Salvador,BA
+246,2023-09-08,Camisa Social,Roupas,57.15,5,Curitiba,PR
+247,2024-03-29,Casaco,Roupas,33.85,4,Fortaleza,CE
+248,2023-12-23,Vestido,Roupas,36.12,5,Recife,PE
+249,2023-12-31,Tênis,Calçados,116.09,1,Porto Alegre,RS
+250,2024-07-11,Vestido,Roupas,99.01,2,Porto Alegre,RS
+251,2024-02-03,Casaco,Roupas,94.18,2,Fortaleza,CE
+252,2024-01-13,Saia,Roupas,189.74,3,Curitiba,PR
+253,2023-09-23,Saia,Roupas,112.39,2,Manaus,AM
+254,2024-03-20,Moletom,Roupas,45.7,1,São Paulo,SP
+255,2023-12-17,Blusa,Roupas,164.04,2,Salvador,BA
+256,2023-12-11,Bermuda,Roupas,80.24,4,Manaus,AM
+257,2024-04-23,Moletom,Roupas,146.61,2,Belo Horizonte,MG
+258,2024-01-01,Casaco,Roupas,87.83,5,Manaus,AM
+259,2023-11-18,Saia,Roupas,165.16,3,Porto Alegre,RS
+260,2024-02-16,Bermuda,Roupas,78.81,5,Salvador,BA
+261,2023-10-20,Camiseta,Roupas,154.68,5,Recife,PE
+262,2023-11-07,Moletom,Roupas,194.01,1,Manaus,AM
+263,2024-05-16,Blusa,Roupas,91.4,5,Goiânia,GO
+264,2024-02-19,Tênis,Calçados,163.09,4,Salvador,BA
+265,2023-09-18,Moletom,Roupas,150.59,4,São Paulo,SP
+266,2024-02-01,Casaco,Roupas,80.91,5,Fortaleza,CE
+267,2024-06-21,Casaco,Roupas,190.7,5,São Paulo,SP
+268,2024-04-29,Saia,Roupas,80.42,5,Manaus,AM
+269,2024-08-04,Calça Jeans,Roupas,65.57,2,São Paulo,SP
+270,2024-06-11,Calça Jeans,Roupas,126.53,1,Porto Alegre,RS
+271,2024-02-28,Blusa,Roupas,43.63,3,Goiânia,GO
+272,2024-08-05,Moletom,Roupas,112.23,3,São Paulo,SP
+273,2024-05-17,Moletom,Roupas,86.51,2,Fortaleza,CE
+274,2024-05-01,Tênis,Calçados,131.32,2,Goiânia,GO
+275,2023-11-06,Casaco,Roupas,178.21,2,Rio de Janeiro,RJ
+276,2024-04-18,Calça Jeans,Roupas,84.55,4,Salvador,BA
+277,2023-08-16,Vestido,Roupas,175.44,3,Goiânia,GO
+278,2024-04-17,Casaco,Roupas,192.21,3,Fortaleza,CE
+279,2024-06-09,Calça Jeans,Roupas,183.42,4,Recife,PE
+280,2024-06-27,Bermuda,Roupas,118.25,1,Curitiba,PR
+281,2024-07-26,Camisa Social,Roupas,74.86,5,Porto Alegre,RS
+282,2024-06-14,Vestido,Roupas,61.12,4,Manaus,AM
+283,2023-09-02,Tênis,Calçados,119.38,1,Recife,PE
+284,2023-12-30,Camisa Social,Roupas,188.39,2,Recife,PE
+285,2024-07-05,Tênis,Calçados,43.37,2,Fortaleza,CE
+286,2023-08-31,Tênis,Calçados,131.39,1,Belo Horizonte,MG
+287,2024-01-24,Camisa Social,Roupas,122.38,4,Salvador,BA
+288,2024-07-19,Tênis,Calçados,63.64,1,Salvador,BA
+289,2024-05-18,Blusa,Roupas,73.5,3,Manaus,AM
+290,2023-10-06,Blusa,Roupas,39.96,1,São Paulo,SP
+291,2024-01-25,Moletom,Roupas,93.35,2,Fortaleza,CE
+292,2023-08-22,Camiseta,Roupas,129.57,5,Salvador,BA
+293,2023-10-02,Blusa,Roupas,52.21,2,Recife,PE
+294,2023-11-03,Blusa,Roupas,136.89,2,Belo Horizonte,MG
+295,2024-05-09,Vestido,Roupas,160.73,5,Rio de Janeiro,RJ
+296,2024-02-15,Blusa,Roupas,147.15,5,Salvador,BA
+297,2023-08-23,Camisa Social,Roupas,122.28,5,Porto Alegre,RS
+298,2024-05-09,Calça Jeans,Roupas,75.02,3,Goiânia,GO
+299,2023-12-25,Camisa Social,Roupas,154.91,2,Curitiba,PR
+300,2024-06-13,Camiseta,Roupas,125.87,4,Salvador,BA
+301,2024-06-29,Casaco,Roupas,134.94,5,Recife,PE
+302,2024-01-23,Vestido,Roupas,125.71,2,Recife,PE
+303,2023-09-09,Vestido,Roupas,100.89,3,Rio de Janeiro,RJ
+304,2023-10-29,Camiseta,Roupas,45.81,5,Porto Alegre,RS
+305,2023-11-06,Camisa Social,Roupas,109.55,3,Porto Alegre,RS
+306,2023-09-25,Moletom,Roupas,198.8,2,São Paulo,SP
+307,2024-07-02,Vestido,Roupas,83.57,1,Salvador,BA
+308,2023-11-24,Calça Jeans,Roupas,119.4,5,São Paulo,SP
+309,2024-07-14,Camiseta,Roupas,193.89,5,Fortaleza,CE
+310,2023-12-30,Vestido,Roupas,183.24,3,Curitiba,PR
+311,2024-03-16,Saia,Roupas,144.58,2,Porto Alegre,RS
+312,2024-04-29,Moletom,Roupas,91.94,4,Fortaleza,CE
+313,2024-06-15,Vestido,Roupas,85.24,4,São Paulo,SP
+314,2024-01-28,Saia,Roupas,123.47,5,Recife,PE
+315,2024-01-28,Camisa Social,Roupas,60.9,2,Salvador,BA
+316,2024-03-22,Camisa Social,Roupas,92.52,4,Goiânia,GO
+317,2024-06-18,Blusa,Roupas,178.55,1,Curitiba,PR
+318,2024-07-12,Casaco,Roupas,116.3,2,Goiânia,GO
+319,2024-03-26,Saia,Roupas,153.73,5,Salvador,BA
+320,2024-03-18,Tênis,Calçados,179.25,4,Manaus,AM
+321,2024-08-06,Saia,Roupas,133.61,2,Salvador,BA
+322,2023-11-23,Saia,Roupas,106.02,4,Curitiba,PR
+323,2023-09-18,Camiseta,Roupas,191.84,1,Manaus,AM
+324,2023-11-19,Casaco,Roupas,90.69,2,Manaus,AM
+325,2024-04-21,Vestido,Roupas,37.65,3,Goiânia,GO
+326,2024-07-07,Casaco,Roupas,61.3,3,Rio de Janeiro,RJ
+327,2023-11-12,Vestido,Roupas,115.66,4,Goiânia,GO
+328,2024-02-23,Vestido,Roupas,102.43,5,Recife,PE
+329,2023-08-25,Vestido,Roupas,52.63,5,Manaus,AM
+330,2024-04-06,Bermuda,Roupas,167.5,4,Belo Horizonte,MG
+331,2024-05-10,Tênis,Calçados,47.46,2,São Paulo,SP
+332,2024-08-02,Casaco,Roupas,173.02,3,Belo Horizonte,MG
+333,2023-11-28,Blusa,Roupas,99.24,2,São Paulo,SP
+334,2024-04-12,Camisa Social,Roupas,67.93,3,Porto Alegre,RS
+335,2023-11-14,Casaco,Roupas,63.18,2,Manaus,AM
+336,2024-05-14,Casaco,Roupas,87.86,4,Manaus,AM
+337,2024-07-08,Bermuda,Roupas,38.31,5,Rio de Janeiro,RJ
+338,2023-09-14,Tênis,Calçados,178.51,5,São Paulo,SP
+339,2024-03-05,Saia,Roupas,120.26,5,Porto Alegre,RS
+340,2023-10-22,Bermuda,Roupas,46.23,2,Manaus,AM
+341,2024-02-08,Saia,Roupas,47.16,4,Salvador,BA
+342,2024-03-26,Calça Jeans,Roupas,142.17,4,Salvador,BA
+343,2024-02-26,Tênis,Calçados,163.37,5,Rio de Janeiro,RJ
+344,2024-07-09,Camisa Social,Roupas,44.25,5,Manaus,AM
+345,2024-05-02,Camiseta,Roupas,76.24,4,Rio de Janeiro,RJ
+346,2023-08-10,Bermuda,Roupas,175.1,5,Fortaleza,CE
+347,2024-03-22,Moletom,Roupas,122.74,5,Rio de Janeiro,RJ
+348,2023-10-31,Moletom,Roupas,77.06,2,Belo Horizonte,MG
+349,2024-07-26,Saia,Roupas,65.91,5,São Paulo,SP
+350,2024-04-06,Calça Jeans,Roupas,155.07,1,Curitiba,PR
+351,2023-11-08,Casaco,Roupas,93.91,2,Rio de Janeiro,RJ
+352,2023-11-13,Casaco,Roupas,140.04,2,Salvador,BA
+353,2024-05-03,Camiseta,Roupas,106.27,5,Salvador,BA
+354,2023-11-16,Saia,Roupas,170.25,2,Goiânia,GO
+355,2024-06-06,Moletom,Roupas,81.44,1,Manaus,AM
+356,2024-06-27,Calça Jeans,Roupas,75.93,2,Rio de Janeiro,RJ
+357,2024-02-18,Moletom,Roupas,148.42,5,Belo Horizonte,MG
+358,2024-02-27,Casaco,Roupas,118.73,1,Manaus,AM
+359,2024-06-20,Camisa Social,Roupas,192.25,2,Fortaleza,CE
+360,2023-08-19,Tênis,Calçados,63.51,2,Fortaleza,CE
+361,2024-01-14,Casaco,Roupas,181.38,1,São Paulo,SP
+362,2023-11-13,Casaco,Roupas,190.14,3,Manaus,AM
+363,2023-08-09,Tênis,Calçados,76.51,1,Curitiba,PR
+364,2024-03-29,Camiseta,Roupas,96.56,4,Rio de Janeiro,RJ
+365,2024-03-27,Moletom,Roupas,109.9,3,São Paulo,SP
+366,2024-02-25,Blusa,Roupas,73.52,3,Rio de Janeiro,RJ
+367,2024-08-01,Bermuda,Roupas,88.99,3,São Paulo,SP
+368,2023-12-26,Camisa Social,Roupas,70.48,4,Belo Horizonte,MG
+369,2024-04-05,Camiseta,Roupas,199.57,1,Fortaleza,CE
+370,2024-07-14,Camiseta,Roupas,118.47,4,Rio de Janeiro,RJ
+371,2024-07-24,Vestido,Roupas,128.07,2,São Paulo,SP
+372,2024-02-17,Bermuda,Roupas,148.8,1,Fortaleza,CE
+373,2023-09-16,Blusa,Roupas,111.85,5,Belo Horizonte,MG
+374,2023-12-08,Camisa Social,Roupas,152.3,3,Fortaleza,CE
+375,2023-10-17,Blusa,Roupas,182.23,1,Goiânia,GO
+376,2024-07-03,Tênis,Calçados,167.63,2,Manaus,AM
+377,2023-10-31,Bermuda,Roupas,57.44,4,Recife,PE
+378,2023-10-13,Camisa Social,Roupas,55.23,4,Porto Alegre,RS
+379,2024-01-20,Tênis,Calçados,122.79,1,Goiânia,GO
+380,2023-11-02,Bermuda,Roupas,76.71,3,Recife,PE
+381,2024-01-22,Saia,Roupas,111.73,4,Curitiba,PR
+382,2024-01-17,Bermuda,Roupas,101.12,2,Porto Alegre,RS
+383,2024-06-12,Blusa,Roupas,131.65,5,Fortaleza,CE
+384,2023-12-03,Moletom,Roupas,93.43,3,Goiânia,GO
+385,2024-07-10,Casaco,Roupas,53.94,2,Salvador,BA
+386,2023-08-25,Moletom,Roupas,36.93,1,Belo Horizonte,MG
+387,2023-09-08,Vestido,Roupas,130.41,3,Manaus,AM
+388,2024-02-25,Casaco,Roupas,69.57,2,Rio de Janeiro,RJ
+389,2023-08-17,Moletom,Roupas,57.95,4,Curitiba,PR
+390,2024-05-10,Camiseta,Roupas,80.42,3,Recife,PE
+391,2024-06-19,Moletom,Roupas,151.75,3,Belo Horizonte,MG
+392,2024-06-12,Moletom,Roupas,117.28,5,Fortaleza,CE
+393,2024-05-12,Tênis,Calçados,113.61,3,Belo Horizonte,MG
+394,2024-02-15,Saia,Roupas,45.83,1,Porto Alegre,RS
+395,2023-09-23,Moletom,Roupas,121.06,5,São Paulo,SP
+396,2024-01-26,Saia,Roupas,63.28,2,Porto Alegre,RS
+397,2024-06-25,Saia,Roupas,92.14,3,Manaus,AM
+398,2024-07-07,Moletom,Roupas,170.59,4,Fortaleza,CE
+399,2024-05-15,Tênis,Calçados,42.65,3,Porto Alegre,RS
+400,2023-08-19,Tênis,Calçados,122.77,2,São Paulo,SP
+401,2024-08-04,Vestido,Roupas,54.83,4,Salvador,BA
+402,2023-12-31,Bermuda,Roupas,142.98,5,Goiânia,GO
+403,2023-08-11,Camiseta,Roupas,139.62,1,Fortaleza,CE
+404,2023-11-05,Moletom,Roupas,66.12,1,Porto Alegre,RS
+405,2024-06-15,Camiseta,Roupas,167.7,1,Salvador,BA
+406,2023-10-19,Saia,Roupas,122.88,5,Manaus,AM
+407,2023-12-27,Calça Jeans,Roupas,94.52,1,Recife,PE
+408,2023-08-24,Bermuda,Roupas,49.63,2,Belo Horizonte,MG
+409,2024-07-05,Casaco,Roupas,23.49,3,Goiânia,GO
+410,2024-02-01,Moletom,Roupas,81.01,1,Porto Alegre,RS
+411,2024-01-27,Blusa,Roupas,86.59,1,Curitiba,PR
+412,2024-03-03,Saia,Roupas,90.06,1,São Paulo,SP
+413,2023-10-23,Casaco,Roupas,100.19,4,São Paulo,SP
+414,2024-04-13,Tênis,Calçados,189.9,4,Curitiba,PR
+415,2023-10-16,Camisa Social,Roupas,46.3,3,Curitiba,PR
+416,2023-12-30,Calça Jeans,Roupas,134.27,1,Salvador,BA
+417,2023-09-15,Moletom,Roupas,102.36,1,Curitiba,PR
+418,2023-10-22,Camiseta,Roupas,194.07,5,Goiânia,GO
+419,2024-01-13,Casaco,Roupas,55.7,3,São Paulo,SP
+420,2024-02-16,Moletom,Roupas,45.83,4,Salvador,BA
+421,2024-01-27,Blusa,Roupas,196.45,1,Manaus,AM
+422,2023-10-12,Blusa,Roupas,168.27,4,Recife,PE
+423,2024-01-23,Bermuda,Roupas,82.58,4,Curitiba,PR
+424,2023-09-09,Vestido,Roupas,124.22,5,Goiânia,GO
+425,2024-07-14,Casaco,Roupas,134.41,1,Rio de Janeiro,RJ
+426,2024-07-21,Vestido,Roupas,158.47,5,Salvador,BA
+427,2024-07-18,Bermuda,Roupas,180.94,5,Fortaleza,CE
+428,2024-01-16,Casaco,Roupas,101.48,1,Curitiba,PR
+429,2024-02-15,Calça Jeans,Roupas,97.34,4,Goiânia,GO
+430,2024-03-31,Calça Jeans,Roupas,181.5,3,Manaus,AM
+431,2023-10-07,Casaco,Roupas,167.22,3,Salvador,BA
+432,2023-08-19,Camiseta,Roupas,141.77,3,Fortaleza,CE
+433,2024-06-29,Casaco,Roupas,198.57,3,Rio de Janeiro,RJ
+434,2024-06-24,Saia,Roupas,172.07,2,Manaus,AM
+435,2023-10-24,Camisa Social,Roupas,108.19,3,Salvador,BA
+436,2024-01-26,Calça Jeans,Roupas,124.13,5,Manaus,AM
+437,2023-12-17,Bermuda,Roupas,192.35,2,Goiânia,GO
+438,2023-10-07,Saia,Roupas,54.1,2,Belo Horizonte,MG
+439,2024-01-04,Casaco,Roupas,80.58,5,Fortaleza,CE
+440,2024-04-15,Blusa,Roupas,72.39,1,São Paulo,SP
+441,2024-02-27,Moletom,Roupas,135.61,1,Rio de Janeiro,RJ
+442,2023-11-10,Casaco,Roupas,70.71,2,Belo Horizonte,MG
+443,2024-01-13,Saia,Roupas,192.28,3,Curitiba,PR
+444,2023-10-22,Saia,Roupas,166.87,3,Recife,PE
+445,2024-05-05,Blusa,Roupas,97.84,4,Goiânia,GO
+446,2023-08-11,Saia,Roupas,137.42,2,Recife,PE
+447,2024-07-16,Camisa Social,Roupas,79.57,4,Recife,PE
+448,2023-10-08,Tênis,Calçados,58.26,1,Recife,PE
+449,2024-02-11,Camisa Social,Roupas,144.79,4,Porto Alegre,RS
+450,2023-09-23,Calça Jeans,Roupas,71.14,3,Manaus,AM
+451,2024-03-29,Saia,Roupas,88.88,1,Fortaleza,CE
+452,2023-12-19,Bermuda,Roupas,154.23,4,Fortaleza,CE
+453,2024-02-16,Casaco,Roupas,52.12,2,Fortaleza,CE
+454,2023-11-16,Bermuda,Roupas,94.83,4,Belo Horizonte,MG
+455,2024-07-29,Moletom,Roupas,95.65,3,Belo Horizonte,MG
+456,2023-09-24,Vestido,Roupas,75.19,2,Manaus,AM
+457,2023-10-09,Calça Jeans,Roupas,81.12,1,Fortaleza,CE
+458,2024-03-30,Saia,Roupas,40.12,4,Recife,PE
+459,2024-06-13,Blusa,Roupas,66.75,1,Rio de Janeiro,RJ
+460,2024-07-06,Camisa Social,Roupas,81.74,1,São Paulo,SP
+461,2024-06-20,Camiseta,Roupas,33.01,1,Recife,PE
+462,2024-07-01,Bermuda,Roupas,77.71,3,Manaus,AM
+463,2023-08-21,Moletom,Roupas,115.01,4,Manaus,AM
+464,2023-09-07,Moletom,Roupas,136.05,5,Rio de Janeiro,RJ
+465,2023-10-29,Camiseta,Roupas,103.56,4,Fortaleza,CE
+466,2024-01-10,Moletom,Roupas,109.59,2,Recife,PE
+467,2024-05-06,Calça Jeans,Roupas,67.51,2,Manaus,AM
+468,2024-04-22,Calça Jeans,Roupas,160.24,4,Fortaleza,CE
+469,2024-02-21,Camisa Social,Roupas,160.02,3,Fortaleza,CE
+470,2023-10-22,Casaco,Roupas,124.03,4,Goiânia,GO
+471,2024-07-09,Saia,Roupas,118.38,4,Rio de Janeiro,RJ
+472,2024-01-25,Calça Jeans,Roupas,112.5,2,Goiânia,GO
+473,2023-12-06,Casaco,Roupas,118.18,1,Recife,PE
+474,2024-03-15,Tênis,Calçados,133.25,2,Goiânia,GO
+475,2024-01-18,Bermuda,Roupas,48.74,3,Goiânia,GO
+476,2024-03-23,Tênis,Calçados,43.77,2,Recife,PE
+477,2024-05-15,Saia,Roupas,43.27,1,Curitiba,PR
+478,2024-01-27,Calça Jeans,Roupas,160.92,3,Salvador,BA
+479,2024-01-06,Casaco,Roupas,196.63,3,Porto Alegre,RS
+480,2023-10-30,Vestido,Roupas,131.09,5,São Paulo,SP
+481,2023-09-02,Blusa,Roupas,79.65,1,Recife,PE
+482,2024-05-23,Bermuda,Roupas,87.29,1,Curitiba,PR
+483,2023-09-26,Bermuda,Roupas,84.43,1,Manaus,AM
+484,2023-08-31,Camisa Social,Roupas,119.86,4,Belo Horizonte,MG
+485,2023-09-11,Bermuda,Roupas,111.02,4,Goiânia,GO
+486,2024-06-15,Calça Jeans,Roupas,52.56,1,Belo Horizonte,MG
+487,2023-10-30,Moletom,Roupas,48.74,4,Curitiba,PR
+488,2024-07-28,Vestido,Roupas,158.98,1,Belo Horizonte,MG
+489,2023-12-12,Blusa,Roupas,121.54,5,Curitiba,PR
+490,2023-10-13,Saia,Roupas,124.79,4,Porto Alegre,RS
+491,2023-11-15,Bermuda,Roupas,55.75,2,Curitiba,PR
+492,2024-01-01,Vestido,Roupas,83.49,5,Rio de Janeiro,RJ
+493,2023-11-06,Camiseta,Roupas,55.27,5,Porto Alegre,RS
+494,2023-10-16,Vestido,Roupas,175.77,4,Curitiba,PR
+495,2024-07-04,Tênis,Calçados,189.81,2,São Paulo,SP
+496,2024-01-07,Calça Jeans,Roupas,189.88,5,Belo Horizonte,MG
+497,2024-03-01,Tênis,Calçados,81.05,3,Porto Alegre,RS
+498,2024-05-29,Moletom,Roupas,150.91,2,Manaus,AM
+499,2023-11-23,Saia,Roupas,97.66,3,Recife,PE
+500,2024-04-20,Vestido,Roupas,100.01,4,Belo Horizonte,MG
+501,2024-01-17,Casaco,Roupas,90.43,2,Recife,PE
+502,2023-09-22,Casaco,Roupas,92.48,3,Salvador,BA
+503,2023-12-19,Camiseta,Roupas,188.95,5,Porto Alegre,RS
+504,2023-11-03,Tênis,Calçados,179.6,1,Manaus,AM
+505,2024-03-31,Camiseta,Roupas,45.68,5,Belo Horizonte,MG
+506,2024-02-18,Bermuda,Roupas,148.26,1,Belo Horizonte,MG
+507,2023-11-12,Camisa Social,Roupas,119.33,1,Fortaleza,CE
+508,2023-11-15,Moletom,Roupas,132.76,1,Manaus,AM
+509,2024-04-27,Tênis,Calçados,20.49,2,Salvador,BA
+510,2024-06-15,Camisa Social,Roupas,133.68,4,Goiânia,GO
+511,2023-09-06,Bermuda,Roupas,43.48,5,Fortaleza,CE
+512,2023-12-23,Saia,Roupas,48.56,1,Recife,PE
+513,2023-08-13,Calça Jeans,Roupas,21.39,5,Porto Alegre,RS
+514,2023-12-07,Blusa,Roupas,22.47,4,Recife,PE
+515,2024-03-28,Moletom,Roupas,30.17,2,Fortaleza,CE
+516,2024-07-24,Moletom,Roupas,61.81,2,Goiânia,GO
+517,2024-06-27,Vestido,Roupas,61.14,2,Rio de Janeiro,RJ
+518,2024-01-19,Vestido,Roupas,165.25,2,Rio de Janeiro,RJ
+519,2024-02-22,Blusa,Roupas,166.5,4,Curitiba,PR
+520,2024-01-10,Vestido,Roupas,108.58,4,Belo Horizonte,MG
+521,2024-04-08,Blusa,Roupas,56.09,3,Goiânia,GO
+522,2024-01-30,Calça Jeans,Roupas,111.13,1,Rio de Janeiro,RJ
+523,2023-10-02,Saia,Roupas,65.15,5,Recife,PE
+524,2023-11-25,Moletom,Roupas,106.38,4,Recife,PE
+525,2024-04-21,Saia,Roupas,31.54,5,São Paulo,SP
+526,2024-07-27,Blusa,Roupas,140.26,5,Manaus,AM
+527,2024-03-23,Camisa Social,Roupas,93.1,1,São Paulo,SP
+528,2023-10-31,Casaco,Roupas,98.07,2,Belo Horizonte,MG
+529,2023-08-17,Casaco,Roupas,38.56,5,Fortaleza,CE
+530,2024-05-23,Moletom,Roupas,162.59,1,Belo Horizonte,MG
+531,2024-07-01,Tênis,Calçados,47.67,4,Salvador,BA
+532,2023-10-20,Tênis,Calçados,190.97,3,Salvador,BA
+533,2024-03-20,Saia,Roupas,113.56,4,Rio de Janeiro,RJ
+534,2023-10-13,Calça Jeans,Roupas,175.44,1,Goiânia,GO
+535,2024-03-02,Camiseta,Roupas,144.93,5,Manaus,AM
+536,2023-11-11,Vestido,Roupas,40.35,3,Curitiba,PR
+537,2023-08-14,Saia,Roupas,73.33,5,Rio de Janeiro,RJ
+538,2023-12-14,Moletom,Roupas,60.69,4,Fortaleza,CE
+539,2024-02-04,Blusa,Roupas,28.42,4,Salvador,BA
+540,2023-08-13,Bermuda,Roupas,152.72,3,Goiânia,GO
+541,2023-12-26,Moletom,Roupas,106.1,3,Recife,PE
+542,2024-03-19,Blusa,Roupas,177.96,1,Curitiba,PR
+543,2024-04-25,Moletom,Roupas,157.68,5,Rio de Janeiro,RJ
+544,2023-12-12,Blusa,Roupas,70.41,4,Rio de Janeiro,RJ
+545,2024-04-20,Calça Jeans,Roupas,46.06,4,Rio de Janeiro,RJ
+546,2024-05-04,Casaco,Roupas,44.93,5,São Paulo,SP
+547,2023-12-23,Casaco,Roupas,119.47,4,Porto Alegre,RS
+548,2023-09-30,Camisa Social,Roupas,73.46,4,Goiânia,GO
+549,2024-05-15,Moletom,Roupas,145.57,2,Goiânia,GO
+550,2024-05-04,Vestido,Roupas,124.91,1,Salvador,BA
+551,2023-09-20,Vestido,Roupas,50.22,3,Goiânia,GO
+552,2024-01-05,Tênis,Calçados,38.06,3,Fortaleza,CE
+553,2023-11-26,Calça Jeans,Roupas,134.55,1,Curitiba,PR
+554,2023-08-18,Vestido,Roupas,180.05,4,Porto Alegre,RS
+555,2024-02-23,Camisa Social,Roupas,151.11,5,Curitiba,PR
+556,2024-04-22,Calça Jeans,Roupas,186.12,4,Porto Alegre,RS
+557,2024-07-20,Bermuda,Roupas,192.88,5,Goiânia,GO
+558,2023-10-27,Calça Jeans,Roupas,138.2,2,Curitiba,PR
+559,2024-03-30,Bermuda,Roupas,113.43,2,Curitiba,PR
+560,2024-02-24,Blusa,Roupas,148.93,5,Fortaleza,CE
+561,2023-11-29,Casaco,Roupas,84.16,2,Belo Horizonte,MG
+562,2024-07-30,Bermuda,Roupas,187.58,2,Fortaleza,CE
+563,2024-06-30,Camiseta,Roupas,34.02,1,São Paulo,SP
+564,2023-10-06,Camisa Social,Roupas,175.64,1,Porto Alegre,RS
+565,2024-01-29,Camiseta,Roupas,102.45,5,Goiânia,GO
+566,2023-10-20,Tênis,Calçados,117.98,2,Curitiba,PR
+567,2024-08-04,Moletom,Roupas,44.98,2,Rio de Janeiro,RJ
+568,2024-01-31,Casaco,Roupas,177.61,4,Porto Alegre,RS
+569,2024-05-05,Calça Jeans,Roupas,168.83,1,Curitiba,PR
+570,2024-04-08,Casaco,Roupas,23.16,2,Goiânia,GO
+571,2023-10-18,Vestido,Roupas,45.67,5,Porto Alegre,RS
+572,2024-01-14,Camisa Social,Roupas,155.89,4,Fortaleza,CE
+573,2024-03-27,Saia,Roupas,70.98,5,São Paulo,SP
+574,2024-02-25,Moletom,Roupas,32.18,5,São Paulo,SP
+575,2024-06-02,Tênis,Calçados,35.72,4,Rio de Janeiro,RJ
+576,2024-03-23,Calça Jeans,Roupas,139.32,1,Rio de Janeiro,RJ
+577,2023-12-16,Camisa Social,Roupas,183.38,1,Fortaleza,CE
+578,2024-05-02,Saia,Roupas,47.5,3,Fortaleza,CE
+579,2024-01-04,Tênis,Calçados,183.21,4,Fortaleza,CE
+580,2024-03-29,Blusa,Roupas,23.69,2,Goiânia,GO
+581,2024-05-24,Tênis,Calçados,111.97,1,Rio de Janeiro,RJ
+582,2023-08-16,Bermuda,Roupas,92.07,2,Fortaleza,CE
+583,2024-02-21,Casaco,Roupas,140.68,5,Porto Alegre,RS
+584,2024-07-20,Saia,Roupas,110.67,2,Rio de Janeiro,RJ
+585,2024-05-09,Moletom,Roupas,190.48,1,Salvador,BA
+586,2024-03-05,Calça Jeans,Roupas,119.08,2,Porto Alegre,RS
+587,2024-03-06,Blusa,Roupas,94.1,4,Porto Alegre,RS
+588,2023-11-10,Tênis,Calçados,64.9,2,Recife,PE
+589,2024-03-16,Bermuda,Roupas,164.74,2,Curitiba,PR
+590,2024-04-02,Blusa,Roupas,153.2,1,Salvador,BA
+591,2024-05-09,Casaco,Roupas,199.53,5,Salvador,BA
+592,2023-11-28,Moletom,Roupas,78.52,2,Curitiba,PR
+593,2023-11-29,Bermuda,Roupas,199.08,3,Belo Horizonte,MG
+594,2024-07-27,Casaco,Roupas,116.98,3,Fortaleza,CE
+595,2024-02-21,Camiseta,Roupas,99.34,4,Manaus,AM
+596,2023-09-08,Camisa Social,Roupas,161.93,1,Manaus,AM
+597,2024-06-15,Blusa,Roupas,86.92,1,Goiânia,GO
+598,2023-08-30,Calça Jeans,Roupas,180.56,1,Belo Horizonte,MG
+599,2023-11-07,Calça Jeans,Roupas,65.13,3,Salvador,BA
+600,2023-11-13,Camiseta,Roupas,43.79,2,Curitiba,PR
+601,2024-05-11,Calça Jeans,Roupas,151.43,1,Fortaleza,CE
+602,2023-10-11,Vestido,Roupas,159.83,3,Recife,PE
+603,2024-07-26,Camiseta,Roupas,69.06,3,Recife,PE
+604,2024-02-09,Casaco,Roupas,68.44,4,Rio de Janeiro,RJ
+605,2023-10-12,Camisa Social,Roupas,63.97,4,Manaus,AM
+606,2024-03-07,Tênis,Calçados,63.83,2,Recife,PE
+607,2024-04-03,Camisa Social,Roupas,177.43,1,Manaus,AM
+608,2023-12-27,Camiseta,Roupas,160.09,1,Rio de Janeiro,RJ
+609,2024-02-13,Saia,Roupas,28.87,2,Curitiba,PR
+610,2023-12-14,Blusa,Roupas,86.08,3,Salvador,BA
+611,2024-04-27,Camisa Social,Roupas,21.32,4,Belo Horizonte,MG
+612,2023-12-16,Tênis,Calçados,79.14,2,Curitiba,PR
+613,2024-03-05,Tênis,Calçados,193.54,5,Curitiba,PR
+614,2024-04-07,Tênis,Calçados,195.56,1,Salvador,BA
+615,2023-09-14,Moletom,Roupas,64.03,1,Fortaleza,CE
+616,2024-06-21,Bermuda,Roupas,49.57,5,Curitiba,PR
+617,2024-04-09,Camisa Social,Roupas,195.98,4,Goiânia,GO
+618,2023-12-26,Camisa Social,Roupas,115.95,3,Fortaleza,CE
+619,2024-06-16,Blusa,Roupas,83.53,5,São Paulo,SP
+620,2023-08-18,Casaco,Roupas,75.47,2,Recife,PE
+621,2023-12-10,Moletom,Roupas,47.55,1,Belo Horizonte,MG
+622,2023-10-08,Saia,Roupas,110.56,2,Porto Alegre,RS
+623,2024-06-13,Tênis,Calçados,32.14,5,Curitiba,PR
+624,2023-09-25,Camiseta,Roupas,187.32,3,Fortaleza,CE
+625,2023-11-05,Blusa,Roupas,143.48,4,Curitiba,PR
+626,2024-05-23,Saia,Roupas,116.88,3,Fortaleza,CE
+627,2023-09-16,Camisa Social,Roupas,131.57,1,Recife,PE
+628,2023-09-05,Bermuda,Roupas,108.87,3,Rio de Janeiro,RJ
+629,2024-07-08,Moletom,Roupas,78.04,4,São Paulo,SP
+630,2024-01-07,Tênis,Calçados,40.98,4,Curitiba,PR
+631,2024-06-05,Camiseta,Roupas,66.38,1,São Paulo,SP
+632,2024-03-20,Calça Jeans,Roupas,158.03,5,São Paulo,SP
+633,2024-08-01,Tênis,Calçados,182.34,4,Recife,PE
+634,2024-03-20,Blusa,Roupas,45.37,3,Porto Alegre,RS
+635,2024-04-23,Blusa,Roupas,52.42,4,Manaus,AM
+636,2023-11-29,Bermuda,Roupas,108.56,5,Manaus,AM
+637,2023-08-19,Blusa,Roupas,176.61,5,Fortaleza,CE
+638,2024-06-28,Vestido,Roupas,36.12,4,São Paulo,SP
+639,2023-12-08,Camisa Social,Roupas,155.35,3,Recife,PE
+640,2024-03-22,Tênis,Calçados,25.6,4,Curitiba,PR
+641,2023-08-09,Moletom,Roupas,121.79,1,Fortaleza,CE
+642,2024-04-10,Tênis,Calçados,123.73,2,São Paulo,SP
+643,2024-01-20,Tênis,Calçados,39.66,1,São Paulo,SP
+644,2024-01-19,Saia,Roupas,54.26,1,São Paulo,SP
+645,2024-04-22,Saia,Roupas,192.04,1,Salvador,BA
+646,2024-07-16,Calça Jeans,Roupas,53.12,1,Curitiba,PR
+647,2023-12-30,Blusa,Roupas,88.11,4,Rio de Janeiro,RJ
+648,2024-01-29,Calça Jeans,Roupas,172.11,5,São Paulo,SP
+649,2023-09-06,Camisa Social,Roupas,44.26,5,Porto Alegre,RS
+650,2024-07-20,Blusa,Roupas,103.8,1,Fortaleza,CE
+651,2024-04-10,Calça Jeans,Roupas,192.08,4,São Paulo,SP
+652,2024-07-02,Tênis,Calçados,31.16,3,Manaus,AM
+653,2024-02-23,Camiseta,Roupas,105.71,3,Rio de Janeiro,RJ
+654,2023-11-19,Moletom,Roupas,169.64,2,Fortaleza,CE
+655,2024-03-27,Saia,Roupas,121.73,5,Recife,PE
+656,2023-11-16,Bermuda,Roupas,84.95,1,Recife,PE
+657,2024-06-17,Saia,Roupas,103.76,2,Rio de Janeiro,RJ
+658,2024-04-19,Moletom,Roupas,80.99,1,Salvador,BA
+659,2024-06-18,Calça Jeans,Roupas,106.09,1,Salvador,BA
+660,2024-05-01,Calça Jeans,Roupas,65.19,2,Porto Alegre,RS
+661,2023-10-04,Moletom,Roupas,157.59,2,Belo Horizonte,MG
+662,2024-07-11,Bermuda,Roupas,83.79,5,Curitiba,PR
+663,2024-03-12,Blusa,Roupas,197.41,4,Fortaleza,CE
+664,2024-07-08,Casaco,Roupas,86.15,4,Curitiba,PR
+665,2023-09-26,Camisa Social,Roupas,140.45,1,Goiânia,GO
+666,2023-11-18,Saia,Roupas,105.99,1,Fortaleza,CE
+667,2023-09-22,Camiseta,Roupas,179.47,4,Porto Alegre,RS
+668,2024-03-12,Casaco,Roupas,32.78,3,Rio de Janeiro,RJ
+669,2024-06-21,Moletom,Roupas,119.14,5,São Paulo,SP
+670,2024-04-21,Camisa Social,Roupas,187.9,4,Manaus,AM
+671,2023-10-14,Vestido,Roupas,73.23,2,Porto Alegre,RS
+672,2024-02-27,Calça Jeans,Roupas,145.76,4,São Paulo,SP
+673,2024-01-11,Camisa Social,Roupas,74.19,4,Manaus,AM
+674,2023-12-17,Moletom,Roupas,73.39,1,Porto Alegre,RS
+675,2024-06-22,Bermuda,Roupas,123.45,1,Belo Horizonte,MG
+676,2023-08-22,Calça Jeans,Roupas,41.23,2,Curitiba,PR
+677,2024-05-02,Moletom,Roupas,151.47,4,Goiânia,GO
+678,2024-01-25,Casaco,Roupas,76.56,2,São Paulo,SP
+679,2024-04-10,Bermuda,Roupas,46.24,4,Curitiba,PR
+680,2023-11-07,Moletom,Roupas,38.87,3,Recife,PE
+681,2023-10-26,Camisa Social,Roupas,81.41,5,Porto Alegre,RS
+682,2023-09-08,Blusa,Roupas,28.42,2,Manaus,AM
+683,2023-10-03,Saia,Roupas,34.33,5,Porto Alegre,RS
+684,2023-12-19,Casaco,Roupas,164.48,4,Manaus,AM
+685,2023-11-12,Camisa Social,Roupas,132.34,1,Fortaleza,CE
+686,2023-10-17,Moletom,Roupas,174.94,2,Rio de Janeiro,RJ
+687,2024-05-22,Casaco,Roupas,183.94,2,Goiânia,GO
+688,2023-12-09,Calça Jeans,Roupas,94.35,3,Fortaleza,CE
+689,2024-07-23,Blusa,Roupas,37.06,2,Porto Alegre,RS
+690,2023-11-21,Camisa Social,Roupas,170.93,5,Rio de Janeiro,RJ
+691,2024-05-09,Calça Jeans,Roupas,99.72,2,Goiânia,GO
+692,2024-02-16,Calça Jeans,Roupas,73.79,3,Manaus,AM
+693,2023-08-29,Calça Jeans,Roupas,99.16,4,Goiânia,GO
+694,2023-11-28,Blusa,Roupas,176.56,5,Manaus,AM
+695,2024-02-06,Blusa,Roupas,138.2,3,Porto Alegre,RS
+696,2023-10-14,Blusa,Roupas,107.64,4,Curitiba,PR
+697,2024-07-06,Tênis,Calçados,40.2,5,Belo Horizonte,MG
+698,2024-03-19,Tênis,Calçados,24.73,4,Recife,PE
+699,2024-01-13,Saia,Roupas,79.54,5,Goiânia,GO
+700,2024-07-23,Camisa Social,Roupas,155.25,2,Curitiba,PR
+701,2024-07-18,Casaco,Roupas,185.54,3,Rio de Janeiro,RJ
+702,2024-01-05,Saia,Roupas,79.57,3,Salvador,BA
+703,2024-06-13,Casaco,Roupas,29.64,1,Rio de Janeiro,RJ
+704,2024-03-15,Camisa Social,Roupas,173.14,2,Curitiba,PR
+705,2023-12-31,Blusa,Roupas,185.19,5,Rio de Janeiro,RJ
+706,2023-09-06,Camiseta,Roupas,142.29,5,Belo Horizonte,MG
+707,2023-09-16,Tênis,Calçados,80.25,1,São Paulo,SP
+708,2024-02-29,Moletom,Roupas,144.01,4,Curitiba,PR
+709,2024-01-15,Bermuda,Roupas,133.48,3,São Paulo,SP
+710,2023-10-06,Tênis,Calçados,188.87,5,Goiânia,GO
+711,2024-07-14,Bermuda,Roupas,178.81,1,Salvador,BA
+712,2024-03-10,Saia,Roupas,165.93,5,Curitiba,PR
+713,2023-10-21,Camiseta,Roupas,87.02,4,Rio de Janeiro,RJ
+714,2024-07-10,Moletom,Roupas,54.22,4,Goiânia,GO
+715,2023-12-15,Blusa,Roupas,57.64,2,São Paulo,SP
+716,2023-11-12,Moletom,Roupas,196.1,3,Goiânia,GO
+717,2024-05-27,Calça Jeans,Roupas,141.48,5,Fortaleza,CE
+718,2024-02-04,Saia,Roupas,197.19,2,Goiânia,GO
+719,2023-12-04,Calça Jeans,Roupas,28.22,3,Recife,PE
+720,2024-08-05,Calça Jeans,Roupas,108.46,5,Manaus,AM
+721,2024-02-11,Moletom,Roupas,51.89,2,Belo Horizonte,MG
+722,2024-07-03,Tênis,Calçados,177.25,1,Belo Horizonte,MG
+723,2023-08-28,Camiseta,Roupas,51.72,5,São Paulo,SP
+724,2024-06-22,Saia,Roupas,143.53,1,Recife,PE
+725,2024-07-09,Camisa Social,Roupas,130.22,3,Rio de Janeiro,RJ
+726,2024-02-22,Calça Jeans,Roupas,119.68,5,São Paulo,SP
+727,2023-10-25,Tênis,Calçados,49.26,2,Belo Horizonte,MG
+728,2024-06-02,Camisa Social,Roupas,186.37,4,Manaus,AM
+729,2023-12-18,Casaco,Roupas,95.73,1,Goiânia,GO
+730,2023-08-29,Casaco,Roupas,32.06,5,Curitiba,PR
+731,2024-04-20,Blusa,Roupas,91.27,3,Fortaleza,CE
+732,2024-04-29,Moletom,Roupas,48.91,2,Belo Horizonte,MG
+733,2024-01-13,Tênis,Calçados,47.48,4,Goiânia,GO
+734,2023-12-10,Bermuda,Roupas,90.34,3,Belo Horizonte,MG
+735,2023-12-08,Moletom,Roupas,87.85,4,Goiânia,GO
+736,2023-08-29,Calça Jeans,Roupas,183.43,4,Fortaleza,CE
+737,2024-05-03,Casaco,Roupas,20.46,5,Goiânia,GO
+738,2024-01-21,Camisa Social,Roupas,163.21,2,Belo Horizonte,MG
+739,2023-09-19,Blusa,Roupas,74.84,4,Salvador,BA
+740,2023-08-20,Camiseta,Roupas,157.11,5,Rio de Janeiro,RJ
+741,2023-08-31,Bermuda,Roupas,94.37,1,Belo Horizonte,MG
+742,2024-03-24,Tênis,Calçados,157.15,1,Goiânia,GO
+743,2023-09-19,Blusa,Roupas,67.35,4,Fortaleza,CE
+744,2024-07-22,Moletom,Roupas,127.83,4,Porto Alegre,RS
+745,2024-01-11,Vestido,Roupas,114.49,5,Manaus,AM
+746,2024-02-25,Tênis,Calçados,156.86,2,Curitiba,PR
+747,2023-12-11,Calça Jeans,Roupas,170.61,2,Salvador,BA
+748,2024-04-06,Bermuda,Roupas,88.4,3,São Paulo,SP
+749,2023-10-18,Camisa Social,Roupas,166.67,5,Porto Alegre,RS
+750,2024-05-15,Moletom,Roupas,195.39,4,Salvador,BA
+751,2023-09-23,Tênis,Calçados,109.7,5,Belo Horizonte,MG
+752,2024-07-26,Moletom,Roupas,137.56,1,Belo Horizonte,MG
+753,2024-06-27,Moletom,Roupas,27.13,3,Curitiba,PR
+754,2023-08-10,Casaco,Roupas,50.15,1,Fortaleza,CE
+755,2024-04-05,Camiseta,Roupas,197.41,3,Manaus,AM
+756,2024-01-28,Calça Jeans,Roupas,87.56,4,Salvador,BA
+757,2024-01-25,Camiseta,Roupas,60.85,5,Manaus,AM
+758,2024-02-12,Bermuda,Roupas,101.09,1,Recife,PE
+759,2024-02-08,Calça Jeans,Roupas,118.87,5,Belo Horizonte,MG
+760,2024-07-22,Bermuda,Roupas,24.24,1,Curitiba,PR
+761,2024-05-22,Camisa Social,Roupas,62.57,4,Fortaleza,CE
+762,2023-12-05,Bermuda,Roupas,65.3,4,São Paulo,SP
+763,2024-06-20,Casaco,Roupas,148.39,2,Recife,PE
+764,2024-05-14,Blusa,Roupas,29.5,5,Belo Horizonte,MG
+765,2024-01-06,Blusa,Roupas,195.64,1,Belo Horizonte,MG
+766,2024-03-07,Calça Jeans,Roupas,192.91,5,Porto Alegre,RS
+767,2023-12-21,Calça Jeans,Roupas,195.19,4,Rio de Janeiro,RJ
+768,2024-02-05,Camisa Social,Roupas,180.79,4,Recife,PE
+769,2024-05-09,Casaco,Roupas,153.64,2,Salvador,BA
+770,2024-05-05,Calça Jeans,Roupas,161.73,1,Recife,PE
+771,2023-10-28,Blusa,Roupas,130.05,5,Salvador,BA
+772,2024-04-02,Camiseta,Roupas,189.72,5,Fortaleza,CE
+773,2023-10-05,Bermuda,Roupas,36.41,5,Manaus,AM
+774,2024-05-13,Vestido,Roupas,188.88,5,Rio de Janeiro,RJ
+775,2023-10-29,Vestido,Roupas,117.08,5,Goiânia,GO
+776,2024-01-02,Camiseta,Roupas,103.46,5,São Paulo,SP
+777,2023-10-15,Tênis,Calçados,140.59,2,Porto Alegre,RS
+778,2023-12-09,Camiseta,Roupas,49.22,5,São Paulo,SP
+779,2023-12-15,Camisa Social,Roupas,92.0,4,Rio de Janeiro,RJ
+780,2024-03-15,Tênis,Calçados,109.59,1,Salvador,BA
+781,2023-09-05,Camisa Social,Roupas,88.38,3,Rio de Janeiro,RJ
+782,2024-04-20,Vestido,Roupas,102.41,5,Curitiba,PR
+783,2023-11-10,Saia,Roupas,106.79,2,Goiânia,GO
+784,2023-12-09,Bermuda,Roupas,123.6,5,Rio de Janeiro,RJ
+785,2024-01-29,Camiseta,Roupas,103.21,2,Rio de Janeiro,RJ
+786,2024-03-07,Vestido,Roupas,191.47,4,Porto Alegre,RS
+787,2024-04-02,Casaco,Roupas,188.09,4,Salvador,BA
+788,2023-09-08,Bermuda,Roupas,150.78,2,Porto Alegre,RS
+789,2024-01-08,Casaco,Roupas,24.97,5,Porto Alegre,RS
+790,2024-05-19,Moletom,Roupas,124.03,3,Fortaleza,CE
+791,2024-03-04,Moletom,Roupas,131.37,4,Manaus,AM
+792,2024-07-22,Vestido,Roupas,81.04,1,Rio de Janeiro,RJ
+793,2024-04-22,Camisa Social,Roupas,81.17,2,Belo Horizonte,MG
+794,2024-06-21,Vestido,Roupas,118.48,3,Fortaleza,CE
+795,2023-11-09,Saia,Roupas,193.62,3,Fortaleza,CE
+796,2023-09-02,Casaco,Roupas,180.15,1,Goiânia,GO
+797,2024-06-21,Bermuda,Roupas,42.17,3,Curitiba,PR
+798,2024-07-27,Calça Jeans,Roupas,59.82,4,Recife,PE
+799,2023-11-23,Tênis,Calçados,53.36,2,Porto Alegre,RS
+800,2023-09-07,Saia,Roupas,168.88,5,Porto Alegre,RS
+801,2023-09-04,Moletom,Roupas,199.86,2,Manaus,AM
+802,2024-07-31,Camiseta,Roupas,149.16,3,São Paulo,SP
+803,2024-06-14,Saia,Roupas,163.74,4,Rio de Janeiro,RJ
+804,2024-06-04,Moletom,Roupas,74.03,1,Porto Alegre,RS
+805,2023-12-08,Casaco,Roupas,148.55,1,São Paulo,SP
+806,2024-02-24,Vestido,Roupas,35.53,3,Manaus,AM
+807,2024-07-31,Blusa,Roupas,84.24,3,Fortaleza,CE
+808,2024-07-27,Moletom,Roupas,184.45,1,Manaus,AM
+809,2024-02-28,Camisa Social,Roupas,165.38,3,São Paulo,SP
+810,2023-08-29,Blusa,Roupas,54.77,5,Curitiba,PR
+811,2023-10-05,Saia,Roupas,99.74,5,Belo Horizonte,MG
+812,2023-12-04,Saia,Roupas,106.37,3,Porto Alegre,RS
+813,2024-04-21,Saia,Roupas,144.81,5,Manaus,AM
+814,2024-03-07,Vestido,Roupas,133.07,3,Rio de Janeiro,RJ
+815,2024-01-05,Moletom,Roupas,190.35,3,Belo Horizonte,MG
+816,2024-07-22,Moletom,Roupas,135.84,4,São Paulo,SP
+817,2023-11-25,Calça Jeans,Roupas,158.09,5,São Paulo,SP
+818,2024-02-09,Casaco,Roupas,45.08,5,São Paulo,SP
+819,2024-04-14,Camiseta,Roupas,89.57,1,Rio de Janeiro,RJ
+820,2023-09-20,Calça Jeans,Roupas,114.68,2,Curitiba,PR
+821,2024-07-13,Camisa Social,Roupas,136.98,4,Fortaleza,CE
+822,2024-01-29,Camiseta,Roupas,40.37,5,Salvador,BA
+823,2023-10-16,Tênis,Calçados,82.49,2,Recife,PE
+824,2024-06-08,Moletom,Roupas,133.94,1,São Paulo,SP
+825,2024-07-25,Tênis,Calçados,123.52,1,Rio de Janeiro,RJ
+826,2023-12-06,Camiseta,Roupas,148.11,1,Porto Alegre,RS
+827,2024-02-18,Bermuda,Roupas,48.04,5,São Paulo,SP
+828,2023-12-24,Blusa,Roupas,63.8,3,Porto Alegre,RS
+829,2024-02-06,Moletom,Roupas,175.82,3,São Paulo,SP
+830,2024-03-11,Moletom,Roupas,148.37,3,Rio de Janeiro,RJ
+831,2023-09-28,Calça Jeans,Roupas,171.05,2,São Paulo,SP
+832,2023-11-22,Blusa,Roupas,41.87,1,Porto Alegre,RS
+833,2023-09-27,Camisa Social,Roupas,63.56,3,Fortaleza,CE
+834,2023-10-03,Casaco,Roupas,98.85,5,Porto Alegre,RS
+835,2024-05-25,Saia,Roupas,102.85,3,Salvador,BA
+836,2024-01-30,Blusa,Roupas,130.73,5,Belo Horizonte,MG
+837,2024-05-22,Camiseta,Roupas,178.89,3,Fortaleza,CE
+838,2023-08-14,Casaco,Roupas,170.62,2,São Paulo,SP
+839,2024-07-14,Saia,Roupas,83.18,4,Manaus,AM
+840,2024-06-16,Moletom,Roupas,166.26,1,Porto Alegre,RS
+841,2024-06-28,Vestido,Roupas,88.17,5,Goiânia,GO
+842,2024-04-26,Calça Jeans,Roupas,148.52,2,Belo Horizonte,MG
+843,2024-04-19,Camisa Social,Roupas,186.73,4,Porto Alegre,RS
+844,2023-11-28,Camisa Social,Roupas,186.29,4,Recife,PE
+845,2024-04-14,Calça Jeans,Roupas,195.99,3,Belo Horizonte,MG
+846,2024-05-30,Moletom,Roupas,64.65,2,Manaus,AM
+847,2023-11-06,Vestido,Roupas,53.22,3,Curitiba,PR
+848,2024-07-30,Blusa,Roupas,27.25,5,São Paulo,SP
+849,2023-12-10,Saia,Roupas,115.3,5,Porto Alegre,RS
+850,2023-12-22,Blusa,Roupas,153.94,4,Belo Horizonte,MG
+851,2024-05-17,Tênis,Calçados,123.06,5,Manaus,AM
+852,2024-01-30,Camisa Social,Roupas,104.41,2,Porto Alegre,RS
+853,2024-01-01,Tênis,Calçados,163.86,2,Salvador,BA
+854,2024-01-28,Blusa,Roupas,137.66,2,Goiânia,GO
+855,2023-11-29,Saia,Roupas,125.87,2,Goiânia,GO
+856,2023-08-21,Tênis,Calçados,88.81,3,Recife,PE
+857,2024-01-01,Camisa Social,Roupas,85.48,1,São Paulo,SP
+858,2023-09-11,Casaco,Roupas,99.3,4,Manaus,AM
+859,2024-02-23,Casaco,Roupas,74.77,4,Porto Alegre,RS
+860,2023-09-19,Tênis,Calçados,55.07,1,Goiânia,GO
+861,2023-08-09,Vestido,Roupas,42.81,2,Belo Horizonte,MG
+862,2023-12-05,Calça Jeans,Roupas,169.44,2,Manaus,AM
+863,2024-02-22,Camiseta,Roupas,34.42,3,Salvador,BA
+864,2024-05-31,Camisa Social,Roupas,154.16,4,Fortaleza,CE
+865,2024-07-23,Bermuda,Roupas,198.91,5,Rio de Janeiro,RJ
+866,2024-01-28,Moletom,Roupas,25.71,2,Porto Alegre,RS
+867,2024-07-04,Camisa Social,Roupas,93.84,1,Goiânia,GO
+868,2024-05-05,Camisa Social,Roupas,150.6,4,Rio de Janeiro,RJ
+869,2024-07-28,Casaco,Roupas,96.78,3,Goiânia,GO
+870,2024-05-25,Vestido,Roupas,49.25,5,Salvador,BA
+871,2023-09-18,Moletom,Roupas,130.94,2,Porto Alegre,RS
+872,2024-08-05,Casaco,Roupas,129.48,3,Goiânia,GO
+873,2023-08-21,Blusa,Roupas,149.87,1,São Paulo,SP
+874,2024-04-17,Bermuda,Roupas,40.06,4,Porto Alegre,RS
+875,2024-05-26,Camiseta,Roupas,127.71,1,Rio de Janeiro,RJ
+876,2023-11-21,Moletom,Roupas,127.13,1,Goiânia,GO
+877,2024-02-21,Moletom,Roupas,179.68,2,Rio de Janeiro,RJ
+878,2024-02-25,Bermuda,Roupas,110.27,1,Belo Horizonte,MG
+879,2024-03-29,Casaco,Roupas,192.14,4,Salvador,BA
+880,2023-09-26,Vestido,Roupas,69.2,2,Fortaleza,CE
+881,2024-07-03,Calça Jeans,Roupas,193.43,3,Belo Horizonte,MG
+882,2024-02-22,Moletom,Roupas,79.37,3,São Paulo,SP
+883,2023-09-03,Moletom,Roupas,29.33,1,Recife,PE
+884,2024-04-02,Moletom,Roupas,117.72,5,Salvador,BA
+885,2023-12-09,Camisa Social,Roupas,144.58,1,Porto Alegre,RS
+886,2023-09-26,Saia,Roupas,92.72,2,Rio de Janeiro,RJ
+887,2023-10-13,Casaco,Roupas,50.97,1,Curitiba,PR
+888,2023-09-29,Moletom,Roupas,112.85,2,Fortaleza,CE
+889,2024-01-15,Casaco,Roupas,31.38,2,Rio de Janeiro,RJ
+890,2023-10-02,Bermuda,Roupas,174.02,5,Rio de Janeiro,RJ
+891,2024-07-25,Tênis,Calçados,147.58,2,Manaus,AM
+892,2024-06-21,Casaco,Roupas,113.55,1,Porto Alegre,RS
+893,2024-03-24,Blusa,Roupas,73.55,2,Salvador,BA
+894,2023-09-30,Calça Jeans,Roupas,188.34,4,Belo Horizonte,MG
+895,2023-10-25,Blusa,Roupas,194.21,1,Salvador,BA
+896,2024-01-29,Vestido,Roupas,144.42,5,São Paulo,SP
+897,2024-03-23,Blusa,Roupas,77.39,1,Recife,PE
+898,2023-10-01,Saia,Roupas,171.62,3,São Paulo,SP
+899,2023-09-19,Blusa,Roupas,75.75,4,São Paulo,SP
+900,2023-12-21,Tênis,Calçados,133.95,2,Salvador,BA
+901,2023-09-22,Tênis,Calçados,53.8,1,Curitiba,PR
+902,2023-08-16,Casaco,Roupas,54.46,5,Fortaleza,CE
+903,2024-07-02,Camisa Social,Roupas,117.56,1,São Paulo,SP
+904,2024-02-05,Moletom,Roupas,164.09,5,Curitiba,PR
+905,2024-03-28,Calça Jeans,Roupas,164.05,2,São Paulo,SP
+906,2024-06-09,Tênis,Calçados,171.28,2,Manaus,AM
+907,2023-09-01,Blusa,Roupas,86.89,2,Rio de Janeiro,RJ
+908,2023-08-10,Calça Jeans,Roupas,33.94,5,Manaus,AM
+909,2023-08-22,Saia,Roupas,159.99,5,Salvador,BA
+910,2023-12-14,Vestido,Roupas,91.83,3,Recife,PE
+911,2023-09-04,Vestido,Roupas,60.62,4,Curitiba,PR
+912,2023-11-09,Casaco,Roupas,151.21,1,Fortaleza,CE
+913,2024-01-09,Casaco,Roupas,127.35,2,Recife,PE
+914,2023-12-03,Camisa Social,Roupas,161.29,3,Rio de Janeiro,RJ
+915,2023-08-10,Casaco,Roupas,192.46,4,Goiânia,GO
+916,2024-01-31,Calça Jeans,Roupas,105.91,3,Belo Horizonte,MG
+917,2024-04-27,Moletom,Roupas,35.52,1,Rio de Janeiro,RJ
+918,2024-04-30,Tênis,Calçados,184.17,2,São Paulo,SP
+919,2023-11-06,Calça Jeans,Roupas,98.71,1,Goiânia,GO
+920,2024-07-21,Camisa Social,Roupas,42.25,5,Fortaleza,CE
+921,2024-06-03,Moletom,Roupas,115.09,3,São Paulo,SP
+922,2024-02-29,Moletom,Roupas,177.34,3,Curitiba,PR
+923,2023-12-27,Camiseta,Roupas,28.5,3,São Paulo,SP
+924,2024-01-26,Tênis,Calçados,114.23,3,São Paulo,SP
+925,2024-01-06,Vestido,Roupas,38.68,3,Salvador,BA
+926,2024-04-13,Calça Jeans,Roupas,51.46,3,Goiânia,GO
+927,2024-06-08,Blusa,Roupas,40.39,4,Belo Horizonte,MG
+928,2023-11-13,Blusa,Roupas,146.38,4,Recife,PE
+929,2024-03-07,Camisa Social,Roupas,30.92,4,Salvador,BA
+930,2023-12-20,Casaco,Roupas,162.44,4,Rio de Janeiro,RJ
+931,2024-06-15,Calça Jeans,Roupas,127.96,3,Belo Horizonte,MG
+932,2023-09-17,Calça Jeans,Roupas,129.75,4,Goiânia,GO
+933,2024-04-05,Vestido,Roupas,105.13,1,Porto Alegre,RS
+934,2023-12-21,Tênis,Calçados,120.71,2,Porto Alegre,RS
+935,2023-12-20,Camisa Social,Roupas,49.14,1,Salvador,BA
+936,2023-10-24,Blusa,Roupas,128.51,1,Goiânia,GO
+937,2023-11-27,Vestido,Roupas,62.45,3,Salvador,BA
+938,2024-05-09,Saia,Roupas,88.86,5,Manaus,AM
+939,2023-08-23,Camiseta,Roupas,57.48,3,Fortaleza,CE
+940,2023-11-05,Camiseta,Roupas,133.19,1,Fortaleza,CE
+941,2023-10-26,Blusa,Roupas,21.39,5,São Paulo,SP
+942,2024-07-31,Camiseta,Roupas,171.23,5,Goiânia,GO
+943,2024-04-07,Tênis,Calçados,167.0,1,São Paulo,SP
+944,2024-05-18,Saia,Roupas,134.81,1,Belo Horizonte,MG
+945,2023-10-30,Camisa Social,Roupas,137.66,3,Rio de Janeiro,RJ
+946,2023-12-07,Camisa Social,Roupas,199.22,3,Belo Horizonte,MG
+947,2024-04-02,Vestido,Roupas,87.07,1,Fortaleza,CE
+948,2024-07-26,Camiseta,Roupas,29.25,4,Goiânia,GO
+949,2023-12-26,Casaco,Roupas,50.88,2,Porto Alegre,RS
+950,2023-12-22,Vestido,Roupas,89.08,5,Curitiba,PR
+951,2024-07-01,Bermuda,Roupas,59.38,4,Salvador,BA
+952,2023-09-12,Moletom,Roupas,38.44,4,Goiânia,GO
+953,2024-01-11,Tênis,Calçados,119.24,5,Salvador,BA
+954,2024-01-08,Calça Jeans,Roupas,151.77,1,Recife,PE
+955,2023-10-14,Casaco,Roupas,142.95,4,Curitiba,PR
+956,2024-07-17,Blusa,Roupas,127.11,3,Belo Horizonte,MG
+957,2024-07-09,Saia,Roupas,193.41,5,Belo Horizonte,MG
+958,2023-11-26,Tênis,Calçados,110.8,4,São Paulo,SP
+959,2024-01-04,Saia,Roupas,35.86,2,Recife,PE
+960,2024-07-02,Casaco,Roupas,27.78,1,Curitiba,PR
+961,2023-10-18,Camisa Social,Roupas,128.73,4,Manaus,AM
+962,2024-07-31,Camisa Social,Roupas,140.51,3,Salvador,BA
+963,2023-12-31,Casaco,Roupas,61.52,5,Curitiba,PR
+964,2024-06-07,Calça Jeans,Roupas,72.07,3,Manaus,AM
+965,2024-06-07,Vestido,Roupas,145.3,4,São Paulo,SP
+966,2024-03-31,Calça Jeans,Roupas,173.8,3,São Paulo,SP
+967,2024-01-29,Casaco,Roupas,171.75,4,São Paulo,SP
+968,2024-04-13,Casaco,Roupas,36.39,5,Salvador,BA
+969,2024-04-08,Tênis,Calçados,101.29,2,Fortaleza,CE
+970,2024-01-03,Saia,Roupas,86.0,5,Salvador,BA
+971,2024-02-29,Bermuda,Roupas,90.64,1,Curitiba,PR
+972,2023-09-12,Moletom,Roupas,84.68,1,Porto Alegre,RS
+973,2023-09-22,Blusa,Roupas,22.34,4,Porto Alegre,RS
+974,2023-09-25,Tênis,Calçados,110.04,1,Goiânia,GO
+975,2023-12-18,Camisa Social,Roupas,189.85,4,Salvador,BA
+976,2024-07-03,Calça Jeans,Roupas,127.2,4,Manaus,AM
+977,2024-03-20,Camiseta,Roupas,72.9,2,Recife,PE
+978,2024-01-22,Calça Jeans,Roupas,180.92,2,Curitiba,PR
+979,2024-05-31,Camiseta,Roupas,147.51,2,Goiânia,GO
+980,2023-11-15,Vestido,Roupas,155.79,5,Manaus,AM
+981,2023-10-08,Bermuda,Roupas,46.83,4,Rio de Janeiro,RJ
+982,2024-07-21,Bermuda,Roupas,121.8,3,Recife,PE
+983,2023-08-15,Casaco,Roupas,63.13,5,Goiânia,GO
+984,2024-06-15,Calça Jeans,Roupas,119.17,3,Salvador,BA
+985,2023-12-25,Camisa Social,Roupas,77.48,1,Goiânia,GO
+986,2024-04-13,Tênis,Calçados,94.72,2,Belo Horizonte,MG
+987,2024-07-17,Blusa,Roupas,85.09,2,Fortaleza,CE
+988,2023-09-02,Camisa Social,Roupas,136.01,3,Fortaleza,CE
+989,2024-04-29,Bermuda,Roupas,34.59,3,Porto Alegre,RS
+990,2023-10-28,Saia,Roupas,122.52,5,Curitiba,PR
+991,2024-06-29,Tênis,Calçados,51.02,5,Rio de Janeiro,RJ
+992,2024-02-15,Tênis,Calçados,101.91,4,Rio de Janeiro,RJ
+993,2023-10-09,Casaco,Roupas,151.14,5,Porto Alegre,RS
+994,2024-06-25,Saia,Roupas,136.15,1,Salvador,BA
+995,2023-11-18,Saia,Roupas,151.53,2,Rio de Janeiro,RJ
+996,2023-09-18,Camiseta,Roupas,117.82,1,Salvador,BA
+997,2024-02-17,Calça Jeans,Roupas,89.48,2,Goiânia,GO
+998,2024-04-27,Casaco,Roupas,119.24,1,Fortaleza,CE
+999,2024-01-13,Blusa,Roupas,166.55,2,Goiânia,GO
+1000,2024-05-26,Saia,Roupas,158.06,2,Rio de Janeiro,RJ
+1001,2024-04-23,Bermuda,Roupas,86.57,5,Fortaleza,CE
+1002,2024-06-25,Casaco,Roupas,26.78,3,Fortaleza,CE
+1003,2023-12-17,Tênis,Calçados,54.94,1,Rio de Janeiro,RJ
+1004,2024-08-02,Tênis,Calçados,116.79,1,Salvador,BA
+1005,2024-06-20,Saia,Roupas,85.85,5,Recife,PE
+1006,2024-07-04,Vestido,Roupas,67.62,3,Manaus,AM
+1007,2023-10-31,Calça Jeans,Roupas,50.03,3,Belo Horizonte,MG
+1008,2024-01-03,Camisa Social,Roupas,190.76,1,Fortaleza,CE
+1009,2023-08-30,Calça Jeans,Roupas,40.4,2,Rio de Janeiro,RJ
+1010,2024-05-22,Calça Jeans,Roupas,106.43,3,Porto Alegre,RS
+1011,2023-11-30,Camiseta,Roupas,157.48,5,Rio de Janeiro,RJ
+1012,2024-06-08,Camisa Social,Roupas,116.92,1,Fortaleza,CE
+1013,2024-04-07,Camisa Social,Roupas,22.09,5,Belo Horizonte,MG
+1014,2024-01-12,Calça Jeans,Roupas,21.53,1,São Paulo,SP
+1015,2023-11-09,Tênis,Calçados,42.16,3,São Paulo,SP
+1016,2024-02-16,Calça Jeans,Roupas,66.99,1,Goiânia,GO
+1017,2023-09-06,Vestido,Roupas,182.07,5,São Paulo,SP
+1018,2024-05-27,Blusa,Roupas,136.63,1,Salvador,BA
+1019,2023-09-13,Camiseta,Roupas,49.18,4,Salvador,BA
+1020,2024-02-10,Calça Jeans,Roupas,128.25,4,Porto Alegre,RS
+1021,2023-10-16,Vestido,Roupas,97.14,4,Manaus,AM
+1022,2024-02-11,Moletom,Roupas,148.16,2,Fortaleza,CE
+1023,2023-11-23,Tênis,Calçados,194.61,4,Rio de Janeiro,RJ
+1024,2023-10-20,Tênis,Calçados,152.59,5,Salvador,BA
+1025,2023-10-08,Saia,Roupas,94.39,5,Rio de Janeiro,RJ
+1026,2024-02-29,Tênis,Calçados,74.12,2,Fortaleza,CE
+1027,2023-10-10,Calça Jeans,Roupas,186.33,1,São Paulo,SP
+1028,2024-06-25,Calça Jeans,Roupas,34.61,1,Porto Alegre,RS
+1029,2023-12-17,Tênis,Calçados,102.89,3,Salvador,BA
+1030,2024-04-21,Calça Jeans,Roupas,183.6,3,Manaus,AM
+1031,2023-12-21,Calça Jeans,Roupas,70.47,3,Manaus,AM
+1032,2024-07-22,Calça Jeans,Roupas,106.44,2,Porto Alegre,RS
+1033,2024-04-06,Saia,Roupas,129.27,1,Curitiba,PR
+1034,2023-12-22,Vestido,Roupas,142.16,4,Curitiba,PR
+1035,2023-12-01,Moletom,Roupas,105.52,1,Recife,PE
+1036,2024-02-23,Calça Jeans,Roupas,173.75,3,Salvador,BA
+1037,2023-11-14,Blusa,Roupas,89.87,4,Recife,PE
+1038,2024-01-13,Calça Jeans,Roupas,185.07,1,Fortaleza,CE
+1039,2024-04-14,Saia,Roupas,82.44,4,Curitiba,PR
+1040,2023-12-11,Saia,Roupas,27.6,1,Curitiba,PR
+1041,2024-06-19,Bermuda,Roupas,40.84,4,Rio de Janeiro,RJ
+1042,2023-08-22,Vestido,Roupas,169.02,4,Curitiba,PR
+1043,2023-11-25,Moletom,Roupas,147.92,3,Curitiba,PR
+1044,2024-07-15,Casaco,Roupas,141.76,5,Curitiba,PR
+1045,2023-11-29,Camiseta,Roupas,182.39,2,Curitiba,PR
+1046,2023-09-25,Calça Jeans,Roupas,161.33,1,Recife,PE
+1047,2024-02-13,Camiseta,Roupas,81.74,5,Recife,PE
+1048,2024-05-20,Camisa Social,Roupas,114.25,5,Rio de Janeiro,RJ
+1049,2024-02-28,Camisa Social,Roupas,96.98,4,Recife,PE
+1050,2024-05-19,Vestido,Roupas,59.55,4,São Paulo,SP
+1051,2023-08-23,Moletom,Roupas,28.79,5,Recife,PE
+1052,2023-12-26,Calça Jeans,Roupas,73.71,2,Fortaleza,CE
+1053,2024-01-10,Saia,Roupas,98.11,1,Fortaleza,CE
+1054,2024-04-25,Casaco,Roupas,165.41,1,São Paulo,SP
+1055,2023-12-09,Calça Jeans,Roupas,50.5,2,Salvador,BA
+1056,2024-03-29,Moletom,Roupas,110.92,3,Belo Horizonte,MG
+1057,2024-03-04,Camiseta,Roupas,37.2,3,Porto Alegre,RS
+1058,2023-11-29,Vestido,Roupas,184.53,4,Porto Alegre,RS
+1059,2023-11-18,Saia,Roupas,78.2,5,Rio de Janeiro,RJ
+1060,2024-07-31,Camiseta,Roupas,63.58,1,Goiânia,GO
+1061,2023-10-01,Camisa Social,Roupas,166.24,2,Porto Alegre,RS
+1062,2024-07-09,Blusa,Roupas,32.8,1,Salvador,BA
+1063,2024-06-20,Casaco,Roupas,166.68,3,Salvador,BA
+1064,2024-08-03,Camiseta,Roupas,55.58,1,Goiânia,GO
+1065,2024-05-21,Vestido,Roupas,25.92,5,Recife,PE
+1066,2024-03-04,Moletom,Roupas,170.74,5,Fortaleza,CE
+1067,2024-02-01,Camiseta,Roupas,115.18,3,Belo Horizonte,MG
+1068,2024-01-11,Vestido,Roupas,22.5,2,Belo Horizonte,MG
+1069,2024-05-29,Vestido,Roupas,120.63,1,Salvador,BA
+1070,2023-10-18,Moletom,Roupas,85.74,2,Manaus,AM
+1071,2024-07-25,Calça Jeans,Roupas,123.85,3,Salvador,BA
+1072,2024-01-16,Camisa Social,Roupas,115.11,2,Goiânia,GO
+1073,2023-12-30,Blusa,Roupas,52.22,1,Porto Alegre,RS
+1074,2024-01-28,Camiseta,Roupas,118.91,1,Belo Horizonte,MG
+1075,2024-01-22,Bermuda,Roupas,146.0,2,Rio de Janeiro,RJ
+1076,2024-03-27,Calça Jeans,Roupas,90.73,1,Goiânia,GO
+1077,2024-05-12,Camiseta,Roupas,152.41,2,Porto Alegre,RS
+1078,2024-05-24,Camisa Social,Roupas,66.89,4,Belo Horizonte,MG
+1079,2024-07-28,Vestido,Roupas,110.77,5,Belo Horizonte,MG
+1080,2024-06-29,Casaco,Roupas,127.92,1,Manaus,AM
+1081,2024-01-26,Casaco,Roupas,118.14,3,Curitiba,PR
+1082,2024-01-28,Moletom,Roupas,82.03,1,Fortaleza,CE
+1083,2024-05-14,Moletom,Roupas,160.92,5,Rio de Janeiro,RJ
+1084,2023-12-25,Camisa Social,Roupas,199.71,2,Goiânia,GO
+1085,2024-07-09,Calça Jeans,Roupas,30.73,5,Goiânia,GO
+1086,2024-06-25,Casaco,Roupas,176.41,5,Porto Alegre,RS
+1087,2023-11-27,Calça Jeans,Roupas,69.42,5,Manaus,AM
+1088,2024-02-28,Camiseta,Roupas,153.76,2,Belo Horizonte,MG
+1089,2024-01-01,Blusa,Roupas,117.11,5,Goiânia,GO
+1090,2023-08-28,Tênis,Calçados,61.56,4,Fortaleza,CE
+1091,2024-04-11,Casaco,Roupas,149.0,5,São Paulo,SP
+1092,2024-06-12,Camisa Social,Roupas,88.81,1,Salvador,BA
+1093,2023-11-07,Casaco,Roupas,79.15,2,Recife,PE
+1094,2023-12-09,Camiseta,Roupas,30.41,4,Manaus,AM
+1095,2024-01-20,Tênis,Calçados,61.8,5,Curitiba,PR
+1096,2024-05-03,Vestido,Roupas,27.93,1,Goiânia,GO
+1097,2024-02-12,Saia,Roupas,161.02,4,Goiânia,GO
+1098,2024-07-27,Bermuda,Roupas,151.12,3,Rio de Janeiro,RJ
+1099,2024-07-05,Bermuda,Roupas,148.99,2,Recife,PE
+1100,2023-11-04,Tênis,Calçados,135.53,5,Salvador,BA
+1101,2024-01-20,Camiseta,Roupas,179.46,2,Manaus,AM
+1102,2023-11-06,Vestido,Roupas,173.07,3,Rio de Janeiro,RJ
+1103,2023-08-30,Blusa,Roupas,173.91,1,Porto Alegre,RS
+1104,2023-10-02,Moletom,Roupas,82.75,2,Recife,PE
+1105,2024-06-18,Vestido,Roupas,192.33,2,Rio de Janeiro,RJ
+1106,2023-10-04,Moletom,Roupas,25.92,1,Goiânia,GO
+1107,2024-07-13,Calça Jeans,Roupas,158.62,4,Curitiba,PR
+1108,2023-12-13,Casaco,Roupas,33.93,2,Porto Alegre,RS
+1109,2023-11-11,Vestido,Roupas,102.84,1,Curitiba,PR
+1110,2023-12-09,Blusa,Roupas,191.74,5,Fortaleza,CE
+1111,2023-11-13,Saia,Roupas,92.17,3,Goiânia,GO
+1112,2024-05-05,Casaco,Roupas,36.04,3,Porto Alegre,RS
+1113,2024-04-25,Camiseta,Roupas,161.62,5,Belo Horizonte,MG
+1114,2024-03-25,Camiseta,Roupas,30.97,4,Belo Horizonte,MG
+1115,2024-06-21,Saia,Roupas,79.54,2,Fortaleza,CE
+1116,2024-03-30,Saia,Roupas,37.91,3,Goiânia,GO
+1117,2024-04-23,Tênis,Calçados,21.48,1,Porto Alegre,RS
+1118,2024-03-21,Casaco,Roupas,89.6,3,São Paulo,SP
+1119,2023-09-06,Vestido,Roupas,80.35,3,Curitiba,PR
+1120,2024-07-06,Camisa Social,Roupas,52.66,4,Salvador,BA
+1121,2023-09-01,Tênis,Calçados,90.06,5,Recife,PE
+1122,2023-09-10,Bermuda,Roupas,107.63,3,Curitiba,PR
+1123,2023-10-23,Moletom,Roupas,81.0,3,Recife,PE
+1124,2023-11-02,Camiseta,Roupas,134.53,2,Belo Horizonte,MG
+1125,2024-07-19,Camisa Social,Roupas,137.74,3,Rio de Janeiro,RJ
+1126,2023-12-08,Moletom,Roupas,175.76,2,Curitiba,PR
+1127,2024-04-16,Vestido,Roupas,114.26,3,Rio de Janeiro,RJ
+1128,2023-09-25,Calça Jeans,Roupas,38.78,4,Curitiba,PR
+1129,2023-09-14,Vestido,Roupas,30.23,3,São Paulo,SP
+1130,2024-01-26,Moletom,Roupas,142.51,1,Belo Horizonte,MG
+1131,2024-07-20,Moletom,Roupas,192.9,2,Recife,PE
+1132,2024-05-02,Casaco,Roupas,56.52,3,Curitiba,PR
+1133,2023-09-16,Casaco,Roupas,172.15,4,Porto Alegre,RS
+1134,2024-05-19,Bermuda,Roupas,58.7,5,São Paulo,SP
+1135,2023-11-25,Camisa Social,Roupas,121.82,5,São Paulo,SP
+1136,2024-05-10,Casaco,Roupas,165.93,2,Fortaleza,CE
+1137,2024-05-11,Calça Jeans,Roupas,54.14,4,Manaus,AM
+1138,2023-08-27,Camisa Social,Roupas,94.64,1,Porto Alegre,RS
+1139,2023-08-18,Camiseta,Roupas,160.08,1,São Paulo,SP
+1140,2024-04-06,Saia,Roupas,95.72,4,Manaus,AM
+1141,2023-10-16,Tênis,Calçados,110.85,1,Manaus,AM
+1142,2024-03-29,Casaco,Roupas,176.19,1,Belo Horizonte,MG
+1143,2024-04-15,Bermuda,Roupas,142.46,3,Porto Alegre,RS
+1144,2023-08-14,Camiseta,Roupas,181.32,5,Recife,PE
+1145,2024-05-19,Blusa,Roupas,160.35,1,Salvador,BA
+1146,2024-03-23,Camisa Social,Roupas,48.07,1,Rio de Janeiro,RJ
+1147,2023-10-11,Saia,Roupas,124.16,4,Curitiba,PR
+1148,2024-05-16,Calça Jeans,Roupas,176.64,1,São Paulo,SP
+1149,2023-12-08,Camisa Social,Roupas,38.14,2,Manaus,AM
+1150,2024-05-09,Bermuda,Roupas,199.93,2,Belo Horizonte,MG
+1151,2023-10-02,Vestido,Roupas,54.77,3,Goiânia,GO
+1152,2023-09-29,Vestido,Roupas,95.01,3,Manaus,AM
+1153,2024-01-30,Moletom,Roupas,89.11,1,Fortaleza,CE
+1154,2024-05-29,Saia,Roupas,159.11,5,Fortaleza,CE
+1155,2023-10-15,Tênis,Calçados,62.58,1,Manaus,AM
+1156,2024-07-16,Camisa Social,Roupas,39.87,2,Fortaleza,CE
+1157,2024-02-18,Tênis,Calçados,46.74,2,Goiânia,GO
+1158,2024-03-07,Casaco,Roupas,27.89,3,Porto Alegre,RS
+1159,2024-01-27,Blusa,Roupas,176.01,3,Manaus,AM
+1160,2024-02-05,Camiseta,Roupas,166.8,4,São Paulo,SP
+1161,2024-02-16,Casaco,Roupas,131.78,1,Recife,PE
+1162,2023-10-09,Moletom,Roupas,41.13,4,Curitiba,PR
+1163,2024-04-16,Saia,Roupas,185.09,1,Porto Alegre,RS
+1164,2024-06-06,Saia,Roupas,38.32,3,Porto Alegre,RS
+1165,2024-07-17,Camisa Social,Roupas,142.45,1,Goiânia,GO
+1166,2024-07-13,Casaco,Roupas,131.87,4,Curitiba,PR
+1167,2023-09-07,Blusa,Roupas,126.73,3,Salvador,BA
+1168,2024-03-08,Camisa Social,Roupas,196.63,2,Porto Alegre,RS
+1169,2023-08-28,Camisa Social,Roupas,99.69,1,Porto Alegre,RS
+1170,2024-04-07,Moletom,Roupas,98.78,1,Curitiba,PR
+1171,2024-01-03,Tênis,Calçados,154.21,1,Belo Horizonte,MG
+1172,2024-06-05,Vestido,Roupas,104.25,1,Goiânia,GO
+1173,2024-05-04,Vestido,Roupas,66.84,3,Curitiba,PR
+1174,2023-10-15,Saia,Roupas,69.33,3,Recife,PE
+1175,2024-03-28,Moletom,Roupas,191.47,2,Fortaleza,CE
+1176,2023-09-05,Blusa,Roupas,93.61,2,Belo Horizonte,MG
+1177,2024-07-07,Moletom,Roupas,130.85,3,Curitiba,PR
+1178,2024-01-01,Saia,Roupas,152.44,2,Belo Horizonte,MG
+1179,2023-09-22,Camiseta,Roupas,148.36,4,Belo Horizonte,MG
+1180,2024-07-30,Tênis,Calçados,128.74,5,Fortaleza,CE
+1181,2024-07-31,Bermuda,Roupas,59.88,3,Recife,PE
+1182,2023-09-21,Blusa,Roupas,85.22,1,Fortaleza,CE
+1183,2024-06-05,Saia,Roupas,35.9,1,Recife,PE
+1184,2023-09-24,Calça Jeans,Roupas,92.35,1,Salvador,BA
+1185,2023-11-11,Bermuda,Roupas,54.83,5,Goiânia,GO
+1186,2024-03-23,Calça Jeans,Roupas,21.57,3,São Paulo,SP
+1187,2024-03-22,Tênis,Calçados,170.22,1,Goiânia,GO
+1188,2024-01-28,Saia,Roupas,80.15,4,Manaus,AM
+1189,2023-08-28,Moletom,Roupas,176.41,3,Salvador,BA
+1190,2024-05-25,Calça Jeans,Roupas,84.58,5,Recife,PE
+1191,2024-07-23,Blusa,Roupas,63.84,2,Manaus,AM
+1192,2023-08-21,Camisa Social,Roupas,96.4,2,São Paulo,SP
+1193,2024-07-12,Calça Jeans,Roupas,130.1,2,São Paulo,SP
+1194,2023-09-04,Bermuda,Roupas,154.89,1,Curitiba,PR
+1195,2024-05-08,Camisa Social,Roupas,138.96,5,Porto Alegre,RS
+1196,2024-07-01,Camisa Social,Roupas,76.79,3,Fortaleza,CE
+1197,2024-02-07,Vestido,Roupas,36.31,5,Curitiba,PR
+1198,2024-02-11,Vestido,Roupas,81.13,1,Belo Horizonte,MG
+1199,2024-05-05,Calça Jeans,Roupas,98.79,2,Porto Alegre,RS
+1200,2024-01-18,Saia,Roupas,38.75,2,Recife,PE
+1201,2023-11-21,Moletom,Roupas,161.02,2,Curitiba,PR
+1202,2023-09-18,Saia,Roupas,66.36,5,Manaus,AM
+1203,2024-02-01,Bermuda,Roupas,193.81,4,Curitiba,PR
+1204,2024-05-15,Blusa,Roupas,47.21,5,São Paulo,SP
+1205,2024-08-03,Camiseta,Roupas,155.71,4,Manaus,AM
+1206,2023-11-28,Vestido,Roupas,112.34,5,Recife,PE
+1207,2024-06-15,Vestido,Roupas,21.36,2,Salvador,BA
+1208,2023-11-15,Saia,Roupas,119.35,4,Porto Alegre,RS
+1209,2024-07-11,Calça Jeans,Roupas,82.77,2,São Paulo,SP
+1210,2024-02-17,Camiseta,Roupas,20.33,1,São Paulo,SP
+1211,2024-07-04,Camisa Social,Roupas,116.33,2,Belo Horizonte,MG
+1212,2024-06-07,Casaco,Roupas,140.99,2,São Paulo,SP
+1213,2023-10-23,Moletom,Roupas,105.99,2,São Paulo,SP
+1214,2024-01-27,Blusa,Roupas,160.46,3,Belo Horizonte,MG
+1215,2024-01-09,Camisa Social,Roupas,193.69,3,Fortaleza,CE
+1216,2023-11-24,Blusa,Roupas,141.18,2,Fortaleza,CE
+1217,2024-03-05,Moletom,Roupas,191.81,4,São Paulo,SP
+1218,2023-09-24,Tênis,Calçados,53.35,4,Belo Horizonte,MG
+1219,2024-03-26,Casaco,Roupas,142.43,2,Fortaleza,CE
+1220,2023-11-11,Moletom,Roupas,152.78,4,Fortaleza,CE
+1221,2023-09-28,Bermuda,Roupas,148.49,2,Recife,PE
+1222,2023-08-19,Camiseta,Roupas,119.95,5,Porto Alegre,RS
+1223,2023-11-09,Vestido,Roupas,183.36,1,Curitiba,PR
+1224,2023-08-19,Tênis,Calçados,78.06,5,Fortaleza,CE
+1225,2024-06-09,Casaco,Roupas,191.56,5,Porto Alegre,RS
+1226,2023-12-12,Moletom,Roupas,169.27,2,Porto Alegre,RS
+1227,2023-12-28,Camiseta,Roupas,55.21,3,Porto Alegre,RS
+1228,2023-11-26,Calça Jeans,Roupas,45.8,3,Salvador,BA
+1229,2023-11-25,Casaco,Roupas,92.78,1,Rio de Janeiro,RJ
+1230,2024-05-02,Blusa,Roupas,70.07,5,Fortaleza,CE
+1231,2024-01-18,Casaco,Roupas,138.3,5,Curitiba,PR
+1232,2023-11-10,Camiseta,Roupas,198.44,4,Fortaleza,CE
+1233,2023-12-11,Camiseta,Roupas,132.78,5,Curitiba,PR
+1234,2023-08-24,Camisa Social,Roupas,22.45,4,Curitiba,PR
+1235,2024-04-11,Saia,Roupas,99.79,4,Porto Alegre,RS
+1236,2024-05-15,Vestido,Roupas,89.38,5,Recife,PE
+1237,2023-09-24,Moletom,Roupas,163.91,3,Salvador,BA
+1238,2024-05-17,Camiseta,Roupas,58.37,2,São Paulo,SP
+1239,2024-04-11,Vestido,Roupas,45.33,2,Manaus,AM
+1240,2024-04-09,Casaco,Roupas,33.31,4,São Paulo,SP
+1241,2024-06-03,Casaco,Roupas,147.98,1,Porto Alegre,RS
+1242,2024-02-20,Bermuda,Roupas,25.87,3,Belo Horizonte,MG
+1243,2024-08-01,Camiseta,Roupas,145.78,5,Porto Alegre,RS
+1244,2024-07-10,Camiseta,Roupas,179.22,2,Salvador,BA
+1245,2023-09-16,Blusa,Roupas,142.8,5,Belo Horizonte,MG
+1246,2024-03-09,Calça Jeans,Roupas,29.57,3,São Paulo,SP
+1247,2024-03-03,Tênis,Calçados,128.92,3,Fortaleza,CE
+1248,2024-03-07,Vestido,Roupas,169.76,4,Manaus,AM
+1249,2024-04-26,Bermuda,Roupas,177.87,5,São Paulo,SP
+1250,2023-08-30,Saia,Roupas,189.88,1,Porto Alegre,RS
+1251,2023-12-12,Saia,Roupas,187.35,4,Belo Horizonte,MG
+1252,2023-12-06,Moletom,Roupas,131.68,4,São Paulo,SP
+1253,2024-05-14,Camisa Social,Roupas,156.61,5,Salvador,BA
+1254,2023-12-08,Camiseta,Roupas,25.78,5,Fortaleza,CE
+1255,2024-03-11,Casaco,Roupas,45.54,1,Rio de Janeiro,RJ
+1256,2024-05-15,Casaco,Roupas,42.01,2,Belo Horizonte,MG
+1257,2023-10-28,Vestido,Roupas,187.91,5,Goiânia,GO
+1258,2024-04-29,Tênis,Calçados,45.78,3,Goiânia,GO
+1259,2024-03-09,Calça Jeans,Roupas,40.64,4,Fortaleza,CE
+1260,2023-10-23,Moletom,Roupas,62.04,5,Goiânia,GO
+1261,2024-02-01,Tênis,Calçados,65.13,5,Porto Alegre,RS
+1262,2023-10-15,Bermuda,Roupas,104.48,5,Curitiba,PR
+1263,2023-12-28,Moletom,Roupas,161.44,2,Belo Horizonte,MG
+1264,2024-02-27,Moletom,Roupas,174.25,3,Curitiba,PR
+1265,2024-06-13,Tênis,Calçados,103.6,5,Goiânia,GO
+1266,2024-04-03,Vestido,Roupas,45.79,1,Belo Horizonte,MG
+1267,2023-09-27,Camisa Social,Roupas,78.48,5,Goiânia,GO
+1268,2024-03-19,Camiseta,Roupas,100.1,4,Recife,PE
+1269,2024-07-18,Bermuda,Roupas,158.21,2,Manaus,AM
+1270,2023-11-21,Camiseta,Roupas,179.46,2,Fortaleza,CE
+1271,2023-09-03,Moletom,Roupas,151.06,1,Goiânia,GO
+1272,2024-02-02,Saia,Roupas,179.97,4,Recife,PE
+1273,2023-10-04,Camisa Social,Roupas,167.28,1,Rio de Janeiro,RJ
+1274,2023-10-05,Camisa Social,Roupas,21.55,3,Fortaleza,CE
+1275,2023-11-09,Saia,Roupas,148.17,1,Salvador,BA
+1276,2023-10-31,Blusa,Roupas,135.82,1,São Paulo,SP
+1277,2024-05-02,Tênis,Calçados,93.46,3,Porto Alegre,RS
+1278,2024-01-01,Moletom,Roupas,114.0,1,Recife,PE
+1279,2024-03-09,Camisa Social,Roupas,25.7,3,Curitiba,PR
+1280,2023-12-09,Blusa,Roupas,59.08,3,Manaus,AM
+1281,2023-09-06,Camiseta,Roupas,187.87,3,Goiânia,GO
+1282,2024-01-28,Camisa Social,Roupas,78.31,1,Fortaleza,CE
+1283,2023-08-26,Bermuda,Roupas,25.67,1,São Paulo,SP
+1284,2023-10-22,Bermuda,Roupas,168.78,2,Recife,PE
+1285,2023-09-07,Saia,Roupas,112.31,3,Fortaleza,CE
+1286,2023-11-10,Vestido,Roupas,137.94,3,Goiânia,GO
+1287,2023-11-09,Vestido,Roupas,130.5,2,São Paulo,SP
+1288,2023-11-13,Camisa Social,Roupas,58.27,1,São Paulo,SP
+1289,2024-02-16,Blusa,Roupas,90.24,2,Belo Horizonte,MG
+1290,2024-03-21,Camiseta,Roupas,56.68,3,Manaus,AM
+1291,2024-04-09,Casaco,Roupas,156.88,3,Recife,PE
+1292,2024-07-07,Blusa,Roupas,99.22,1,Rio de Janeiro,RJ
+1293,2024-02-26,Camiseta,Roupas,75.05,2,Goiânia,GO
+1294,2023-10-20,Blusa,Roupas,99.2,1,Curitiba,PR
+1295,2024-05-08,Camisa Social,Roupas,127.77,2,São Paulo,SP
+1296,2023-08-31,Calça Jeans,Roupas,133.25,2,Recife,PE
+1297,2023-10-31,Casaco,Roupas,94.48,2,Porto Alegre,RS
+1298,2024-05-28,Casaco,Roupas,82.59,5,Manaus,AM
+1299,2024-08-02,Bermuda,Roupas,147.35,2,Rio de Janeiro,RJ
+1300,2024-04-10,Moletom,Roupas,175.4,3,Recife,PE
+1301,2023-12-24,Camiseta,Roupas,30.22,4,Porto Alegre,RS
+1302,2023-12-28,Vestido,Roupas,101.45,5,São Paulo,SP
+1303,2023-08-16,Moletom,Roupas,74.47,2,Curitiba,PR
+1304,2023-11-22,Blusa,Roupas,76.12,4,Rio de Janeiro,RJ
+1305,2024-06-09,Tênis,Calçados,118.97,1,São Paulo,SP
+1306,2023-11-20,Moletom,Roupas,39.07,1,Porto Alegre,RS
+1307,2023-10-04,Vestido,Roupas,196.91,3,Belo Horizonte,MG
+1308,2023-10-13,Saia,Roupas,166.77,1,Belo Horizonte,MG
+1309,2024-03-13,Tênis,Calçados,124.52,5,Goiânia,GO
+1310,2023-12-20,Blusa,Roupas,84.5,2,Curitiba,PR
+1311,2024-04-12,Calça Jeans,Roupas,168.11,1,Goiânia,GO
+1312,2024-02-05,Bermuda,Roupas,172.16,2,Manaus,AM
+1313,2024-01-10,Camiseta,Roupas,81.85,2,Salvador,BA
+1314,2024-07-02,Calça Jeans,Roupas,121.78,1,Curitiba,PR
+1315,2024-02-03,Blusa,Roupas,125.6,2,Rio de Janeiro,RJ
+1316,2024-04-13,Tênis,Calçados,165.15,3,Goiânia,GO
+1317,2024-03-07,Tênis,Calçados,116.21,2,Porto Alegre,RS
+1318,2023-12-24,Moletom,Roupas,43.19,5,Belo Horizonte,MG
+1319,2024-05-20,Bermuda,Roupas,78.63,4,Rio de Janeiro,RJ
+1320,2024-04-15,Camiseta,Roupas,99.19,3,Belo Horizonte,MG
+1321,2023-09-10,Camisa Social,Roupas,34.09,1,Curitiba,PR
+1322,2023-10-10,Camisa Social,Roupas,69.27,3,Belo Horizonte,MG
+1323,2023-10-06,Moletom,Roupas,152.45,1,Recife,PE
+1324,2023-11-09,Saia,Roupas,85.0,3,Recife,PE
+1325,2023-12-23,Camisa Social,Roupas,126.64,4,Fortaleza,CE
+1326,2024-06-30,Vestido,Roupas,139.0,4,Curitiba,PR
+1327,2024-05-19,Moletom,Roupas,137.14,2,Belo Horizonte,MG
+1328,2023-09-24,Saia,Roupas,148.86,4,Fortaleza,CE
+1329,2024-07-21,Camisa Social,Roupas,167.82,3,Goiânia,GO
+1330,2024-02-17,Casaco,Roupas,107.18,5,Salvador,BA
+1331,2023-10-10,Tênis,Calçados,112.64,3,São Paulo,SP
+1332,2024-01-01,Bermuda,Roupas,180.91,3,Rio de Janeiro,RJ
+1333,2024-05-27,Moletom,Roupas,111.3,4,Rio de Janeiro,RJ
+1334,2023-09-11,Casaco,Roupas,64.16,3,Rio de Janeiro,RJ
+1335,2023-09-01,Tênis,Calçados,147.35,2,Fortaleza,CE
+1336,2023-08-22,Blusa,Roupas,69.6,1,Recife,PE
+1337,2024-01-27,Moletom,Roupas,61.47,2,Fortaleza,CE
+1338,2024-03-27,Calça Jeans,Roupas,86.48,1,Manaus,AM
+1339,2024-01-18,Vestido,Roupas,48.2,4,Rio de Janeiro,RJ
+1340,2023-11-18,Blusa,Roupas,63.43,2,Recife,PE
+1341,2023-11-19,Tênis,Calçados,188.94,3,Goiânia,GO
+1342,2023-10-22,Camisa Social,Roupas,114.07,5,Recife,PE
+1343,2024-07-27,Moletom,Roupas,108.89,1,Recife,PE
+1344,2023-12-23,Tênis,Calçados,25.57,4,Fortaleza,CE
+1345,2024-01-29,Moletom,Roupas,64.59,5,Salvador,BA
+1346,2023-08-27,Calça Jeans,Roupas,191.46,5,Fortaleza,CE
+1347,2023-08-21,Saia,Roupas,61.15,1,Rio de Janeiro,RJ
+1348,2024-06-01,Calça Jeans,Roupas,52.43,1,Goiânia,GO
+1349,2023-08-14,Bermuda,Roupas,174.2,2,São Paulo,SP
+1350,2023-11-22,Casaco,Roupas,73.69,4,Belo Horizonte,MG
+1351,2024-02-24,Calça Jeans,Roupas,63.28,3,Fortaleza,CE
+1352,2023-11-19,Blusa,Roupas,60.88,5,Manaus,AM
+1353,2023-10-03,Vestido,Roupas,60.67,3,Belo Horizonte,MG
+1354,2024-01-13,Tênis,Calçados,106.37,2,Salvador,BA
+1355,2023-09-23,Casaco,Roupas,130.21,4,Porto Alegre,RS
+1356,2024-01-13,Saia,Roupas,133.96,2,Recife,PE
+1357,2024-01-19,Camiseta,Roupas,66.27,4,Rio de Janeiro,RJ
+1358,2024-07-02,Tênis,Calçados,123.99,5,Rio de Janeiro,RJ
+1359,2023-10-26,Camisa Social,Roupas,196.01,4,Salvador,BA
+1360,2024-03-10,Saia,Roupas,199.12,1,Belo Horizonte,MG
+1361,2023-09-12,Camisa Social,Roupas,143.22,5,Salvador,BA
+1362,2024-01-05,Saia,Roupas,73.77,1,Porto Alegre,RS
+1363,2023-12-30,Moletom,Roupas,32.44,3,Curitiba,PR
+1364,2023-12-22,Bermuda,Roupas,103.92,1,São Paulo,SP
+1365,2024-08-06,Bermuda,Roupas,141.04,3,Curitiba,PR
+1366,2024-03-24,Camiseta,Roupas,63.19,2,Rio de Janeiro,RJ
+1367,2024-05-23,Camisa Social,Roupas,123.08,4,Manaus,AM
+1368,2024-06-26,Moletom,Roupas,43.2,1,Rio de Janeiro,RJ
+1369,2024-05-08,Calça Jeans,Roupas,108.68,3,Belo Horizonte,MG
+1370,2023-12-02,Tênis,Calçados,75.45,3,Manaus,AM
+1371,2024-05-29,Camiseta,Roupas,108.45,5,São Paulo,SP
+1372,2024-05-17,Vestido,Roupas,179.32,1,São Paulo,SP
+1373,2023-11-19,Bermuda,Roupas,147.44,5,Recife,PE
+1374,2024-05-07,Blusa,Roupas,63.53,3,Fortaleza,CE
+1375,2023-11-26,Bermuda,Roupas,179.92,4,Fortaleza,CE
+1376,2023-09-27,Vestido,Roupas,81.66,5,Salvador,BA
+1377,2023-10-17,Camiseta,Roupas,151.74,1,Manaus,AM
+1378,2023-10-11,Vestido,Roupas,156.3,5,Fortaleza,CE
+1379,2024-03-28,Camiseta,Roupas,55.61,4,Belo Horizonte,MG
+1380,2024-04-21,Camiseta,Roupas,191.16,3,Goiânia,GO
+1381,2024-04-03,Bermuda,Roupas,52.75,2,Curitiba,PR
+1382,2024-08-04,Saia,Roupas,183.0,5,Goiânia,GO
+1383,2023-09-12,Bermuda,Roupas,78.37,1,São Paulo,SP
+1384,2023-12-10,Bermuda,Roupas,70.87,3,Belo Horizonte,MG
+1385,2023-09-07,Blusa,Roupas,123.02,5,Goiânia,GO
+1386,2024-03-25,Moletom,Roupas,189.35,2,Belo Horizonte,MG
+1387,2024-04-03,Tênis,Calçados,104.45,5,Curitiba,PR
+1388,2024-06-29,Moletom,Roupas,174.51,4,Recife,PE
+1389,2024-03-21,Bermuda,Roupas,48.3,3,São Paulo,SP
+1390,2023-09-17,Blusa,Roupas,48.8,4,Manaus,AM
+1391,2023-10-04,Saia,Roupas,126.32,2,Recife,PE
+1392,2024-06-03,Camiseta,Roupas,194.11,1,Porto Alegre,RS
+1393,2024-07-19,Casaco,Roupas,121.18,1,Curitiba,PR
+1394,2024-04-29,Vestido,Roupas,27.98,1,Salvador,BA
+1395,2024-01-29,Tênis,Calçados,183.04,2,Manaus,AM
+1396,2023-10-09,Vestido,Roupas,94.91,4,Salvador,BA
+1397,2024-04-04,Bermuda,Roupas,117.21,4,Curitiba,PR
+1398,2024-04-07,Camisa Social,Roupas,56.39,2,Salvador,BA
+1399,2024-07-06,Casaco,Roupas,164.92,4,Manaus,AM
+1400,2024-04-30,Calça Jeans,Roupas,74.07,3,Porto Alegre,RS
+1401,2024-03-30,Moletom,Roupas,32.0,1,São Paulo,SP
+1402,2024-04-04,Casaco,Roupas,27.46,3,Fortaleza,CE
+1403,2024-06-27,Moletom,Roupas,178.7,2,Recife,PE
+1404,2023-10-19,Camisa Social,Roupas,166.1,1,Manaus,AM
+1405,2023-11-12,Calça Jeans,Roupas,49.81,3,Belo Horizonte,MG
+1406,2024-04-05,Casaco,Roupas,81.08,2,Salvador,BA
+1407,2024-05-14,Camisa Social,Roupas,85.17,3,Fortaleza,CE
+1408,2023-11-12,Calça Jeans,Roupas,79.78,5,Rio de Janeiro,RJ
+1409,2023-11-04,Calça Jeans,Roupas,123.66,5,Goiânia,GO
+1410,2024-05-31,Camisa Social,Roupas,180.11,2,Porto Alegre,RS
+1411,2024-03-16,Camisa Social,Roupas,109.31,3,Curitiba,PR
+1412,2023-12-19,Saia,Roupas,56.4,4,Curitiba,PR
+1413,2024-06-01,Casaco,Roupas,107.0,1,Rio de Janeiro,RJ
+1414,2024-02-18,Blusa,Roupas,133.44,3,Salvador,BA
+1415,2023-08-15,Camiseta,Roupas,186.49,5,Goiânia,GO
+1416,2023-09-18,Tênis,Calçados,166.9,1,Recife,PE
+1417,2023-12-23,Casaco,Roupas,66.37,3,Recife,PE
+1418,2024-06-07,Blusa,Roupas,196.83,3,Porto Alegre,RS
+1419,2024-03-02,Camiseta,Roupas,108.15,2,Rio de Janeiro,RJ
+1420,2024-07-12,Casaco,Roupas,80.21,3,Goiânia,GO
+1421,2023-08-09,Camisa Social,Roupas,50.61,1,Recife,PE
+1422,2023-11-22,Bermuda,Roupas,119.1,1,Manaus,AM
+1423,2023-09-23,Calça Jeans,Roupas,151.17,1,São Paulo,SP
+1424,2023-10-05,Blusa,Roupas,129.35,1,Goiânia,GO
+1425,2024-07-27,Camiseta,Roupas,183.03,2,São Paulo,SP
+1426,2023-09-17,Tênis,Calçados,137.34,5,Recife,PE
+1427,2023-09-01,Calça Jeans,Roupas,126.68,2,Porto Alegre,RS
+1428,2023-10-28,Camiseta,Roupas,143.07,4,Porto Alegre,RS
+1429,2023-12-05,Vestido,Roupas,48.84,4,Rio de Janeiro,RJ
+1430,2023-11-13,Casaco,Roupas,103.91,2,Fortaleza,CE
+1431,2024-07-24,Casaco,Roupas,62.96,2,Goiânia,GO
+1432,2023-09-28,Moletom,Roupas,106.18,4,Rio de Janeiro,RJ
+1433,2023-09-26,Bermuda,Roupas,140.68,5,Curitiba,PR
+1434,2024-05-04,Bermuda,Roupas,184.2,1,Salvador,BA
+1435,2023-08-26,Bermuda,Roupas,37.92,4,Curitiba,PR
+1436,2024-04-28,Vestido,Roupas,133.69,5,Manaus,AM
+1437,2024-07-26,Bermuda,Roupas,29.8,1,Porto Alegre,RS
+1438,2024-01-21,Calça Jeans,Roupas,28.84,2,São Paulo,SP
+1439,2024-03-06,Bermuda,Roupas,105.04,3,Manaus,AM
+1440,2023-09-16,Camiseta,Roupas,35.53,3,Belo Horizonte,MG
+1441,2023-12-15,Vestido,Roupas,127.03,3,Porto Alegre,RS
+1442,2024-02-17,Camiseta,Roupas,74.64,1,São Paulo,SP
+1443,2024-05-14,Bermuda,Roupas,102.23,4,Belo Horizonte,MG
+1444,2024-04-24,Calça Jeans,Roupas,77.05,4,Curitiba,PR
+1445,2024-04-12,Calça Jeans,Roupas,55.78,5,Recife,PE
+1446,2024-05-03,Vestido,Roupas,124.97,2,Manaus,AM
+1447,2023-12-14,Tênis,Calçados,84.29,3,Salvador,BA
+1448,2024-02-28,Saia,Roupas,155.96,5,Rio de Janeiro,RJ
+1449,2023-11-26,Moletom,Roupas,188.77,2,Porto Alegre,RS
+1450,2024-01-16,Bermuda,Roupas,64.77,3,Recife,PE
+1451,2023-11-07,Moletom,Roupas,60.95,5,Fortaleza,CE
+1452,2024-06-26,Saia,Roupas,21.86,2,Curitiba,PR
+1453,2024-01-06,Calça Jeans,Roupas,165.37,5,Belo Horizonte,MG
+1454,2024-07-14,Casaco,Roupas,119.61,3,Belo Horizonte,MG
+1455,2024-02-01,Camisa Social,Roupas,129.27,1,Goiânia,GO
+1456,2024-02-20,Moletom,Roupas,69.44,3,São Paulo,SP
+1457,2023-11-26,Moletom,Roupas,129.76,5,Belo Horizonte,MG
+1458,2024-04-14,Calça Jeans,Roupas,183.14,5,Recife,PE
+1459,2024-02-09,Tênis,Calçados,179.71,1,Recife,PE
+1460,2023-08-26,Tênis,Calçados,169.7,3,Manaus,AM
+1461,2024-05-28,Bermuda,Roupas,144.35,5,Manaus,AM
+1462,2024-04-27,Calça Jeans,Roupas,122.71,2,Salvador,BA
+1463,2023-08-15,Camisa Social,Roupas,117.85,4,Salvador,BA
+1464,2023-08-13,Casaco,Roupas,148.08,2,Curitiba,PR
+1465,2023-08-20,Camiseta,Roupas,197.67,5,Porto Alegre,RS
+1466,2024-04-15,Vestido,Roupas,75.38,2,Salvador,BA
+1467,2024-03-07,Moletom,Roupas,43.31,3,Fortaleza,CE
+1468,2024-04-25,Camiseta,Roupas,44.11,5,Porto Alegre,RS
+1469,2023-12-03,Vestido,Roupas,160.24,4,Salvador,BA
+1470,2024-01-03,Moletom,Roupas,86.18,2,Salvador,BA
+1471,2023-12-09,Calça Jeans,Roupas,94.96,5,Curitiba,PR
+1472,2023-09-14,Casaco,Roupas,71.75,1,Manaus,AM
+1473,2024-01-11,Calça Jeans,Roupas,39.84,2,Curitiba,PR
+1474,2024-05-26,Bermuda,Roupas,184.17,4,Recife,PE
+1475,2024-01-25,Bermuda,Roupas,21.0,2,Curitiba,PR
+1476,2023-11-22,Vestido,Roupas,82.32,2,São Paulo,SP
+1477,2023-08-12,Blusa,Roupas,106.55,3,Salvador,BA
+1478,2023-10-02,Bermuda,Roupas,34.53,4,Porto Alegre,RS
+1479,2023-10-24,Camiseta,Roupas,82.87,4,Belo Horizonte,MG
+1480,2024-06-23,Calça Jeans,Roupas,58.91,4,Porto Alegre,RS
+1481,2024-03-04,Camiseta,Roupas,33.22,4,Rio de Janeiro,RJ
+1482,2024-05-05,Tênis,Calçados,162.82,1,Porto Alegre,RS
+1483,2024-05-04,Saia,Roupas,76.47,3,Recife,PE
+1484,2024-04-26,Tênis,Calçados,101.3,4,Porto Alegre,RS
+1485,2024-01-02,Camiseta,Roupas,191.02,3,Goiânia,GO
+1486,2024-03-10,Blusa,Roupas,151.63,4,Manaus,AM
+1487,2024-02-19,Saia,Roupas,79.24,2,Curitiba,PR
+1488,2023-11-09,Blusa,Roupas,183.59,5,Manaus,AM
+1489,2024-02-24,Tênis,Calçados,71.96,4,Salvador,BA
+1490,2024-03-19,Camisa Social,Roupas,97.5,2,Fortaleza,CE
+1491,2024-01-16,Vestido,Roupas,69.95,4,Curitiba,PR
+1492,2023-12-08,Moletom,Roupas,173.06,4,Manaus,AM
+1493,2024-01-02,Bermuda,Roupas,148.36,1,Porto Alegre,RS
+1494,2024-06-27,Camiseta,Roupas,83.58,5,Manaus,AM
+1495,2024-04-12,Moletom,Roupas,45.13,2,Porto Alegre,RS
+1496,2024-07-18,Tênis,Calçados,90.52,3,Rio de Janeiro,RJ
+1497,2024-01-28,Casaco,Roupas,102.09,3,Goiânia,GO
+1498,2023-08-24,Blusa,Roupas,82.05,5,Salvador,BA
+1499,2023-12-24,Calça Jeans,Roupas,95.44,3,Curitiba,PR
+1500,2023-11-25,Blusa,Roupas,195.83,2,Porto Alegre,RS
+1501,2024-04-28,Camisa Social,Roupas,124.61,1,Goiânia,GO
+1502,2023-12-27,Vestido,Roupas,168.52,1,São Paulo,SP
+1503,2024-03-25,Vestido,Roupas,63.38,3,Salvador,BA
+1504,2023-08-14,Calça Jeans,Roupas,30.41,5,São Paulo,SP
+1505,2024-05-16,Moletom,Roupas,199.34,1,Porto Alegre,RS
+1506,2023-09-21,Camisa Social,Roupas,71.16,2,Curitiba,PR
+1507,2023-10-13,Moletom,Roupas,108.05,2,Belo Horizonte,MG
+1508,2024-04-01,Camiseta,Roupas,31.47,4,Curitiba,PR
+1509,2024-03-07,Casaco,Roupas,31.72,1,Manaus,AM
+1510,2023-11-19,Vestido,Roupas,33.87,4,Porto Alegre,RS
+1511,2023-12-17,Moletom,Roupas,137.06,2,Curitiba,PR
+1512,2024-07-05,Calça Jeans,Roupas,192.79,1,Rio de Janeiro,RJ
+1513,2023-08-13,Vestido,Roupas,65.21,3,Porto Alegre,RS
+1514,2023-08-20,Vestido,Roupas,86.51,5,Salvador,BA
+1515,2024-04-30,Tênis,Calçados,193.53,5,Rio de Janeiro,RJ
+1516,2024-01-15,Camisa Social,Roupas,45.17,1,Belo Horizonte,MG
+1517,2024-02-12,Vestido,Roupas,103.71,4,Rio de Janeiro,RJ
+1518,2024-01-16,Camiseta,Roupas,95.32,4,Manaus,AM
+1519,2024-04-13,Vestido,Roupas,176.38,1,Belo Horizonte,MG
+1520,2024-02-28,Moletom,Roupas,47.59,1,Rio de Janeiro,RJ
+1521,2024-06-28,Saia,Roupas,37.65,3,Rio de Janeiro,RJ
+1522,2024-02-20,Blusa,Roupas,197.05,3,Curitiba,PR
+1523,2024-03-30,Bermuda,Roupas,118.81,2,Recife,PE
+1524,2023-08-26,Moletom,Roupas,117.83,5,Belo Horizonte,MG
+1525,2024-02-20,Vestido,Roupas,74.39,5,Fortaleza,CE
+1526,2024-07-19,Calça Jeans,Roupas,144.19,1,Belo Horizonte,MG
+1527,2024-02-05,Moletom,Roupas,190.76,1,São Paulo,SP
+1528,2024-07-13,Camiseta,Roupas,151.39,2,São Paulo,SP
+1529,2023-09-25,Blusa,Roupas,86.11,1,Rio de Janeiro,RJ
+1530,2024-07-22,Blusa,Roupas,54.01,2,Goiânia,GO
+1531,2024-07-14,Saia,Roupas,21.81,4,Recife,PE
+1532,2023-08-21,Bermuda,Roupas,130.04,1,Recife,PE
+1533,2024-05-31,Moletom,Roupas,144.07,1,São Paulo,SP
+1534,2024-03-11,Calça Jeans,Roupas,66.43,4,Porto Alegre,RS
+1535,2024-04-04,Camiseta,Roupas,166.57,5,Manaus,AM
+1536,2024-07-27,Moletom,Roupas,27.59,2,Salvador,BA
+1537,2024-04-20,Moletom,Roupas,125.39,2,Curitiba,PR
+1538,2024-04-03,Camiseta,Roupas,172.78,1,Salvador,BA
+1539,2023-12-17,Blusa,Roupas,43.26,2,Porto Alegre,RS
+1540,2024-05-10,Vestido,Roupas,155.89,4,Belo Horizonte,MG
+1541,2024-03-02,Casaco,Roupas,29.12,2,Goiânia,GO
+1542,2023-10-30,Blusa,Roupas,42.72,4,Fortaleza,CE
+1543,2024-02-13,Camiseta,Roupas,115.22,1,Salvador,BA
+1544,2024-07-11,Blusa,Roupas,49.59,2,Rio de Janeiro,RJ
+1545,2023-09-22,Casaco,Roupas,187.74,2,São Paulo,SP
+1546,2024-01-31,Calça Jeans,Roupas,69.54,1,Goiânia,GO
+1547,2024-04-07,Bermuda,Roupas,179.88,4,Belo Horizonte,MG
+1548,2023-12-13,Vestido,Roupas,184.73,5,Belo Horizonte,MG
+1549,2023-10-13,Saia,Roupas,150.17,4,Fortaleza,CE
+1550,2024-03-02,Moletom,Roupas,48.14,1,Rio de Janeiro,RJ
+1551,2023-12-16,Bermuda,Roupas,189.64,5,Fortaleza,CE
+1552,2023-10-26,Casaco,Roupas,185.59,1,Rio de Janeiro,RJ
+1553,2024-07-10,Casaco,Roupas,173.04,1,Porto Alegre,RS
+1554,2024-03-13,Calça Jeans,Roupas,157.91,2,Goiânia,GO
+1555,2024-04-23,Tênis,Calçados,112.37,4,Recife,PE
+1556,2023-12-11,Saia,Roupas,108.33,5,Rio de Janeiro,RJ
+1557,2024-05-30,Tênis,Calçados,42.3,5,Rio de Janeiro,RJ
+1558,2023-09-08,Calça Jeans,Roupas,136.57,2,Recife,PE
+1559,2024-07-31,Moletom,Roupas,55.69,4,Manaus,AM
+1560,2023-11-26,Tênis,Calçados,117.45,1,Porto Alegre,RS
+1561,2024-01-30,Camisa Social,Roupas,174.12,2,São Paulo,SP
+1562,2023-12-06,Saia,Roupas,132.01,2,Curitiba,PR
+1563,2024-04-20,Camisa Social,Roupas,173.99,5,Belo Horizonte,MG
+1564,2024-07-24,Camisa Social,Roupas,71.77,2,Salvador,BA
+1565,2024-05-11,Tênis,Calçados,128.49,1,São Paulo,SP
+1566,2024-06-11,Bermuda,Roupas,54.78,5,Goiânia,GO
+1567,2024-06-04,Tênis,Calçados,114.52,5,Fortaleza,CE
+1568,2024-04-04,Vestido,Roupas,84.22,3,Goiânia,GO
+1569,2023-10-15,Blusa,Roupas,48.0,2,Belo Horizonte,MG
+1570,2023-09-23,Calça Jeans,Roupas,146.15,2,Manaus,AM
+1571,2024-05-14,Blusa,Roupas,108.38,3,Goiânia,GO
+1572,2023-09-23,Vestido,Roupas,114.06,5,Fortaleza,CE
+1573,2024-06-30,Vestido,Roupas,40.14,2,Recife,PE
+1574,2024-03-13,Bermuda,Roupas,96.77,4,Curitiba,PR
+1575,2023-08-30,Moletom,Roupas,162.94,5,Salvador,BA
+1576,2024-06-07,Tênis,Calçados,88.1,3,Curitiba,PR
+1577,2023-11-26,Tênis,Calçados,124.77,1,Curitiba,PR
+1578,2024-03-21,Moletom,Roupas,73.82,4,Manaus,AM
+1579,2024-07-18,Bermuda,Roupas,181.76,2,Belo Horizonte,MG
+1580,2024-01-07,Casaco,Roupas,171.26,2,Belo Horizonte,MG
+1581,2024-08-02,Saia,Roupas,178.01,5,São Paulo,SP
+1582,2023-10-18,Casaco,Roupas,87.2,5,Manaus,AM
+1583,2023-12-29,Tênis,Calçados,188.03,1,Manaus,AM
+1584,2024-04-23,Camiseta,Roupas,129.34,1,Belo Horizonte,MG
+1585,2023-09-24,Saia,Roupas,57.6,4,Salvador,BA
+1586,2024-07-20,Calça Jeans,Roupas,68.46,5,Fortaleza,CE
+1587,2023-11-08,Calça Jeans,Roupas,178.85,3,São Paulo,SP
+1588,2024-07-21,Blusa,Roupas,57.6,1,Fortaleza,CE
+1589,2023-10-13,Camisa Social,Roupas,52.7,3,Recife,PE
+1590,2024-04-15,Camisa Social,Roupas,199.73,5,Rio de Janeiro,RJ
+1591,2024-07-28,Vestido,Roupas,120.92,5,Rio de Janeiro,RJ
+1592,2023-12-09,Blusa,Roupas,184.94,2,Rio de Janeiro,RJ
+1593,2024-06-11,Calça Jeans,Roupas,188.48,4,Rio de Janeiro,RJ
+1594,2023-12-05,Saia,Roupas,51.52,4,Curitiba,PR
+1595,2023-09-02,Casaco,Roupas,68.33,3,Belo Horizonte,MG
+1596,2024-07-07,Camiseta,Roupas,197.65,4,Fortaleza,CE
+1597,2023-10-05,Bermuda,Roupas,191.71,5,Goiânia,GO
+1598,2023-12-20,Camiseta,Roupas,79.26,5,Goiânia,GO
+1599,2024-02-13,Vestido,Roupas,146.1,5,Recife,PE
+1600,2024-03-10,Saia,Roupas,42.51,4,Curitiba,PR
+1601,2024-06-12,Saia,Roupas,94.64,4,Salvador,BA
+1602,2024-08-06,Bermuda,Roupas,134.33,1,Recife,PE
+1603,2024-02-24,Moletom,Roupas,41.48,3,Fortaleza,CE
+1604,2024-01-21,Vestido,Roupas,185.65,4,Manaus,AM
+1605,2024-02-27,Camisa Social,Roupas,184.16,4,Porto Alegre,RS
+1606,2023-08-21,Camiseta,Roupas,99.77,1,Salvador,BA
+1607,2024-02-18,Tênis,Calçados,131.0,2,Curitiba,PR
+1608,2024-06-08,Blusa,Roupas,149.41,1,Porto Alegre,RS
+1609,2024-04-03,Tênis,Calçados,125.95,4,Manaus,AM
+1610,2024-03-15,Saia,Roupas,127.74,5,Goiânia,GO
+1611,2023-11-03,Camiseta,Roupas,153.75,1,São Paulo,SP
+1612,2024-02-05,Moletom,Roupas,59.99,5,Recife,PE
+1613,2023-11-07,Vestido,Roupas,69.65,5,Curitiba,PR
+1614,2024-02-29,Vestido,Roupas,107.41,2,Rio de Janeiro,RJ
+1615,2024-01-10,Saia,Roupas,177.02,2,São Paulo,SP
+1616,2023-10-30,Moletom,Roupas,197.85,5,Recife,PE
+1617,2023-08-28,Bermuda,Roupas,159.33,3,Belo Horizonte,MG
+1618,2023-11-09,Moletom,Roupas,31.45,5,Manaus,AM
+1619,2024-05-01,Camisa Social,Roupas,185.08,2,Manaus,AM
+1620,2024-03-02,Calça Jeans,Roupas,115.3,3,São Paulo,SP
+1621,2024-05-14,Calça Jeans,Roupas,127.05,4,Belo Horizonte,MG
+1622,2023-11-12,Vestido,Roupas,73.18,3,Manaus,AM
+1623,2024-05-17,Camiseta,Roupas,128.82,5,São Paulo,SP
+1624,2023-11-22,Blusa,Roupas,28.71,3,Porto Alegre,RS
+1625,2024-06-03,Bermuda,Roupas,134.8,4,Goiânia,GO
+1626,2023-08-16,Bermuda,Roupas,142.37,2,Porto Alegre,RS
+1627,2024-06-18,Bermuda,Roupas,56.84,5,Recife,PE
+1628,2023-09-17,Bermuda,Roupas,82.1,3,Fortaleza,CE
+1629,2023-10-18,Camiseta,Roupas,81.21,5,Curitiba,PR
+1630,2024-06-11,Vestido,Roupas,159.57,5,Rio de Janeiro,RJ
+1631,2023-11-14,Casaco,Roupas,115.9,4,São Paulo,SP
+1632,2024-04-22,Camisa Social,Roupas,62.26,4,Belo Horizonte,MG
+1633,2024-01-06,Saia,Roupas,133.42,4,Belo Horizonte,MG
+1634,2023-10-29,Casaco,Roupas,74.95,4,Curitiba,PR
+1635,2023-12-22,Tênis,Calçados,148.99,5,São Paulo,SP
+1636,2023-10-21,Casaco,Roupas,96.01,4,Fortaleza,CE
+1637,2024-02-12,Camiseta,Roupas,130.19,1,Goiânia,GO
+1638,2024-04-12,Casaco,Roupas,167.89,4,Porto Alegre,RS
+1639,2024-02-24,Moletom,Roupas,100.78,4,Goiânia,GO
+1640,2023-11-23,Camiseta,Roupas,53.04,2,Goiânia,GO
+1641,2024-01-22,Casaco,Roupas,184.3,1,São Paulo,SP
+1642,2024-05-10,Casaco,Roupas,137.9,2,Belo Horizonte,MG
+1643,2024-04-01,Blusa,Roupas,178.66,3,Manaus,AM
+1644,2024-08-06,Vestido,Roupas,95.66,1,Belo Horizonte,MG
+1645,2024-05-10,Tênis,Calçados,53.07,4,Curitiba,PR
+1646,2023-12-17,Vestido,Roupas,87.45,3,São Paulo,SP
+1647,2024-06-12,Tênis,Calçados,75.24,4,Goiânia,GO
+1648,2024-05-06,Tênis,Calçados,33.19,2,São Paulo,SP
+1649,2023-10-09,Moletom,Roupas,39.97,1,Salvador,BA
+1650,2024-04-15,Casaco,Roupas,105.3,5,Belo Horizonte,MG
+1651,2024-05-24,Camiseta,Roupas,186.83,4,Recife,PE
+1652,2024-05-30,Camisa Social,Roupas,107.19,5,Manaus,AM
+1653,2023-08-26,Calça Jeans,Roupas,27.73,2,Fortaleza,CE
+1654,2023-08-21,Blusa,Roupas,137.63,1,Fortaleza,CE
+1655,2024-01-02,Moletom,Roupas,162.99,2,Fortaleza,CE
+1656,2023-12-24,Calça Jeans,Roupas,37.19,3,Fortaleza,CE
+1657,2023-12-25,Tênis,Calçados,107.58,3,Goiânia,GO
+1658,2024-06-14,Camiseta,Roupas,81.07,5,Belo Horizonte,MG
+1659,2023-11-24,Blusa,Roupas,115.17,1,Salvador,BA
+1660,2024-02-16,Saia,Roupas,124.84,5,Manaus,AM
+1661,2024-07-24,Blusa,Roupas,129.61,4,Porto Alegre,RS
+1662,2024-01-08,Moletom,Roupas,79.92,3,Rio de Janeiro,RJ
+1663,2024-04-02,Casaco,Roupas,117.53,1,Salvador,BA
+1664,2024-05-11,Saia,Roupas,24.97,3,São Paulo,SP
+1665,2023-11-10,Vestido,Roupas,32.57,2,Curitiba,PR
+1666,2024-06-19,Bermuda,Roupas,139.94,4,Fortaleza,CE
+1667,2024-06-05,Moletom,Roupas,163.77,3,Goiânia,GO
+1668,2023-10-27,Bermuda,Roupas,115.55,2,Fortaleza,CE
+1669,2023-12-01,Saia,Roupas,160.63,3,Porto Alegre,RS
+1670,2024-01-09,Calça Jeans,Roupas,50.12,4,Belo Horizonte,MG
+1671,2023-10-05,Vestido,Roupas,150.28,3,Salvador,BA
+1672,2023-12-04,Calça Jeans,Roupas,110.89,1,Salvador,BA
+1673,2023-10-17,Saia,Roupas,136.99,3,Goiânia,GO
+1674,2023-11-29,Calça Jeans,Roupas,98.62,1,São Paulo,SP
+1675,2023-09-18,Saia,Roupas,59.52,3,Recife,PE
+1676,2024-01-23,Camisa Social,Roupas,59.8,3,Belo Horizonte,MG
+1677,2024-04-19,Tênis,Calçados,191.07,5,Fortaleza,CE
+1678,2024-02-24,Saia,Roupas,195.59,4,Curitiba,PR
+1679,2024-03-23,Casaco,Roupas,160.3,4,Curitiba,PR
+1680,2023-08-22,Bermuda,Roupas,142.78,4,São Paulo,SP
+1681,2024-07-19,Camiseta,Roupas,153.94,3,Recife,PE
+1682,2023-12-12,Blusa,Roupas,28.8,1,Belo Horizonte,MG
+1683,2024-05-29,Bermuda,Roupas,72.23,5,Porto Alegre,RS
+1684,2024-04-04,Calça Jeans,Roupas,48.58,1,Recife,PE
+1685,2024-02-07,Casaco,Roupas,28.41,2,Salvador,BA
+1686,2024-02-09,Tênis,Calçados,193.22,3,Curitiba,PR
+1687,2023-09-09,Moletom,Roupas,153.83,1,Fortaleza,CE
+1688,2023-09-26,Blusa,Roupas,125.5,1,Curitiba,PR
+1689,2023-11-06,Casaco,Roupas,163.63,2,Curitiba,PR
+1690,2023-11-29,Casaco,Roupas,84.56,5,Salvador,BA
+1691,2023-09-20,Calça Jeans,Roupas,112.94,2,Curitiba,PR
+1692,2023-10-12,Moletom,Roupas,184.09,1,Salvador,BA
+1693,2024-01-17,Moletom,Roupas,132.62,4,Salvador,BA
+1694,2023-11-05,Vestido,Roupas,102.76,4,Manaus,AM
+1695,2024-08-07,Saia,Roupas,74.99,3,Manaus,AM
+1696,2024-07-08,Bermuda,Roupas,165.86,5,São Paulo,SP
+1697,2023-12-11,Calça Jeans,Roupas,74.1,5,Manaus,AM
+1698,2024-03-30,Blusa,Roupas,90.32,1,Goiânia,GO
+1699,2024-05-10,Camisa Social,Roupas,30.71,1,Curitiba,PR
+1700,2024-01-18,Vestido,Roupas,180.27,2,Recife,PE
+1701,2024-03-27,Bermuda,Roupas,23.0,1,Fortaleza,CE
+1702,2024-04-12,Casaco,Roupas,168.05,2,Salvador,BA
+1703,2023-12-27,Casaco,Roupas,153.14,3,Rio de Janeiro,RJ
+1704,2023-09-08,Camiseta,Roupas,41.99,1,São Paulo,SP
+1705,2023-10-14,Tênis,Calçados,43.12,3,Manaus,AM
+1706,2023-11-03,Moletom,Roupas,71.2,3,Rio de Janeiro,RJ
+1707,2024-02-01,Casaco,Roupas,38.85,5,Porto Alegre,RS
+1708,2024-02-15,Moletom,Roupas,80.68,2,Curitiba,PR
+1709,2024-01-04,Bermuda,Roupas,99.66,4,Belo Horizonte,MG
+1710,2023-10-02,Blusa,Roupas,121.7,4,Goiânia,GO
+1711,2023-11-12,Bermuda,Roupas,26.27,4,Curitiba,PR
+1712,2024-04-04,Calça Jeans,Roupas,29.33,4,Belo Horizonte,MG
+1713,2024-03-24,Casaco,Roupas,72.29,4,Rio de Janeiro,RJ
+1714,2024-04-11,Calça Jeans,Roupas,172.66,4,Rio de Janeiro,RJ
+1715,2024-02-11,Vestido,Roupas,199.34,5,Belo Horizonte,MG
+1716,2024-05-21,Blusa,Roupas,60.75,5,Recife,PE
+1717,2024-07-23,Blusa,Roupas,118.43,1,Curitiba,PR
+1718,2023-10-23,Camisa Social,Roupas,50.77,2,Manaus,AM
+1719,2024-03-14,Moletom,Roupas,199.5,1,Goiânia,GO
+1720,2024-05-26,Calça Jeans,Roupas,68.67,1,Salvador,BA
+1721,2023-08-25,Camiseta,Roupas,112.7,3,Recife,PE
+1722,2023-11-20,Camisa Social,Roupas,50.94,4,Salvador,BA
+1723,2024-02-11,Vestido,Roupas,96.9,2,Rio de Janeiro,RJ
+1724,2023-11-02,Vestido,Roupas,180.36,5,Belo Horizonte,MG
+1725,2024-04-08,Calça Jeans,Roupas,183.98,1,Manaus,AM
+1726,2023-12-31,Casaco,Roupas,63.66,1,Fortaleza,CE
+1727,2024-04-07,Vestido,Roupas,41.15,5,São Paulo,SP
+1728,2023-11-11,Moletom,Roupas,105.07,5,Salvador,BA
+1729,2024-06-16,Vestido,Roupas,38.49,3,Manaus,AM
+1730,2023-10-02,Casaco,Roupas,112.55,2,Manaus,AM
+1731,2024-06-16,Camisa Social,Roupas,176.65,1,São Paulo,SP
+1732,2024-06-19,Moletom,Roupas,182.18,1,Curitiba,PR
+1733,2024-06-24,Moletom,Roupas,34.83,5,Belo Horizonte,MG
+1734,2023-08-12,Casaco,Roupas,194.41,4,Curitiba,PR
+1735,2023-11-17,Camiseta,Roupas,93.3,5,Recife,PE
+1736,2024-07-07,Moletom,Roupas,167.52,1,Belo Horizonte,MG
+1737,2024-01-15,Camiseta,Roupas,54.47,4,Porto Alegre,RS
+1738,2023-12-16,Calça Jeans,Roupas,194.58,4,Manaus,AM
+1739,2023-10-18,Blusa,Roupas,193.64,3,Recife,PE
+1740,2023-10-03,Bermuda,Roupas,108.57,1,Manaus,AM
+1741,2024-07-31,Casaco,Roupas,198.21,4,Fortaleza,CE
+1742,2024-07-06,Tênis,Calçados,26.51,4,Belo Horizonte,MG
+1743,2023-12-30,Camiseta,Roupas,187.08,4,Fortaleza,CE
+1744,2024-04-22,Camisa Social,Roupas,27.97,3,Porto Alegre,RS
+1745,2024-07-08,Calça Jeans,Roupas,32.88,5,Porto Alegre,RS
+1746,2024-03-10,Moletom,Roupas,171.63,2,Goiânia,GO
+1747,2024-04-04,Moletom,Roupas,148.04,3,Manaus,AM
+1748,2023-11-24,Camisa Social,Roupas,85.83,2,Manaus,AM
+1749,2023-11-18,Tênis,Calçados,161.66,4,Salvador,BA
+1750,2023-11-28,Tênis,Calçados,104.15,4,Salvador,BA
+1751,2024-06-22,Calça Jeans,Roupas,31.26,1,Salvador,BA
+1752,2024-04-06,Casaco,Roupas,48.19,3,Porto Alegre,RS
+1753,2024-03-26,Moletom,Roupas,134.51,5,Porto Alegre,RS
+1754,2023-12-10,Casaco,Roupas,43.18,5,São Paulo,SP
+1755,2024-02-23,Moletom,Roupas,180.35,1,Salvador,BA
+1756,2023-10-10,Camiseta,Roupas,132.16,3,Curitiba,PR
+1757,2023-09-07,Camiseta,Roupas,123.5,4,Recife,PE
+1758,2024-03-19,Casaco,Roupas,160.45,5,Salvador,BA
+1759,2024-05-17,Bermuda,Roupas,138.79,3,São Paulo,SP
+1760,2024-03-11,Blusa,Roupas,33.4,4,Curitiba,PR
+1761,2023-09-16,Moletom,Roupas,75.36,5,Fortaleza,CE
+1762,2024-06-06,Saia,Roupas,176.88,2,São Paulo,SP
+1763,2024-07-30,Casaco,Roupas,69.69,4,Salvador,BA
+1764,2024-07-26,Calça Jeans,Roupas,27.52,3,Goiânia,GO
+1765,2024-03-22,Camisa Social,Roupas,50.66,3,Curitiba,PR
+1766,2024-06-27,Camisa Social,Roupas,29.76,2,Belo Horizonte,MG
+1767,2024-05-04,Casaco,Roupas,34.24,4,São Paulo,SP
+1768,2024-02-28,Moletom,Roupas,88.92,5,Porto Alegre,RS
+1769,2024-05-31,Casaco,Roupas,59.01,2,Belo Horizonte,MG
+1770,2023-12-23,Casaco,Roupas,78.44,5,Porto Alegre,RS
+1771,2023-09-15,Tênis,Calçados,109.98,2,Recife,PE
+1772,2023-09-20,Camiseta,Roupas,50.12,3,Belo Horizonte,MG
+1773,2024-05-18,Bermuda,Roupas,40.31,1,São Paulo,SP
+1774,2024-06-18,Casaco,Roupas,29.4,2,Rio de Janeiro,RJ
+1775,2023-11-01,Blusa,Roupas,100.43,5,Fortaleza,CE
+1776,2024-06-28,Camiseta,Roupas,95.49,5,Manaus,AM
+1777,2023-12-06,Bermuda,Roupas,115.44,1,Curitiba,PR
+1778,2024-05-13,Casaco,Roupas,164.14,4,São Paulo,SP
+1779,2023-12-04,Vestido,Roupas,122.45,3,Goiânia,GO
+1780,2023-11-15,Vestido,Roupas,87.56,4,São Paulo,SP
+1781,2024-04-24,Vestido,Roupas,198.73,1,Manaus,AM
+1782,2024-05-31,Camisa Social,Roupas,106.86,2,Porto Alegre,RS
+1783,2024-03-22,Bermuda,Roupas,152.15,1,Goiânia,GO
+1784,2024-03-18,Calça Jeans,Roupas,20.44,3,Curitiba,PR
+1785,2024-07-08,Blusa,Roupas,67.18,3,Rio de Janeiro,RJ
+1786,2024-03-22,Casaco,Roupas,155.65,4,Curitiba,PR
+1787,2023-08-27,Casaco,Roupas,31.82,4,Porto Alegre,RS
+1788,2024-05-14,Camiseta,Roupas,155.6,2,Belo Horizonte,MG
+1789,2023-12-23,Moletom,Roupas,124.43,4,Goiânia,GO
+1790,2023-09-07,Blusa,Roupas,48.36,5,Goiânia,GO
+1791,2024-07-07,Camiseta,Roupas,21.03,1,Manaus,AM
+1792,2023-09-25,Saia,Roupas,147.0,5,Goiânia,GO
+1793,2024-02-21,Calça Jeans,Roupas,174.42,3,Goiânia,GO
+1794,2024-06-17,Moletom,Roupas,26.24,4,Salvador,BA
+1795,2024-02-02,Calça Jeans,Roupas,147.98,1,Fortaleza,CE
+1796,2024-03-12,Blusa,Roupas,96.21,3,Rio de Janeiro,RJ
+1797,2024-03-06,Moletom,Roupas,174.62,3,Porto Alegre,RS
+1798,2024-06-05,Casaco,Roupas,67.63,4,São Paulo,SP
+1799,2023-08-10,Casaco,Roupas,123.53,3,Rio de Janeiro,RJ
+1800,2024-05-18,Bermuda,Roupas,194.33,3,São Paulo,SP
+1801,2024-02-05,Calça Jeans,Roupas,90.39,2,Manaus,AM
+1802,2023-10-21,Bermuda,Roupas,64.03,2,Manaus,AM
+1803,2024-03-03,Calça Jeans,Roupas,69.41,2,Goiânia,GO
+1804,2023-09-28,Camiseta,Roupas,183.9,4,Porto Alegre,RS
+1805,2023-09-18,Saia,Roupas,38.67,4,Goiânia,GO
+1806,2024-07-09,Camiseta,Roupas,113.32,2,Salvador,BA
+1807,2024-07-23,Camiseta,Roupas,164.11,2,Rio de Janeiro,RJ
+1808,2024-01-23,Camiseta,Roupas,40.54,1,Goiânia,GO
+1809,2023-10-26,Bermuda,Roupas,130.21,3,Porto Alegre,RS
+1810,2023-09-10,Moletom,Roupas,113.1,1,Rio de Janeiro,RJ
+1811,2023-10-03,Calça Jeans,Roupas,140.13,2,Recife,PE
+1812,2023-09-04,Camisa Social,Roupas,30.27,1,Recife,PE
+1813,2023-08-21,Tênis,Calçados,54.19,3,Porto Alegre,RS
+1814,2023-10-05,Camiseta,Roupas,165.92,3,Porto Alegre,RS
+1815,2024-07-15,Tênis,Calçados,166.86,4,Goiânia,GO
+1816,2024-07-03,Camisa Social,Roupas,170.1,4,Recife,PE
+1817,2023-09-09,Blusa,Roupas,125.13,3,Fortaleza,CE
+1818,2024-04-07,Camiseta,Roupas,177.34,5,Recife,PE
+1819,2024-03-20,Camisa Social,Roupas,51.95,1,Fortaleza,CE
+1820,2024-04-17,Tênis,Calçados,139.8,1,Goiânia,GO
+1821,2023-09-12,Calça Jeans,Roupas,37.38,1,Manaus,AM
+1822,2023-11-05,Vestido,Roupas,155.07,3,Rio de Janeiro,RJ
+1823,2024-07-24,Saia,Roupas,107.42,2,Fortaleza,CE
+1824,2023-12-14,Vestido,Roupas,132.61,5,Fortaleza,CE
+1825,2024-04-28,Moletom,Roupas,95.15,1,Fortaleza,CE
+1826,2023-10-21,Saia,Roupas,21.08,2,Belo Horizonte,MG
+1827,2024-03-27,Tênis,Calçados,155.26,4,Manaus,AM
+1828,2024-01-25,Bermuda,Roupas,81.21,3,Curitiba,PR
+1829,2023-11-22,Blusa,Roupas,101.01,3,Curitiba,PR
+1830,2023-12-02,Camiseta,Roupas,179.42,3,Goiânia,GO
+1831,2024-02-16,Vestido,Roupas,121.63,5,Porto Alegre,RS
+1832,2023-11-27,Saia,Roupas,187.07,1,Recife,PE
+1833,2023-08-28,Vestido,Roupas,38.94,1,Recife,PE
+1834,2023-08-31,Moletom,Roupas,120.05,3,São Paulo,SP
+1835,2023-11-12,Blusa,Roupas,108.08,2,Belo Horizonte,MG
+1836,2024-03-02,Calça Jeans,Roupas,68.03,2,Porto Alegre,RS
+1837,2023-12-06,Saia,Roupas,163.56,4,Curitiba,PR
+1838,2024-02-11,Calça Jeans,Roupas,112.07,4,Belo Horizonte,MG
+1839,2023-12-27,Moletom,Roupas,110.32,5,Goiânia,GO
+1840,2024-08-03,Calça Jeans,Roupas,56.72,3,Manaus,AM
+1841,2024-06-25,Tênis,Calçados,92.82,2,Porto Alegre,RS
+1842,2023-10-01,Bermuda,Roupas,53.7,3,Recife,PE
+1843,2023-12-16,Tênis,Calçados,152.57,2,Goiânia,GO
+1844,2024-05-08,Blusa,Roupas,79.99,5,Salvador,BA
+1845,2024-04-10,Casaco,Roupas,161.96,5,São Paulo,SP
+1846,2024-06-11,Casaco,Roupas,60.36,5,Salvador,BA
+1847,2024-05-29,Tênis,Calçados,88.81,5,Manaus,AM
+1848,2024-03-18,Saia,Roupas,75.81,2,Belo Horizonte,MG
+1849,2024-03-09,Blusa,Roupas,197.98,1,Recife,PE
+1850,2023-11-30,Tênis,Calçados,145.68,3,Porto Alegre,RS
+1851,2024-01-14,Casaco,Roupas,158.26,1,Fortaleza,CE
+1852,2024-02-03,Calça Jeans,Roupas,50.93,5,Rio de Janeiro,RJ
+1853,2024-07-23,Vestido,Roupas,178.62,3,Rio de Janeiro,RJ
+1854,2024-01-24,Camisa Social,Roupas,155.03,1,Belo Horizonte,MG
+1855,2024-06-29,Camisa Social,Roupas,157.51,5,Salvador,BA
+1856,2024-01-23,Bermuda,Roupas,75.93,5,Curitiba,PR
+1857,2024-04-27,Tênis,Calçados,84.24,2,Salvador,BA
+1858,2023-11-11,Camisa Social,Roupas,42.94,2,Porto Alegre,RS
+1859,2023-10-06,Saia,Roupas,103.07,3,São Paulo,SP
+1860,2024-03-08,Camisa Social,Roupas,69.8,1,Goiânia,GO
+1861,2024-02-19,Saia,Roupas,29.48,5,Goiânia,GO
+1862,2024-01-08,Saia,Roupas,117.54,2,Fortaleza,CE
+1863,2024-07-19,Camisa Social,Roupas,112.9,2,Belo Horizonte,MG
+1864,2024-07-17,Calça Jeans,Roupas,29.78,5,Porto Alegre,RS
+1865,2024-07-06,Calça Jeans,Roupas,117.46,2,Recife,PE
+1866,2024-06-17,Tênis,Calçados,121.22,4,Manaus,AM
+1867,2024-02-16,Camiseta,Roupas,75.09,5,Rio de Janeiro,RJ
+1868,2023-12-18,Camisa Social,Roupas,168.7,1,São Paulo,SP
+1869,2023-11-12,Camisa Social,Roupas,21.11,2,Manaus,AM
+1870,2024-04-12,Blusa,Roupas,195.12,1,Rio de Janeiro,RJ
+1871,2023-08-31,Casaco,Roupas,74.41,1,Goiânia,GO
+1872,2024-03-23,Calça Jeans,Roupas,67.65,1,Salvador,BA
+1873,2023-09-12,Bermuda,Roupas,173.42,1,São Paulo,SP
+1874,2024-02-11,Moletom,Roupas,189.01,4,Rio de Janeiro,RJ
+1875,2024-03-22,Calça Jeans,Roupas,93.32,3,Goiânia,GO
+1876,2024-03-10,Saia,Roupas,148.71,3,Manaus,AM
+1877,2023-08-27,Bermuda,Roupas,165.06,1,São Paulo,SP
+1878,2024-05-27,Saia,Roupas,193.03,4,Curitiba,PR
+1879,2024-05-23,Saia,Roupas,52.1,1,Fortaleza,CE
+1880,2024-06-19,Saia,Roupas,68.35,4,Fortaleza,CE
+1881,2023-09-08,Blusa,Roupas,85.71,3,Salvador,BA
+1882,2024-01-25,Tênis,Calçados,102.87,5,Manaus,AM
+1883,2024-04-24,Blusa,Roupas,45.94,4,Curitiba,PR
+1884,2024-07-24,Bermuda,Roupas,155.85,3,Curitiba,PR
+1885,2023-08-22,Camiseta,Roupas,196.21,5,Manaus,AM
+1886,2024-02-08,Camiseta,Roupas,195.85,5,Curitiba,PR
+1887,2024-07-23,Bermuda,Roupas,43.22,3,Manaus,AM
+1888,2024-03-06,Moletom,Roupas,185.86,4,Curitiba,PR
+1889,2023-09-14,Casaco,Roupas,65.51,2,Curitiba,PR
+1890,2024-01-19,Casaco,Roupas,39.75,5,Salvador,BA
+1891,2024-01-10,Vestido,Roupas,75.24,2,Fortaleza,CE
+1892,2023-10-17,Camiseta,Roupas,135.53,1,Manaus,AM
+1893,2023-12-17,Saia,Roupas,136.24,5,Fortaleza,CE
+1894,2023-09-23,Calça Jeans,Roupas,197.83,4,Curitiba,PR
+1895,2024-03-08,Camiseta,Roupas,101.55,4,Fortaleza,CE
+1896,2023-10-20,Blusa,Roupas,194.66,1,Curitiba,PR
+1897,2023-12-31,Tênis,Calçados,189.42,1,Manaus,AM
+1898,2024-07-30,Moletom,Roupas,182.27,3,São Paulo,SP
+1899,2024-03-01,Tênis,Calçados,158.22,2,Rio de Janeiro,RJ
+1900,2024-06-14,Saia,Roupas,163.03,5,Goiânia,GO
+1901,2023-11-19,Vestido,Roupas,95.4,2,Belo Horizonte,MG
+1902,2023-12-02,Moletom,Roupas,175.07,2,Fortaleza,CE
+1903,2023-12-26,Moletom,Roupas,85.51,1,Salvador,BA
+1904,2024-03-10,Moletom,Roupas,91.51,1,Belo Horizonte,MG
+1905,2023-11-07,Tênis,Calçados,115.36,5,São Paulo,SP
+1906,2024-06-01,Casaco,Roupas,114.14,2,Rio de Janeiro,RJ
+1907,2024-01-24,Bermuda,Roupas,189.35,4,Goiânia,GO
+1908,2024-05-22,Moletom,Roupas,107.04,2,Fortaleza,CE
+1909,2024-01-21,Saia,Roupas,48.44,5,Curitiba,PR
+1910,2023-10-26,Moletom,Roupas,154.95,5,Manaus,AM
+1911,2023-12-09,Camisa Social,Roupas,21.86,4,Salvador,BA
+1912,2023-11-19,Calça Jeans,Roupas,111.85,4,Goiânia,GO
+1913,2023-08-29,Saia,Roupas,164.3,4,Belo Horizonte,MG
+1914,2023-12-12,Calça Jeans,Roupas,132.1,3,Goiânia,GO
+1915,2024-07-11,Camiseta,Roupas,90.23,1,Goiânia,GO
+1916,2024-07-01,Vestido,Roupas,148.2,5,Manaus,AM
+1917,2024-06-21,Saia,Roupas,92.87,2,Manaus,AM
+1918,2023-09-22,Camiseta,Roupas,122.16,2,São Paulo,SP
+1919,2024-07-31,Saia,Roupas,33.3,2,Manaus,AM
+1920,2024-05-23,Vestido,Roupas,70.79,4,Belo Horizonte,MG
+1921,2023-11-25,Moletom,Roupas,156.01,2,Salvador,BA
+1922,2024-03-03,Casaco,Roupas,183.46,1,Porto Alegre,RS
+1923,2023-08-19,Saia,Roupas,44.33,4,Manaus,AM
+1924,2024-03-09,Tênis,Calçados,101.12,5,Manaus,AM
+1925,2023-10-03,Camiseta,Roupas,154.96,3,Belo Horizonte,MG
+1926,2024-05-15,Bermuda,Roupas,175.29,4,Recife,PE
+1927,2024-03-19,Camiseta,Roupas,188.66,5,São Paulo,SP
+1928,2024-03-02,Camiseta,Roupas,149.79,1,Manaus,AM
+1929,2024-06-05,Casaco,Roupas,51.47,4,Manaus,AM
+1930,2024-02-11,Casaco,Roupas,149.08,1,Recife,PE
+1931,2024-06-27,Saia,Roupas,68.59,3,Fortaleza,CE
+1932,2023-12-01,Bermuda,Roupas,45.97,4,Manaus,AM
+1933,2023-10-20,Moletom,Roupas,76.86,1,Manaus,AM
+1934,2024-05-04,Casaco,Roupas,67.63,2,Curitiba,PR
+1935,2024-03-01,Camiseta,Roupas,187.11,4,Recife,PE
+1936,2023-08-15,Vestido,Roupas,120.24,1,Manaus,AM
+1937,2024-06-12,Moletom,Roupas,125.62,5,Belo Horizonte,MG
+1938,2024-03-11,Saia,Roupas,110.46,4,Porto Alegre,RS
+1939,2023-08-13,Tênis,Calçados,124.89,1,Curitiba,PR
+1940,2023-08-11,Camiseta,Roupas,53.95,4,Manaus,AM
+1941,2023-08-09,Moletom,Roupas,46.11,1,Goiânia,GO
+1942,2023-12-16,Moletom,Roupas,61.57,1,Recife,PE
+1943,2024-07-03,Calça Jeans,Roupas,23.88,3,Recife,PE
+1944,2023-12-24,Casaco,Roupas,72.59,3,Porto Alegre,RS
+1945,2024-07-09,Blusa,Roupas,38.44,1,Manaus,AM
+1946,2024-05-08,Tênis,Calçados,163.06,5,São Paulo,SP
+1947,2024-07-31,Camiseta,Roupas,62.45,5,Manaus,AM
+1948,2024-02-09,Camisa Social,Roupas,76.5,1,Fortaleza,CE
+1949,2024-05-13,Vestido,Roupas,89.5,5,Fortaleza,CE
+1950,2024-02-28,Vestido,Roupas,122.55,4,Curitiba,PR
+1951,2024-01-03,Casaco,Roupas,165.03,3,Goiânia,GO
+1952,2024-06-02,Moletom,Roupas,141.7,1,Belo Horizonte,MG
+1953,2023-11-23,Casaco,Roupas,24.66,2,Porto Alegre,RS
+1954,2023-10-07,Moletom,Roupas,182.73,4,Goiânia,GO
+1955,2024-07-25,Calça Jeans,Roupas,188.81,5,Curitiba,PR
+1956,2024-07-27,Tênis,Calçados,170.21,2,Manaus,AM
+1957,2023-09-01,Calça Jeans,Roupas,165.73,5,São Paulo,SP
+1958,2023-09-25,Saia,Roupas,30.64,1,Manaus,AM
+1959,2023-12-19,Blusa,Roupas,150.49,3,São Paulo,SP
+1960,2024-03-09,Camisa Social,Roupas,95.04,1,Rio de Janeiro,RJ
+1961,2023-09-22,Bermuda,Roupas,167.79,2,Goiânia,GO
+1962,2024-07-20,Camisa Social,Roupas,196.19,2,Goiânia,GO
+1963,2024-01-04,Moletom,Roupas,157.56,4,Goiânia,GO
+1964,2024-07-27,Camiseta,Roupas,40.27,4,Goiânia,GO
+1965,2023-10-30,Bermuda,Roupas,187.81,1,Fortaleza,CE
+1966,2024-07-28,Camiseta,Roupas,69.96,1,Manaus,AM
+1967,2023-10-26,Blusa,Roupas,116.02,2,Salvador,BA
+1968,2024-07-30,Camisa Social,Roupas,175.65,2,Curitiba,PR
+1969,2023-08-09,Vestido,Roupas,83.01,3,Salvador,BA
+1970,2024-05-29,Moletom,Roupas,91.31,2,Goiânia,GO
+1971,2024-01-29,Moletom,Roupas,163.61,2,Rio de Janeiro,RJ
+1972,2024-03-10,Saia,Roupas,48.97,3,Rio de Janeiro,RJ
+1973,2024-07-10,Camisa Social,Roupas,156.81,3,Fortaleza,CE
+1974,2023-09-11,Casaco,Roupas,68.04,1,Fortaleza,CE
+1975,2024-06-26,Blusa,Roupas,51.9,3,Manaus,AM
+1976,2024-03-03,Blusa,Roupas,146.62,4,Goiânia,GO
+1977,2024-04-15,Tênis,Calçados,71.34,1,Curitiba,PR
+1978,2024-04-10,Bermuda,Roupas,124.45,3,Rio de Janeiro,RJ
+1979,2024-06-19,Camisa Social,Roupas,118.43,4,Manaus,AM
+1980,2024-01-07,Camiseta,Roupas,54.06,4,Belo Horizonte,MG
+1981,2023-11-25,Saia,Roupas,179.35,5,Salvador,BA
+1982,2023-09-17,Moletom,Roupas,94.25,3,Fortaleza,CE
+1983,2023-09-17,Saia,Roupas,27.86,4,Salvador,BA
+1984,2024-03-18,Camisa Social,Roupas,160.13,3,Belo Horizonte,MG
+1985,2024-07-06,Camisa Social,Roupas,34.65,5,Manaus,AM
+1986,2023-11-05,Bermuda,Roupas,168.54,1,Fortaleza,CE
+1987,2023-10-31,Moletom,Roupas,133.13,2,Recife,PE
+1988,2024-01-30,Vestido,Roupas,138.99,5,Goiânia,GO
+1989,2023-12-13,Blusa,Roupas,92.49,1,Manaus,AM
+1990,2024-02-06,Blusa,Roupas,90.55,3,São Paulo,SP
+1991,2023-10-22,Tênis,Calçados,26.66,4,São Paulo,SP
+1992,2023-09-11,Camiseta,Roupas,121.64,4,Belo Horizonte,MG
+1993,2024-07-21,Blusa,Roupas,135.67,4,Porto Alegre,RS
+1994,2024-05-10,Tênis,Calçados,109.21,2,Curitiba,PR
+1995,2023-09-19,Moletom,Roupas,96.9,3,Recife,PE
+1996,2024-03-01,Saia,Roupas,103.24,1,Belo Horizonte,MG
+1997,2023-10-07,Tênis,Calçados,135.73,5,Fortaleza,CE
+1998,2023-09-28,Camisa Social,Roupas,156.62,1,Salvador,BA
+1999,2024-07-03,Saia,Roupas,154.81,3,Curitiba,PR
+2000,2023-09-13,Tênis,Calçados,177.18,5,Recife,PE
+2001,2024-03-04,Calça Jeans,Roupas,59.78,5,Fortaleza,CE
+2002,2024-07-18,Calça Jeans,Roupas,29.97,5,Rio de Janeiro,RJ
+2003,2024-01-20,Camiseta,Roupas,53.37,1,Goiânia,GO
+2004,2023-11-14,Blusa,Roupas,113.4,3,Fortaleza,CE
+2005,2024-06-13,Vestido,Roupas,47.61,2,Curitiba,PR
+2006,2024-07-19,Vestido,Roupas,131.85,3,Porto Alegre,RS
+2007,2024-06-12,Tênis,Calçados,179.58,3,São Paulo,SP
+2008,2024-05-24,Casaco,Roupas,79.02,5,Goiânia,GO
+2009,2024-07-29,Blusa,Roupas,144.0,1,Goiânia,GO
+2010,2024-02-11,Tênis,Calçados,85.33,3,Recife,PE
+2011,2023-11-12,Saia,Roupas,140.41,3,Manaus,AM
+2012,2024-01-29,Camisa Social,Roupas,173.51,2,Fortaleza,CE
+2013,2024-05-03,Casaco,Roupas,90.11,1,Recife,PE
+2014,2024-01-04,Camisa Social,Roupas,125.04,3,Manaus,AM
+2015,2024-03-16,Moletom,Roupas,186.77,3,Curitiba,PR
+2016,2023-10-26,Tênis,Calçados,113.53,2,Goiânia,GO
+2017,2023-11-16,Moletom,Roupas,98.36,5,Rio de Janeiro,RJ
+2018,2024-01-01,Tênis,Calçados,25.05,4,Curitiba,PR
+2019,2023-12-17,Camiseta,Roupas,25.65,1,Rio de Janeiro,RJ
+2020,2023-11-16,Blusa,Roupas,140.23,2,Salvador,BA
+2021,2024-06-25,Casaco,Roupas,90.28,3,Goiânia,GO
+2022,2024-04-02,Tênis,Calçados,132.47,2,Goiânia,GO
+2023,2024-02-03,Casaco,Roupas,129.43,4,Curitiba,PR
+2024,2023-10-31,Camisa Social,Roupas,155.04,2,Porto Alegre,RS
+2025,2023-08-28,Saia,Roupas,188.25,3,Rio de Janeiro,RJ
+2026,2023-12-21,Vestido,Roupas,172.71,4,Goiânia,GO
+2027,2023-09-12,Moletom,Roupas,69.94,5,Curitiba,PR
+2028,2024-03-17,Camiseta,Roupas,29.99,1,Fortaleza,CE
+2029,2024-07-04,Camiseta,Roupas,141.1,2,Salvador,BA
+2030,2024-01-05,Moletom,Roupas,103.29,1,Belo Horizonte,MG
+2031,2023-11-07,Calça Jeans,Roupas,85.09,4,Fortaleza,CE
+2032,2024-05-08,Camiseta,Roupas,106.43,4,Porto Alegre,RS
+2033,2024-05-31,Saia,Roupas,170.9,3,Curitiba,PR
+2034,2023-10-04,Camisa Social,Roupas,179.86,4,Salvador,BA
+2035,2023-12-30,Blusa,Roupas,91.7,3,Curitiba,PR
+2036,2023-11-20,Vestido,Roupas,167.62,2,Salvador,BA
+2037,2023-09-25,Camiseta,Roupas,173.47,4,Recife,PE
+2038,2024-05-15,Tênis,Calçados,194.62,4,Manaus,AM
+2039,2024-03-24,Vestido,Roupas,91.74,5,São Paulo,SP
+2040,2024-06-21,Casaco,Roupas,161.94,3,Belo Horizonte,MG
+2041,2023-10-20,Tênis,Calçados,121.92,4,Rio de Janeiro,RJ
+2042,2023-09-18,Tênis,Calçados,37.64,4,Porto Alegre,RS
+2043,2023-12-21,Camiseta,Roupas,187.03,3,Fortaleza,CE
+2044,2023-12-12,Calça Jeans,Roupas,52.3,2,Manaus,AM
+2045,2023-10-22,Calça Jeans,Roupas,156.75,1,Fortaleza,CE
+2046,2024-06-24,Moletom,Roupas,160.15,2,Manaus,AM
+2047,2024-06-16,Moletom,Roupas,149.45,1,Porto Alegre,RS
+2048,2024-06-21,Vestido,Roupas,118.54,1,Curitiba,PR
+2049,2024-03-21,Bermuda,Roupas,30.78,1,Fortaleza,CE
+2050,2024-03-10,Camisa Social,Roupas,35.34,4,Belo Horizonte,MG
+2051,2023-09-06,Bermuda,Roupas,130.7,1,Manaus,AM
+2052,2023-11-13,Camiseta,Roupas,166.84,4,São Paulo,SP
+2053,2023-10-16,Moletom,Roupas,98.93,4,Salvador,BA
+2054,2023-12-26,Calça Jeans,Roupas,65.36,2,Salvador,BA
+2055,2024-03-18,Calça Jeans,Roupas,182.77,4,Fortaleza,CE
+2056,2023-10-26,Vestido,Roupas,65.22,3,Manaus,AM
+2057,2023-11-23,Blusa,Roupas,74.18,4,Fortaleza,CE
+2058,2023-12-14,Saia,Roupas,157.38,1,Manaus,AM
+2059,2024-07-26,Camiseta,Roupas,174.48,2,Curitiba,PR
+2060,2024-03-22,Casaco,Roupas,157.79,3,Salvador,BA
+2061,2024-06-22,Camiseta,Roupas,38.34,2,Recife,PE
+2062,2024-07-17,Saia,Roupas,148.47,1,Rio de Janeiro,RJ
+2063,2023-10-28,Moletom,Roupas,174.9,4,Curitiba,PR
+2064,2024-04-11,Moletom,Roupas,192.11,2,São Paulo,SP
+2065,2024-04-10,Vestido,Roupas,45.31,1,Goiânia,GO
+2066,2023-10-21,Moletom,Roupas,38.53,5,São Paulo,SP
+2067,2023-09-08,Calça Jeans,Roupas,129.72,5,Recife,PE
+2068,2023-10-10,Calça Jeans,Roupas,168.01,1,Goiânia,GO
+2069,2024-01-10,Casaco,Roupas,25.53,5,Belo Horizonte,MG
+2070,2023-09-22,Tênis,Calçados,188.2,4,Porto Alegre,RS
+2071,2024-03-05,Camisa Social,Roupas,185.97,5,Salvador,BA
+2072,2024-04-06,Blusa,Roupas,99.25,5,Curitiba,PR
+2073,2023-09-01,Bermuda,Roupas,126.0,5,Salvador,BA
+2074,2024-01-31,Saia,Roupas,62.48,2,Belo Horizonte,MG
+2075,2024-08-01,Camiseta,Roupas,53.88,3,Belo Horizonte,MG
+2076,2023-10-21,Tênis,Calçados,185.08,5,Rio de Janeiro,RJ
+2077,2024-04-26,Tênis,Calçados,136.14,1,Belo Horizonte,MG
+2078,2024-05-07,Casaco,Roupas,38.68,3,Fortaleza,CE
+2079,2023-11-30,Bermuda,Roupas,46.48,4,Salvador,BA
+2080,2023-12-20,Casaco,Roupas,114.97,5,Goiânia,GO
+2081,2024-04-15,Bermuda,Roupas,152.46,3,Belo Horizonte,MG
+2082,2024-07-10,Tênis,Calçados,126.47,2,Rio de Janeiro,RJ
+2083,2024-04-16,Saia,Roupas,29.64,1,Fortaleza,CE
+2084,2024-07-22,Tênis,Calçados,76.97,4,Porto Alegre,RS
+2085,2023-09-13,Camiseta,Roupas,140.91,4,Fortaleza,CE
+2086,2024-05-11,Saia,Roupas,110.49,3,Manaus,AM
+2087,2024-03-31,Casaco,Roupas,127.46,2,São Paulo,SP
+2088,2024-08-06,Camisa Social,Roupas,158.12,1,Porto Alegre,RS
+2089,2024-07-28,Blusa,Roupas,108.78,4,Recife,PE
+2090,2023-10-04,Moletom,Roupas,81.52,4,Porto Alegre,RS
+2091,2024-03-04,Calça Jeans,Roupas,77.71,2,Porto Alegre,RS
+2092,2024-01-22,Bermuda,Roupas,117.66,1,Salvador,BA
+2093,2024-03-09,Saia,Roupas,86.29,3,Manaus,AM
+2094,2024-05-31,Camisa Social,Roupas,198.94,1,Recife,PE
+2095,2023-08-22,Casaco,Roupas,194.83,2,Recife,PE
+2096,2024-05-13,Camiseta,Roupas,188.2,1,Rio de Janeiro,RJ
+2097,2023-12-22,Vestido,Roupas,89.18,3,Belo Horizonte,MG
+2098,2024-06-23,Saia,Roupas,75.19,4,Recife,PE
+2099,2024-07-15,Blusa,Roupas,98.53,4,São Paulo,SP
+2100,2023-10-16,Tênis,Calçados,144.17,4,São Paulo,SP
+2101,2023-10-27,Camiseta,Roupas,166.88,3,Porto Alegre,RS
+2102,2024-08-06,Bermuda,Roupas,185.48,5,Rio de Janeiro,RJ
+2103,2024-05-14,Blusa,Roupas,121.58,3,Porto Alegre,RS
+2104,2024-07-27,Moletom,Roupas,142.72,5,Goiânia,GO
+2105,2024-06-10,Calça Jeans,Roupas,113.5,1,São Paulo,SP
+2106,2024-01-05,Saia,Roupas,153.02,3,Fortaleza,CE
+2107,2024-05-07,Bermuda,Roupas,103.99,5,Curitiba,PR
+2108,2024-06-11,Casaco,Roupas,79.95,1,Rio de Janeiro,RJ
+2109,2024-06-10,Casaco,Roupas,147.11,2,Rio de Janeiro,RJ
+2110,2024-05-12,Vestido,Roupas,24.99,5,Manaus,AM
+2111,2023-11-22,Blusa,Roupas,23.61,1,Rio de Janeiro,RJ
+2112,2023-12-25,Blusa,Roupas,148.71,3,Belo Horizonte,MG
+2113,2023-11-17,Tênis,Calçados,152.9,5,Fortaleza,CE
+2114,2024-07-31,Bermuda,Roupas,112.52,3,Manaus,AM
+2115,2023-09-18,Tênis,Calçados,80.81,2,Fortaleza,CE
+2116,2024-04-24,Vestido,Roupas,199.49,2,Rio de Janeiro,RJ
+2117,2024-01-28,Moletom,Roupas,31.73,1,São Paulo,SP
+2118,2024-05-08,Moletom,Roupas,109.15,1,São Paulo,SP
+2119,2023-09-25,Tênis,Calçados,125.3,5,Recife,PE
+2120,2023-10-26,Tênis,Calçados,37.85,4,Rio de Janeiro,RJ
+2121,2024-03-26,Bermuda,Roupas,151.23,3,Belo Horizonte,MG
+2122,2023-11-20,Vestido,Roupas,110.99,4,Fortaleza,CE
+2123,2023-10-18,Bermuda,Roupas,137.78,1,Recife,PE
+2124,2024-06-01,Blusa,Roupas,150.51,3,Rio de Janeiro,RJ
+2125,2024-04-27,Casaco,Roupas,171.52,4,São Paulo,SP
+2126,2024-03-12,Moletom,Roupas,76.16,5,São Paulo,SP
+2127,2024-01-25,Casaco,Roupas,64.23,1,Recife,PE
+2128,2024-04-23,Camiseta,Roupas,159.16,3,Recife,PE
+2129,2024-04-26,Bermuda,Roupas,156.98,1,São Paulo,SP
+2130,2024-03-15,Camisa Social,Roupas,80.06,5,Goiânia,GO
+2131,2024-05-27,Bermuda,Roupas,180.0,2,Recife,PE
+2132,2024-04-22,Bermuda,Roupas,132.79,1,Salvador,BA
+2133,2024-01-22,Bermuda,Roupas,152.2,2,Belo Horizonte,MG
+2134,2024-02-03,Blusa,Roupas,67.04,2,São Paulo,SP
+2135,2024-05-20,Bermuda,Roupas,103.77,5,Manaus,AM
+2136,2023-11-12,Saia,Roupas,144.96,2,Porto Alegre,RS
+2137,2024-01-11,Tênis,Calçados,115.86,1,Goiânia,GO
+2138,2024-02-08,Tênis,Calçados,47.42,2,Curitiba,PR
+2139,2023-10-10,Bermuda,Roupas,124.16,4,Porto Alegre,RS
+2140,2024-05-24,Blusa,Roupas,189.13,1,São Paulo,SP
+2141,2023-08-18,Blusa,Roupas,31.25,4,Belo Horizonte,MG
+2142,2024-03-20,Moletom,Roupas,187.45,5,Belo Horizonte,MG
+2143,2024-07-01,Camiseta,Roupas,83.03,4,Salvador,BA
+2144,2024-03-02,Moletom,Roupas,193.77,1,Curitiba,PR
+2145,2024-02-16,Camiseta,Roupas,151.25,5,Porto Alegre,RS
+2146,2024-07-22,Calça Jeans,Roupas,177.45,2,Salvador,BA
+2147,2024-04-19,Casaco,Roupas,113.95,5,Curitiba,PR
+2148,2024-06-21,Camiseta,Roupas,176.17,5,Rio de Janeiro,RJ
+2149,2023-12-28,Saia,Roupas,142.82,4,Manaus,AM
+2150,2024-04-13,Camiseta,Roupas,101.5,3,Belo Horizonte,MG
+2151,2023-08-09,Saia,Roupas,78.76,2,Curitiba,PR
+2152,2024-01-08,Bermuda,Roupas,182.06,3,Goiânia,GO
+2153,2023-10-21,Calça Jeans,Roupas,45.23,3,Recife,PE
+2154,2024-06-28,Blusa,Roupas,93.09,3,Belo Horizonte,MG
+2155,2024-06-05,Bermuda,Roupas,138.78,3,Salvador,BA
+2156,2023-08-22,Camiseta,Roupas,171.51,2,Goiânia,GO
+2157,2023-12-08,Calça Jeans,Roupas,125.15,3,Recife,PE
+2158,2023-08-29,Camisa Social,Roupas,56.13,5,Salvador,BA
+2159,2024-03-25,Camisa Social,Roupas,101.64,3,Porto Alegre,RS
+2160,2023-08-27,Camisa Social,Roupas,26.95,5,Porto Alegre,RS
+2161,2024-07-15,Casaco,Roupas,120.38,5,Salvador,BA
+2162,2023-12-28,Camiseta,Roupas,199.09,4,Curitiba,PR
+2163,2024-04-21,Casaco,Roupas,56.06,1,Manaus,AM
+2164,2024-03-04,Camiseta,Roupas,168.22,3,Manaus,AM
+2165,2024-05-26,Bermuda,Roupas,62.03,2,Salvador,BA
+2166,2023-11-14,Blusa,Roupas,42.88,4,Porto Alegre,RS
+2167,2023-11-18,Calça Jeans,Roupas,79.25,2,Goiânia,GO
+2168,2023-11-07,Tênis,Calçados,56.44,1,Recife,PE
+2169,2024-02-08,Saia,Roupas,118.21,5,Belo Horizonte,MG
+2170,2024-04-28,Tênis,Calçados,195.77,1,Curitiba,PR
+2171,2023-11-10,Moletom,Roupas,178.35,1,São Paulo,SP
+2172,2024-03-16,Blusa,Roupas,35.48,1,Rio de Janeiro,RJ
+2173,2023-08-09,Tênis,Calçados,40.05,1,Recife,PE
+2174,2023-09-21,Tênis,Calçados,41.82,5,Recife,PE
+2175,2024-04-18,Camisa Social,Roupas,175.61,1,Manaus,AM
+2176,2024-01-18,Moletom,Roupas,130.37,3,Porto Alegre,RS
+2177,2024-07-16,Vestido,Roupas,59.97,1,Manaus,AM
+2178,2023-08-28,Blusa,Roupas,199.86,4,Fortaleza,CE
+2179,2024-05-25,Calça Jeans,Roupas,21.57,2,Goiânia,GO
+2180,2024-05-14,Tênis,Calçados,66.46,5,Porto Alegre,RS
+2181,2023-10-19,Vestido,Roupas,170.34,1,Porto Alegre,RS
+2182,2023-12-23,Camiseta,Roupas,146.62,2,Porto Alegre,RS
+2183,2024-05-07,Blusa,Roupas,154.48,2,Rio de Janeiro,RJ
+2184,2023-10-12,Saia,Roupas,79.26,4,Goiânia,GO
+2185,2024-04-23,Saia,Roupas,81.47,3,Fortaleza,CE
+2186,2023-10-31,Casaco,Roupas,120.13,1,Manaus,AM
+2187,2023-10-09,Blusa,Roupas,160.6,4,Curitiba,PR
+2188,2023-11-01,Camisa Social,Roupas,66.98,4,Curitiba,PR
+2189,2023-10-07,Bermuda,Roupas,62.85,3,Belo Horizonte,MG
+2190,2024-06-26,Vestido,Roupas,50.13,3,Goiânia,GO
+2191,2024-06-21,Camiseta,Roupas,166.85,1,São Paulo,SP
+2192,2024-05-15,Blusa,Roupas,171.92,2,Curitiba,PR
+2193,2024-06-10,Bermuda,Roupas,163.91,2,São Paulo,SP
+2194,2023-11-19,Moletom,Roupas,64.68,3,Recife,PE
+2195,2023-12-17,Casaco,Roupas,108.57,3,Salvador,BA
+2196,2023-08-29,Camiseta,Roupas,92.56,2,Porto Alegre,RS
+2197,2024-02-11,Blusa,Roupas,70.8,4,Goiânia,GO
+2198,2023-08-20,Vestido,Roupas,178.14,5,Salvador,BA
+2199,2024-04-22,Camiseta,Roupas,179.59,5,Belo Horizonte,MG
+2200,2024-02-28,Tênis,Calçados,142.86,1,Porto Alegre,RS
+2201,2023-08-27,Tênis,Calçados,50.98,4,Salvador,BA
+2202,2024-03-03,Moletom,Roupas,40.74,1,Belo Horizonte,MG
+2203,2024-04-19,Bermuda,Roupas,77.05,5,Rio de Janeiro,RJ
+2204,2024-05-14,Vestido,Roupas,198.46,1,Belo Horizonte,MG
+2205,2023-11-18,Camisa Social,Roupas,182.46,3,Rio de Janeiro,RJ
+2206,2024-06-21,Calça Jeans,Roupas,193.67,1,Curitiba,PR
+2207,2023-12-10,Tênis,Calçados,100.0,4,Porto Alegre,RS
+2208,2024-03-07,Vestido,Roupas,87.96,2,Porto Alegre,RS
+2209,2024-04-03,Moletom,Roupas,125.09,4,Curitiba,PR
+2210,2023-10-12,Saia,Roupas,71.73,5,Manaus,AM
+2211,2024-03-20,Camiseta,Roupas,133.85,2,Curitiba,PR
+2212,2023-10-24,Moletom,Roupas,188.15,4,Fortaleza,CE
+2213,2024-07-09,Bermuda,Roupas,154.58,3,Manaus,AM
+2214,2023-09-28,Camiseta,Roupas,126.19,5,Curitiba,PR
+2215,2024-02-29,Camiseta,Roupas,97.64,2,Belo Horizonte,MG
+2216,2024-06-16,Moletom,Roupas,99.52,5,Rio de Janeiro,RJ
+2217,2023-12-18,Vestido,Roupas,48.19,1,Porto Alegre,RS
+2218,2023-09-21,Saia,Roupas,165.68,3,Curitiba,PR
+2219,2024-03-26,Casaco,Roupas,82.84,5,Salvador,BA
+2220,2024-06-14,Casaco,Roupas,81.95,2,Salvador,BA
+2221,2023-10-06,Camiseta,Roupas,129.86,2,Goiânia,GO
+2222,2023-09-11,Casaco,Roupas,102.71,1,Recife,PE
+2223,2024-03-05,Camiseta,Roupas,134.84,1,Belo Horizonte,MG
+2224,2024-02-17,Bermuda,Roupas,30.38,1,São Paulo,SP
+2225,2024-05-24,Vestido,Roupas,134.35,3,Curitiba,PR
+2226,2024-06-14,Camisa Social,Roupas,126.36,1,Porto Alegre,RS
+2227,2024-04-19,Vestido,Roupas,57.89,2,Rio de Janeiro,RJ
+2228,2024-07-21,Moletom,Roupas,78.47,3,Porto Alegre,RS
+2229,2023-11-10,Vestido,Roupas,172.88,4,Porto Alegre,RS
+2230,2023-11-04,Saia,Roupas,126.78,1,Manaus,AM
+2231,2024-06-04,Saia,Roupas,76.08,1,Belo Horizonte,MG
+2232,2023-11-05,Vestido,Roupas,115.3,5,Manaus,AM
+2233,2024-06-21,Blusa,Roupas,54.41,1,Rio de Janeiro,RJ
+2234,2024-02-16,Camiseta,Roupas,26.1,2,Manaus,AM
+2235,2024-06-15,Camiseta,Roupas,105.47,1,Goiânia,GO
+2236,2024-04-13,Casaco,Roupas,126.52,3,Rio de Janeiro,RJ
+2237,2023-11-01,Camiseta,Roupas,66.01,4,Goiânia,GO
+2238,2024-05-14,Saia,Roupas,132.61,2,Salvador,BA
+2239,2024-02-07,Camisa Social,Roupas,149.68,5,Salvador,BA
+2240,2023-12-29,Blusa,Roupas,28.22,1,Curitiba,PR
+2241,2024-03-31,Calça Jeans,Roupas,106.88,5,Recife,PE
+2242,2024-04-30,Blusa,Roupas,46.66,1,Goiânia,GO
+2243,2023-12-26,Blusa,Roupas,109.08,1,Recife,PE
+2244,2024-08-02,Moletom,Roupas,29.93,5,Goiânia,GO
+2245,2024-02-16,Camiseta,Roupas,173.81,4,Rio de Janeiro,RJ
+2246,2023-09-14,Calça Jeans,Roupas,158.64,5,Fortaleza,CE
+2247,2024-04-01,Saia,Roupas,108.38,4,Salvador,BA
+2248,2024-04-28,Camiseta,Roupas,194.03,3,Belo Horizonte,MG
+2249,2024-03-15,Tênis,Calçados,67.38,4,Rio de Janeiro,RJ
+2250,2023-12-10,Camisa Social,Roupas,42.12,4,Porto Alegre,RS
+2251,2023-09-02,Moletom,Roupas,159.64,3,Curitiba,PR
+2252,2024-06-12,Saia,Roupas,96.14,5,São Paulo,SP
+2253,2024-03-14,Bermuda,Roupas,41.63,2,São Paulo,SP
+2254,2024-01-09,Bermuda,Roupas,87.4,4,Rio de Janeiro,RJ
+2255,2024-06-05,Casaco,Roupas,185.44,4,Rio de Janeiro,RJ
+2256,2024-07-02,Casaco,Roupas,74.96,2,Curitiba,PR
+2257,2024-05-11,Tênis,Calçados,191.17,5,Fortaleza,CE
+2258,2023-11-12,Moletom,Roupas,190.26,2,Rio de Janeiro,RJ
+2259,2024-03-26,Moletom,Roupas,125.95,2,Porto Alegre,RS
+2260,2023-11-19,Moletom,Roupas,198.04,4,Porto Alegre,RS
+2261,2024-06-21,Calça Jeans,Roupas,185.02,2,Salvador,BA
+2262,2024-07-09,Bermuda,Roupas,21.5,5,Porto Alegre,RS
+2263,2023-12-03,Camisa Social,Roupas,152.86,2,Rio de Janeiro,RJ
+2264,2024-07-19,Camisa Social,Roupas,60.42,1,Fortaleza,CE
+2265,2024-06-29,Moletom,Roupas,60.58,5,Fortaleza,CE
+2266,2023-12-11,Saia,Roupas,41.8,2,Porto Alegre,RS
+2267,2024-04-26,Moletom,Roupas,61.8,1,Porto Alegre,RS
+2268,2024-02-24,Camiseta,Roupas,113.25,3,Rio de Janeiro,RJ
+2269,2024-02-28,Camiseta,Roupas,119.22,1,Recife,PE
+2270,2024-03-12,Camiseta,Roupas,85.9,4,Rio de Janeiro,RJ
+2271,2024-04-16,Camiseta,Roupas,49.58,2,Manaus,AM
+2272,2024-05-26,Casaco,Roupas,147.64,1,Fortaleza,CE
+2273,2023-10-24,Moletom,Roupas,61.8,4,Fortaleza,CE
+2274,2024-04-08,Blusa,Roupas,121.65,1,Goiânia,GO
+2275,2024-06-07,Vestido,Roupas,141.46,4,São Paulo,SP
+2276,2024-08-05,Camiseta,Roupas,197.36,1,Recife,PE
+2277,2024-07-16,Blusa,Roupas,150.3,2,Salvador,BA
+2278,2024-04-17,Bermuda,Roupas,180.44,4,Goiânia,GO
+2279,2024-07-20,Camiseta,Roupas,57.64,5,Curitiba,PR
+2280,2024-04-28,Saia,Roupas,82.72,3,Porto Alegre,RS
+2281,2024-04-05,Casaco,Roupas,52.3,1,Recife,PE
+2282,2024-05-09,Camisa Social,Roupas,177.69,2,Porto Alegre,RS
+2283,2024-06-14,Camiseta,Roupas,83.27,2,Manaus,AM
+2284,2023-12-13,Camiseta,Roupas,136.72,3,Belo Horizonte,MG
+2285,2024-06-24,Vestido,Roupas,57.26,1,Rio de Janeiro,RJ
+2286,2024-06-15,Moletom,Roupas,163.6,5,Belo Horizonte,MG
+2287,2024-06-07,Blusa,Roupas,138.64,4,Curitiba,PR
+2288,2024-06-10,Camiseta,Roupas,97.97,2,Manaus,AM
+2289,2024-02-27,Blusa,Roupas,128.17,3,Goiânia,GO
+2290,2023-10-23,Moletom,Roupas,44.9,1,Belo Horizonte,MG
+2291,2023-08-24,Saia,Roupas,153.94,3,Belo Horizonte,MG
+2292,2024-02-20,Camiseta,Roupas,23.51,3,Porto Alegre,RS
+2293,2024-03-06,Vestido,Roupas,66.73,3,Salvador,BA
+2294,2024-03-02,Moletom,Roupas,155.4,2,Porto Alegre,RS
+2295,2023-10-30,Saia,Roupas,151.16,3,Porto Alegre,RS
+2296,2024-06-26,Saia,Roupas,84.43,4,Manaus,AM
+2297,2024-08-05,Moletom,Roupas,32.63,2,Recife,PE
+2298,2023-12-12,Saia,Roupas,172.88,3,Fortaleza,CE
+2299,2024-01-04,Bermuda,Roupas,75.23,5,Porto Alegre,RS
+2300,2024-06-21,Calça Jeans,Roupas,165.3,1,Manaus,AM
+2301,2023-09-20,Calça Jeans,Roupas,98.95,5,Porto Alegre,RS
+2302,2024-02-27,Vestido,Roupas,71.17,3,Recife,PE
+2303,2023-11-13,Tênis,Calçados,186.18,4,Fortaleza,CE
+2304,2023-10-29,Moletom,Roupas,69.89,1,São Paulo,SP
+2305,2024-06-17,Camisa Social,Roupas,152.81,4,São Paulo,SP
+2306,2024-02-01,Saia,Roupas,69.07,3,Goiânia,GO
+2307,2024-02-13,Moletom,Roupas,69.76,3,São Paulo,SP
+2308,2023-10-22,Camisa Social,Roupas,125.83,1,Salvador,BA
+2309,2023-08-27,Saia,Roupas,165.6,4,Belo Horizonte,MG
+2310,2024-07-25,Casaco,Roupas,95.31,3,Manaus,AM
+2311,2024-03-03,Camisa Social,Roupas,126.5,1,Recife,PE
+2312,2024-03-26,Blusa,Roupas,63.4,1,Belo Horizonte,MG
+2313,2024-08-04,Bermuda,Roupas,109.15,4,Rio de Janeiro,RJ
+2314,2024-01-13,Casaco,Roupas,130.94,4,Goiânia,GO
+2315,2024-03-05,Calça Jeans,Roupas,193.59,5,Recife,PE
+2316,2024-04-23,Blusa,Roupas,76.93,1,Fortaleza,CE
+2317,2024-02-16,Calça Jeans,Roupas,149.33,4,Fortaleza,CE
+2318,2024-05-15,Saia,Roupas,40.25,1,Rio de Janeiro,RJ
+2319,2024-03-28,Tênis,Calçados,135.15,1,São Paulo,SP
+2320,2024-06-03,Camisa Social,Roupas,32.16,3,Belo Horizonte,MG
+2321,2024-05-31,Bermuda,Roupas,117.97,2,Fortaleza,CE
+2322,2023-10-26,Vestido,Roupas,127.16,4,São Paulo,SP
+2323,2024-01-15,Casaco,Roupas,168.61,3,Porto Alegre,RS
+2324,2024-01-13,Vestido,Roupas,197.88,1,Goiânia,GO
+2325,2023-10-04,Blusa,Roupas,163.63,3,Belo Horizonte,MG
+2326,2024-07-14,Bermuda,Roupas,115.23,5,Belo Horizonte,MG
+2327,2023-10-20,Camiseta,Roupas,134.15,2,São Paulo,SP
+2328,2024-05-24,Camiseta,Roupas,160.04,3,Belo Horizonte,MG
+2329,2024-03-02,Bermuda,Roupas,95.45,4,Rio de Janeiro,RJ
+2330,2024-06-03,Saia,Roupas,160.96,2,São Paulo,SP
+2331,2023-10-29,Tênis,Calçados,188.32,3,Rio de Janeiro,RJ
+2332,2023-10-13,Tênis,Calçados,22.69,5,Recife,PE
+2333,2023-12-08,Blusa,Roupas,139.71,1,Manaus,AM
+2334,2024-02-08,Calça Jeans,Roupas,83.08,5,Manaus,AM
+2335,2023-08-12,Casaco,Roupas,38.49,2,Curitiba,PR
+2336,2023-12-30,Bermuda,Roupas,181.49,3,Rio de Janeiro,RJ
+2337,2024-02-20,Moletom,Roupas,148.81,2,São Paulo,SP
+2338,2023-11-13,Casaco,Roupas,189.87,3,Salvador,BA
+2339,2024-04-05,Camisa Social,Roupas,194.94,3,São Paulo,SP
+2340,2023-09-24,Vestido,Roupas,84.14,5,Salvador,BA
+2341,2024-02-24,Tênis,Calçados,149.7,3,Belo Horizonte,MG
+2342,2024-04-07,Casaco,Roupas,135.95,3,São Paulo,SP
+2343,2024-07-29,Casaco,Roupas,101.53,2,Manaus,AM
+2344,2023-12-07,Saia,Roupas,36.46,3,Rio de Janeiro,RJ
+2345,2024-03-31,Casaco,Roupas,164.12,4,Porto Alegre,RS
+2346,2023-08-24,Camiseta,Roupas,119.73,2,Goiânia,GO
+2347,2024-05-25,Bermuda,Roupas,166.97,5,Curitiba,PR
+2348,2024-01-06,Vestido,Roupas,151.83,3,Manaus,AM
+2349,2023-12-31,Moletom,Roupas,146.48,3,Recife,PE
+2350,2024-01-04,Casaco,Roupas,105.02,1,Fortaleza,CE
+2351,2024-08-04,Camisa Social,Roupas,51.46,3,Curitiba,PR
+2352,2023-08-21,Blusa,Roupas,59.37,2,Curitiba,PR
+2353,2024-07-18,Bermuda,Roupas,135.77,3,Salvador,BA
+2354,2023-11-03,Saia,Roupas,25.96,2,Salvador,BA
+2355,2024-08-02,Camiseta,Roupas,154.12,4,Curitiba,PR
+2356,2024-04-07,Vestido,Roupas,54.9,2,Manaus,AM
+2357,2024-05-14,Casaco,Roupas,41.4,3,Belo Horizonte,MG
+2358,2023-09-18,Bermuda,Roupas,101.87,3,Manaus,AM
+2359,2024-02-26,Bermuda,Roupas,85.96,5,Recife,PE
+2360,2024-08-07,Moletom,Roupas,136.2,4,Manaus,AM
+2361,2023-11-02,Camisa Social,Roupas,72.24,2,Salvador,BA
+2362,2024-08-03,Vestido,Roupas,110.88,4,Manaus,AM
+2363,2023-10-01,Casaco,Roupas,183.46,5,Curitiba,PR
+2364,2023-09-04,Bermuda,Roupas,155.36,3,Porto Alegre,RS
+2365,2024-06-21,Moletom,Roupas,159.91,1,Fortaleza,CE
+2366,2024-04-24,Casaco,Roupas,161.2,3,Recife,PE
+2367,2024-03-28,Moletom,Roupas,141.32,1,São Paulo,SP
+2368,2024-06-26,Blusa,Roupas,198.07,3,Salvador,BA
+2369,2024-03-31,Tênis,Calçados,50.41,4,Recife,PE
+2370,2023-12-02,Casaco,Roupas,126.29,4,Rio de Janeiro,RJ
+2371,2023-09-07,Tênis,Calçados,73.08,4,Fortaleza,CE
+2372,2023-09-12,Bermuda,Roupas,34.48,3,Manaus,AM
+2373,2024-03-03,Vestido,Roupas,197.81,4,Curitiba,PR
+2374,2024-01-22,Casaco,Roupas,136.75,2,Curitiba,PR
+2375,2024-06-02,Casaco,Roupas,125.02,4,Rio de Janeiro,RJ
+2376,2023-09-14,Camisa Social,Roupas,60.45,5,Curitiba,PR
+2377,2024-03-01,Tênis,Calçados,81.28,4,Porto Alegre,RS
+2378,2023-10-06,Bermuda,Roupas,190.85,2,Recife,PE
+2379,2023-12-22,Casaco,Roupas,169.55,1,Rio de Janeiro,RJ
+2380,2024-06-08,Tênis,Calçados,63.85,3,Salvador,BA
+2381,2024-08-02,Casaco,Roupas,70.62,2,Curitiba,PR
+2382,2023-09-03,Camisa Social,Roupas,78.78,1,Rio de Janeiro,RJ
+2383,2024-08-02,Saia,Roupas,115.88,2,Porto Alegre,RS
+2384,2024-05-18,Vestido,Roupas,71.82,2,Manaus,AM
+2385,2024-04-13,Vestido,Roupas,68.77,5,Goiânia,GO
+2386,2024-07-21,Camiseta,Roupas,124.75,1,Curitiba,PR
+2387,2023-08-23,Calça Jeans,Roupas,94.76,4,Fortaleza,CE
+2388,2023-11-01,Camiseta,Roupas,80.85,1,Rio de Janeiro,RJ
+2389,2024-05-15,Tênis,Calçados,119.93,3,Salvador,BA
+2390,2024-04-17,Blusa,Roupas,166.52,2,Manaus,AM
+2391,2024-05-01,Vestido,Roupas,87.96,2,Curitiba,PR
+2392,2023-10-18,Moletom,Roupas,63.94,4,Goiânia,GO
+2393,2024-03-01,Moletom,Roupas,32.67,1,Porto Alegre,RS
+2394,2024-02-09,Bermuda,Roupas,178.53,1,Belo Horizonte,MG
+2395,2023-12-25,Camiseta,Roupas,24.95,2,Manaus,AM
+2396,2024-04-25,Casaco,Roupas,140.46,5,Porto Alegre,RS
+2397,2024-05-12,Bermuda,Roupas,173.33,5,Fortaleza,CE
+2398,2023-10-07,Calça Jeans,Roupas,179.48,4,Salvador,BA
+2399,2024-06-11,Vestido,Roupas,189.94,5,São Paulo,SP
+2400,2024-02-07,Calça Jeans,Roupas,93.19,5,Recife,PE
+2401,2024-01-31,Calça Jeans,Roupas,156.29,1,Recife,PE
+2402,2024-03-07,Vestido,Roupas,144.09,5,Curitiba,PR
+2403,2023-10-29,Camisa Social,Roupas,33.9,2,Fortaleza,CE
+2404,2024-02-02,Tênis,Calçados,111.28,2,Manaus,AM
+2405,2024-06-17,Casaco,Roupas,47.58,4,Goiânia,GO
+2406,2023-12-06,Blusa,Roupas,52.49,3,São Paulo,SP
+2407,2023-09-17,Bermuda,Roupas,117.12,2,Curitiba,PR
+2408,2024-08-06,Blusa,Roupas,182.54,5,Recife,PE
+2409,2023-12-19,Camiseta,Roupas,29.93,3,Manaus,AM
+2410,2024-06-23,Blusa,Roupas,67.05,5,Curitiba,PR
+2411,2024-03-28,Camiseta,Roupas,81.15,4,Goiânia,GO
+2412,2024-05-09,Bermuda,Roupas,88.22,1,Manaus,AM
+2413,2023-12-23,Camiseta,Roupas,112.31,4,São Paulo,SP
+2414,2024-07-30,Camiseta,Roupas,44.97,3,Porto Alegre,RS
+2415,2023-10-07,Bermuda,Roupas,75.25,3,Curitiba,PR
+2416,2024-06-25,Vestido,Roupas,124.47,4,Manaus,AM
+2417,2023-12-07,Camisa Social,Roupas,122.94,4,Salvador,BA
+2418,2024-07-26,Camisa Social,Roupas,169.14,2,São Paulo,SP
+2419,2024-01-13,Camiseta,Roupas,50.75,1,Goiânia,GO
+2420,2024-03-20,Tênis,Calçados,44.47,1,Fortaleza,CE
+2421,2024-01-24,Calça Jeans,Roupas,115.2,4,Rio de Janeiro,RJ
+2422,2023-12-15,Camisa Social,Roupas,63.95,3,São Paulo,SP
+2423,2024-05-09,Camisa Social,Roupas,56.62,5,Goiânia,GO
+2424,2024-08-03,Moletom,Roupas,73.36,5,Salvador,BA
+2425,2024-07-04,Saia,Roupas,44.22,5,Belo Horizonte,MG
+2426,2023-09-17,Calça Jeans,Roupas,48.09,5,Belo Horizonte,MG
+2427,2023-11-24,Casaco,Roupas,113.23,2,Manaus,AM
+2428,2023-11-18,Calça Jeans,Roupas,198.4,4,Recife,PE
+2429,2024-01-06,Camisa Social,Roupas,64.34,5,Rio de Janeiro,RJ
+2430,2024-03-12,Saia,Roupas,99.33,3,São Paulo,SP
+2431,2024-04-21,Vestido,Roupas,188.65,5,Curitiba,PR
+2432,2024-02-24,Calça Jeans,Roupas,165.06,4,Manaus,AM
+2433,2023-08-24,Camisa Social,Roupas,167.29,2,São Paulo,SP
+2434,2023-11-01,Calça Jeans,Roupas,142.4,2,Goiânia,GO
+2435,2024-01-26,Saia,Roupas,145.32,5,Manaus,AM
+2436,2023-12-01,Casaco,Roupas,177.84,5,Rio de Janeiro,RJ
+2437,2024-03-13,Bermuda,Roupas,194.88,1,Salvador,BA
+2438,2023-09-24,Moletom,Roupas,149.6,5,Recife,PE
+2439,2024-04-17,Blusa,Roupas,175.47,5,Porto Alegre,RS
+2440,2024-01-06,Camisa Social,Roupas,88.54,1,Manaus,AM
+2441,2024-03-29,Blusa,Roupas,96.26,1,Porto Alegre,RS
+2442,2023-09-26,Bermuda,Roupas,188.73,5,Manaus,AM
+2443,2023-11-28,Camiseta,Roupas,25.98,4,Goiânia,GO
+2444,2024-04-26,Bermuda,Roupas,41.97,3,Porto Alegre,RS
+2445,2023-11-02,Blusa,Roupas,47.47,2,Belo Horizonte,MG
+2446,2024-02-15,Camiseta,Roupas,119.68,5,Fortaleza,CE
+2447,2024-01-19,Saia,Roupas,153.54,4,Manaus,AM
+2448,2024-01-07,Calça Jeans,Roupas,141.87,4,Belo Horizonte,MG
+2449,2023-11-22,Camiseta,Roupas,98.92,2,Goiânia,GO
+2450,2024-05-02,Vestido,Roupas,92.6,5,Curitiba,PR
+2451,2024-07-14,Moletom,Roupas,120.81,3,Curitiba,PR
+2452,2023-09-05,Camisa Social,Roupas,25.64,5,Goiânia,GO
+2453,2024-07-17,Tênis,Calçados,28.44,5,Goiânia,GO
+2454,2023-10-01,Tênis,Calçados,89.86,4,Fortaleza,CE
+2455,2023-08-15,Moletom,Roupas,132.42,5,Goiânia,GO
+2456,2024-03-13,Saia,Roupas,174.58,4,Manaus,AM
+2457,2024-03-03,Camisa Social,Roupas,72.46,3,Rio de Janeiro,RJ
+2458,2023-09-18,Moletom,Roupas,135.37,1,Goiânia,GO
+2459,2024-07-20,Tênis,Calçados,110.52,2,São Paulo,SP
+2460,2024-04-01,Tênis,Calçados,135.73,3,Manaus,AM
+2461,2024-07-19,Moletom,Roupas,106.0,3,Salvador,BA
+2462,2024-05-13,Casaco,Roupas,23.43,1,São Paulo,SP
+2463,2024-06-17,Camiseta,Roupas,170.73,2,Rio de Janeiro,RJ
+2464,2023-10-10,Camiseta,Roupas,29.85,4,Salvador,BA
+2465,2024-03-04,Moletom,Roupas,53.52,3,Belo Horizonte,MG
+2466,2023-11-09,Casaco,Roupas,131.14,2,Salvador,BA
+2467,2024-07-07,Vestido,Roupas,20.46,1,Curitiba,PR
+2468,2023-08-27,Tênis,Calçados,119.35,3,Porto Alegre,RS
+2469,2023-10-14,Bermuda,Roupas,130.4,4,Curitiba,PR
+2470,2024-04-03,Calça Jeans,Roupas,147.4,5,São Paulo,SP
+2471,2024-04-28,Moletom,Roupas,152.46,4,Rio de Janeiro,RJ
+2472,2024-01-05,Bermuda,Roupas,33.91,4,Recife,PE
+2473,2024-05-06,Blusa,Roupas,82.46,3,Fortaleza,CE
+2474,2024-06-21,Casaco,Roupas,28.2,5,Salvador,BA
+2475,2024-08-07,Vestido,Roupas,33.01,2,São Paulo,SP
+2476,2024-06-05,Blusa,Roupas,199.32,5,Goiânia,GO
+2477,2023-10-07,Vestido,Roupas,101.41,5,Manaus,AM
+2478,2023-08-27,Moletom,Roupas,182.61,3,Manaus,AM
+2479,2023-10-19,Calça Jeans,Roupas,94.65,5,Belo Horizonte,MG
+2480,2024-02-26,Vestido,Roupas,177.0,1,Fortaleza,CE
+2481,2024-03-05,Saia,Roupas,106.89,3,Porto Alegre,RS
+2482,2023-10-31,Blusa,Roupas,96.36,3,Curitiba,PR
+2483,2024-04-20,Calça Jeans,Roupas,118.28,1,São Paulo,SP
+2484,2023-09-22,Saia,Roupas,84.55,1,Recife,PE
+2485,2024-05-10,Saia,Roupas,122.9,1,Salvador,BA
+2486,2024-02-17,Blusa,Roupas,155.77,2,Salvador,BA
+2487,2024-02-01,Camiseta,Roupas,166.43,3,Goiânia,GO
+2488,2023-10-27,Camisa Social,Roupas,90.31,2,Goiânia,GO
+2489,2024-05-24,Vestido,Roupas,175.98,3,Rio de Janeiro,RJ
+2490,2023-08-12,Vestido,Roupas,46.4,3,Salvador,BA
+2491,2024-03-01,Moletom,Roupas,165.03,5,Goiânia,GO
+2492,2024-01-29,Bermuda,Roupas,60.42,2,São Paulo,SP
+2493,2024-01-07,Moletom,Roupas,174.18,5,Curitiba,PR
+2494,2023-08-22,Camiseta,Roupas,22.33,3,Porto Alegre,RS
+2495,2024-04-02,Bermuda,Roupas,117.43,5,Curitiba,PR
+2496,2023-10-04,Calça Jeans,Roupas,188.82,3,Fortaleza,CE
+2497,2024-06-24,Camisa Social,Roupas,166.15,2,Recife,PE
+2498,2024-01-12,Bermuda,Roupas,79.18,2,Goiânia,GO
+2499,2024-05-17,Moletom,Roupas,91.08,5,Curitiba,PR
+2500,2024-02-20,Camiseta,Roupas,179.8,5,Rio de Janeiro,RJ
+2501,2024-06-23,Vestido,Roupas,162.98,4,Fortaleza,CE
+2502,2023-09-19,Moletom,Roupas,39.84,4,Goiânia,GO
+2503,2023-12-11,Camisa Social,Roupas,130.54,2,Manaus,AM
+2504,2023-12-24,Calça Jeans,Roupas,82.82,5,Porto Alegre,RS
+2505,2024-07-01,Saia,Roupas,101.49,5,Manaus,AM
+2506,2023-08-19,Saia,Roupas,172.79,3,Curitiba,PR
+2507,2024-07-01,Camiseta,Roupas,87.19,4,São Paulo,SP
+2508,2023-08-16,Camisa Social,Roupas,108.43,3,Fortaleza,CE
+2509,2024-07-18,Bermuda,Roupas,110.02,3,Rio de Janeiro,RJ
+2510,2023-09-13,Casaco,Roupas,192.16,3,Belo Horizonte,MG
+2511,2024-06-06,Casaco,Roupas,145.53,2,Rio de Janeiro,RJ
+2512,2024-03-11,Camisa Social,Roupas,185.38,2,Rio de Janeiro,RJ
+2513,2023-11-18,Vestido,Roupas,114.8,3,Belo Horizonte,MG
+2514,2024-08-03,Casaco,Roupas,198.22,4,Belo Horizonte,MG
+2515,2024-04-24,Vestido,Roupas,167.62,3,Recife,PE
+2516,2024-02-18,Tênis,Calçados,164.08,2,Rio de Janeiro,RJ
+2517,2024-01-10,Bermuda,Roupas,68.9,5,Belo Horizonte,MG
+2518,2023-11-09,Calça Jeans,Roupas,20.73,5,Porto Alegre,RS
+2519,2023-08-14,Tênis,Calçados,134.39,3,Belo Horizonte,MG
+2520,2024-04-03,Tênis,Calçados,114.59,3,Rio de Janeiro,RJ
+2521,2024-05-28,Blusa,Roupas,186.9,1,Belo Horizonte,MG
+2522,2024-01-27,Tênis,Calçados,58.0,3,Porto Alegre,RS
+2523,2024-06-06,Casaco,Roupas,126.66,5,Recife,PE
+2524,2024-05-26,Vestido,Roupas,141.32,2,Belo Horizonte,MG
+2525,2024-01-18,Saia,Roupas,83.86,3,Salvador,BA
+2526,2024-06-22,Casaco,Roupas,153.76,1,Salvador,BA
+2527,2023-10-24,Tênis,Calçados,51.33,2,Porto Alegre,RS
+2528,2024-05-29,Blusa,Roupas,55.46,1,Recife,PE
+2529,2023-11-30,Camiseta,Roupas,169.25,4,Recife,PE
+2530,2023-09-29,Bermuda,Roupas,61.38,4,Manaus,AM
+2531,2023-11-08,Blusa,Roupas,165.09,4,São Paulo,SP
+2532,2024-04-30,Camisa Social,Roupas,170.09,2,Recife,PE
+2533,2024-03-17,Camisa Social,Roupas,64.27,2,Belo Horizonte,MG
+2534,2024-04-09,Casaco,Roupas,34.27,1,Salvador,BA
+2535,2023-10-24,Saia,Roupas,198.38,2,Salvador,BA
+2536,2023-08-12,Vestido,Roupas,173.42,1,Goiânia,GO
+2537,2023-12-10,Tênis,Calçados,197.45,5,Rio de Janeiro,RJ
+2538,2023-10-16,Camiseta,Roupas,63.18,1,Rio de Janeiro,RJ
+2539,2023-08-29,Camiseta,Roupas,47.07,5,Salvador,BA
+2540,2024-05-20,Camisa Social,Roupas,138.07,5,Goiânia,GO
+2541,2023-12-08,Bermuda,Roupas,196.13,1,Curitiba,PR
+2542,2024-06-01,Tênis,Calçados,67.48,2,Curitiba,PR
+2543,2023-12-09,Bermuda,Roupas,110.32,2,Rio de Janeiro,RJ
+2544,2023-10-05,Casaco,Roupas,140.94,2,Goiânia,GO
+2545,2024-03-13,Camisa Social,Roupas,32.29,3,Curitiba,PR
+2546,2024-02-15,Saia,Roupas,98.16,5,Curitiba,PR
+2547,2023-11-17,Vestido,Roupas,199.51,3,Manaus,AM
+2548,2024-06-09,Camisa Social,Roupas,22.88,3,Salvador,BA
+2549,2023-08-26,Calça Jeans,Roupas,110.46,5,São Paulo,SP
+2550,2023-11-30,Vestido,Roupas,53.74,5,Manaus,AM
+2551,2024-06-22,Bermuda,Roupas,184.32,1,Salvador,BA
+2552,2024-06-06,Vestido,Roupas,149.06,4,Rio de Janeiro,RJ
+2553,2024-05-01,Blusa,Roupas,84.48,4,Curitiba,PR
+2554,2023-12-31,Moletom,Roupas,111.51,1,Fortaleza,CE
+2555,2024-05-06,Moletom,Roupas,184.7,2,Porto Alegre,RS
+2556,2024-05-19,Camiseta,Roupas,27.24,2,Rio de Janeiro,RJ
+2557,2023-10-01,Calça Jeans,Roupas,88.15,3,São Paulo,SP
+2558,2023-12-07,Saia,Roupas,189.44,1,Goiânia,GO
+2559,2024-04-24,Blusa,Roupas,36.45,2,São Paulo,SP
+2560,2023-11-18,Bermuda,Roupas,136.79,1,Manaus,AM
+2561,2023-11-02,Bermuda,Roupas,158.76,1,Manaus,AM
+2562,2023-09-27,Moletom,Roupas,86.11,5,São Paulo,SP
+2563,2024-02-24,Calça Jeans,Roupas,142.91,3,Fortaleza,CE
+2564,2024-06-16,Bermuda,Roupas,75.17,1,Goiânia,GO
+2565,2024-07-31,Casaco,Roupas,45.2,3,Manaus,AM
+2566,2024-06-18,Vestido,Roupas,190.43,5,Rio de Janeiro,RJ
+2567,2024-05-01,Tênis,Calçados,115.37,4,São Paulo,SP
+2568,2024-05-26,Calça Jeans,Roupas,166.46,1,Salvador,BA
+2569,2024-01-09,Bermuda,Roupas,182.55,1,Porto Alegre,RS
+2570,2023-10-05,Casaco,Roupas,22.41,3,Curitiba,PR
+2571,2024-01-17,Moletom,Roupas,157.78,1,Porto Alegre,RS
+2572,2023-10-27,Tênis,Calçados,81.23,1,São Paulo,SP
+2573,2023-09-19,Vestido,Roupas,144.42,1,Rio de Janeiro,RJ
+2574,2023-12-05,Blusa,Roupas,126.86,5,Manaus,AM
+2575,2024-04-17,Moletom,Roupas,153.33,5,Manaus,AM
+2576,2023-11-19,Bermuda,Roupas,84.54,3,Manaus,AM
+2577,2024-06-02,Saia,Roupas,149.16,2,Recife,PE
+2578,2024-03-14,Saia,Roupas,167.42,2,Goiânia,GO
+2579,2023-08-25,Camiseta,Roupas,103.95,5,Rio de Janeiro,RJ
+2580,2024-01-22,Camiseta,Roupas,80.96,3,Fortaleza,CE
+2581,2024-03-08,Calça Jeans,Roupas,155.16,3,Rio de Janeiro,RJ
+2582,2024-01-21,Camisa Social,Roupas,75.54,5,Manaus,AM
+2583,2024-03-27,Moletom,Roupas,81.3,4,Porto Alegre,RS
+2584,2024-07-17,Calça Jeans,Roupas,125.34,1,Curitiba,PR
+2585,2024-02-18,Casaco,Roupas,147.65,5,Curitiba,PR
+2586,2024-01-26,Vestido,Roupas,136.08,1,Goiânia,GO
+2587,2024-03-27,Casaco,Roupas,36.43,3,Manaus,AM
+2588,2023-10-31,Blusa,Roupas,58.07,2,Curitiba,PR
+2589,2023-10-06,Tênis,Calçados,75.92,4,Salvador,BA
+2590,2024-03-21,Vestido,Roupas,64.41,3,Belo Horizonte,MG
+2591,2024-02-10,Casaco,Roupas,73.84,4,Curitiba,PR
+2592,2024-01-06,Blusa,Roupas,80.42,2,Recife,PE
+2593,2024-07-08,Camiseta,Roupas,184.84,3,Salvador,BA
+2594,2024-03-18,Camiseta,Roupas,129.71,3,Salvador,BA
+2595,2024-03-10,Saia,Roupas,108.14,4,Rio de Janeiro,RJ
+2596,2024-06-03,Camiseta,Roupas,157.04,1,São Paulo,SP
+2597,2023-09-27,Moletom,Roupas,170.22,1,Porto Alegre,RS
+2598,2024-07-09,Casaco,Roupas,119.43,4,Salvador,BA
+2599,2023-12-22,Camiseta,Roupas,182.71,1,Porto Alegre,RS
+2600,2023-09-14,Casaco,Roupas,76.74,3,Recife,PE
+2601,2024-06-26,Tênis,Calçados,186.77,5,São Paulo,SP
+2602,2024-06-20,Blusa,Roupas,172.38,4,Curitiba,PR
+2603,2024-02-24,Casaco,Roupas,68.61,3,Belo Horizonte,MG
+2604,2023-11-25,Camisa Social,Roupas,21.56,4,São Paulo,SP
+2605,2024-06-27,Calça Jeans,Roupas,155.27,5,Rio de Janeiro,RJ
+2606,2024-02-14,Moletom,Roupas,82.94,4,Manaus,AM
+2607,2024-03-04,Calça Jeans,Roupas,90.31,3,Manaus,AM
+2608,2024-05-02,Blusa,Roupas,130.48,3,Recife,PE
+2609,2024-02-22,Vestido,Roupas,144.65,2,Salvador,BA
+2610,2023-10-28,Bermuda,Roupas,63.91,3,Recife,PE
+2611,2024-07-13,Vestido,Roupas,144.76,3,Rio de Janeiro,RJ
+2612,2023-08-19,Camiseta,Roupas,42.96,5,Rio de Janeiro,RJ
+2613,2024-03-27,Bermuda,Roupas,180.98,2,Salvador,BA
+2614,2024-03-03,Saia,Roupas,109.22,3,Belo Horizonte,MG
+2615,2023-08-18,Casaco,Roupas,179.18,1,Goiânia,GO
+2616,2024-08-06,Camiseta,Roupas,25.95,2,Rio de Janeiro,RJ
+2617,2023-10-10,Vestido,Roupas,86.82,2,São Paulo,SP
+2618,2024-04-19,Blusa,Roupas,41.54,1,Goiânia,GO
+2619,2024-02-24,Camiseta,Roupas,122.6,5,Goiânia,GO
+2620,2024-05-19,Calça Jeans,Roupas,131.52,1,Porto Alegre,RS
+2621,2023-11-16,Bermuda,Roupas,78.76,5,Salvador,BA
+2622,2024-04-01,Moletom,Roupas,28.44,2,Curitiba,PR
+2623,2024-02-12,Casaco,Roupas,101.01,3,Porto Alegre,RS
+2624,2023-12-16,Camiseta,Roupas,189.07,1,Manaus,AM
+2625,2024-04-12,Saia,Roupas,27.44,4,Manaus,AM
+2626,2024-02-18,Vestido,Roupas,123.43,1,São Paulo,SP
+2627,2024-05-03,Camisa Social,Roupas,188.18,3,Belo Horizonte,MG
+2628,2023-10-25,Moletom,Roupas,129.08,2,Rio de Janeiro,RJ
+2629,2024-03-13,Casaco,Roupas,68.29,1,Salvador,BA
+2630,2024-01-31,Camisa Social,Roupas,141.26,4,São Paulo,SP
+2631,2024-04-26,Moletom,Roupas,175.68,3,Curitiba,PR
+2632,2023-09-22,Bermuda,Roupas,90.2,1,Porto Alegre,RS
+2633,2024-05-31,Vestido,Roupas,53.8,2,São Paulo,SP
+2634,2024-06-15,Tênis,Calçados,42.46,2,Manaus,AM
+2635,2023-11-10,Calça Jeans,Roupas,161.53,3,Belo Horizonte,MG
+2636,2024-05-25,Saia,Roupas,96.47,1,Fortaleza,CE
+2637,2023-08-22,Saia,Roupas,40.05,1,São Paulo,SP
+2638,2023-12-15,Blusa,Roupas,155.64,2,Salvador,BA
+2639,2024-06-19,Camiseta,Roupas,143.64,4,Porto Alegre,RS
+2640,2024-05-02,Vestido,Roupas,93.91,4,Recife,PE
+2641,2024-07-06,Camisa Social,Roupas,129.62,2,Salvador,BA
+2642,2023-12-10,Blusa,Roupas,118.84,1,Curitiba,PR
+2643,2023-12-04,Vestido,Roupas,74.86,3,Goiânia,GO
+2644,2024-06-05,Casaco,Roupas,22.31,3,Belo Horizonte,MG
+2645,2023-08-18,Tênis,Calçados,101.39,4,Recife,PE
+2646,2024-07-05,Casaco,Roupas,96.84,5,Salvador,BA
+2647,2023-10-12,Calça Jeans,Roupas,49.69,1,Rio de Janeiro,RJ
+2648,2024-01-14,Moletom,Roupas,52.74,5,Manaus,AM
+2649,2023-12-16,Bermuda,Roupas,108.53,2,Manaus,AM
+2650,2024-07-29,Camisa Social,Roupas,54.75,1,Manaus,AM
+2651,2023-10-29,Tênis,Calçados,72.85,1,Salvador,BA
+2652,2023-12-14,Blusa,Roupas,119.07,3,Porto Alegre,RS
+2653,2024-02-02,Saia,Roupas,21.56,1,Salvador,BA
+2654,2024-04-25,Moletom,Roupas,133.62,5,Salvador,BA
+2655,2023-12-06,Calça Jeans,Roupas,137.89,1,Goiânia,GO
+2656,2024-06-27,Calça Jeans,Roupas,87.58,5,Belo Horizonte,MG
+2657,2023-10-23,Blusa,Roupas,157.47,5,Fortaleza,CE
+2658,2024-01-26,Camisa Social,Roupas,98.5,2,Curitiba,PR
+2659,2023-10-19,Moletom,Roupas,197.81,3,Recife,PE
+2660,2023-11-20,Camisa Social,Roupas,143.24,3,Curitiba,PR
+2661,2023-09-11,Vestido,Roupas,147.85,1,Manaus,AM
+2662,2024-04-11,Moletom,Roupas,35.15,5,Fortaleza,CE
+2663,2024-08-02,Tênis,Calçados,199.95,5,São Paulo,SP
+2664,2024-04-26,Tênis,Calçados,133.33,5,Fortaleza,CE
+2665,2024-08-03,Bermuda,Roupas,154.87,1,Manaus,AM
+2666,2024-05-29,Saia,Roupas,38.13,5,Manaus,AM
+2667,2024-02-20,Calça Jeans,Roupas,32.73,4,Salvador,BA
+2668,2024-07-10,Camisa Social,Roupas,71.67,1,Rio de Janeiro,RJ
+2669,2024-04-20,Bermuda,Roupas,179.95,4,Curitiba,PR
+2670,2023-11-16,Bermuda,Roupas,64.01,3,São Paulo,SP
+2671,2024-06-08,Casaco,Roupas,170.11,2,Recife,PE
+2672,2024-05-24,Moletom,Roupas,44.67,4,Goiânia,GO
+2673,2023-11-04,Saia,Roupas,51.64,4,Fortaleza,CE
+2674,2023-08-21,Bermuda,Roupas,163.54,1,São Paulo,SP
+2675,2024-01-23,Casaco,Roupas,197.0,2,Curitiba,PR
+2676,2024-04-05,Tênis,Calçados,65.64,1,Manaus,AM
+2677,2024-08-06,Saia,Roupas,151.39,3,Goiânia,GO
+2678,2024-07-26,Tênis,Calçados,85.89,3,Fortaleza,CE
+2679,2023-09-15,Camiseta,Roupas,98.59,3,Salvador,BA
+2680,2024-02-26,Moletom,Roupas,185.4,3,Goiânia,GO
+2681,2024-02-08,Calça Jeans,Roupas,190.7,1,Curitiba,PR
+2682,2023-08-21,Camiseta,Roupas,41.86,1,São Paulo,SP
+2683,2024-06-06,Camisa Social,Roupas,24.9,1,Curitiba,PR
+2684,2024-04-30,Casaco,Roupas,120.52,1,Manaus,AM
+2685,2024-04-25,Camiseta,Roupas,43.44,4,Manaus,AM
+2686,2023-12-24,Tênis,Calçados,67.54,4,Goiânia,GO
+2687,2023-10-06,Tênis,Calçados,118.52,3,Curitiba,PR
+2688,2023-09-07,Blusa,Roupas,123.4,1,Salvador,BA
+2689,2024-03-10,Camisa Social,Roupas,46.2,2,Recife,PE
+2690,2024-06-07,Casaco,Roupas,72.22,1,Porto Alegre,RS
+2691,2023-11-07,Saia,Roupas,166.24,4,Manaus,AM
+2692,2024-01-01,Saia,Roupas,180.48,1,Goiânia,GO
+2693,2023-12-18,Casaco,Roupas,189.72,4,São Paulo,SP
+2694,2023-08-20,Blusa,Roupas,171.13,3,Belo Horizonte,MG
+2695,2024-02-14,Saia,Roupas,172.97,2,Goiânia,GO
+2696,2024-05-17,Blusa,Roupas,76.6,3,Porto Alegre,RS
+2697,2024-08-07,Camisa Social,Roupas,100.45,3,Recife,PE
+2698,2024-05-02,Bermuda,Roupas,79.73,2,São Paulo,SP
+2699,2024-03-26,Moletom,Roupas,180.12,4,Salvador,BA
+2700,2023-11-14,Vestido,Roupas,186.91,2,Recife,PE
+2701,2024-02-06,Camisa Social,Roupas,196.89,5,Recife,PE
+2702,2024-02-29,Casaco,Roupas,138.55,3,Goiânia,GO
+2703,2023-08-26,Bermuda,Roupas,121.35,1,Curitiba,PR
+2704,2024-07-10,Camisa Social,Roupas,63.32,1,Recife,PE
+2705,2024-03-11,Moletom,Roupas,71.18,3,Salvador,BA
+2706,2024-07-20,Casaco,Roupas,163.46,3,Fortaleza,CE
+2707,2024-07-22,Moletom,Roupas,165.96,1,Manaus,AM
+2708,2023-10-02,Vestido,Roupas,154.97,5,Goiânia,GO
+2709,2024-08-01,Calça Jeans,Roupas,131.24,4,Recife,PE
+2710,2024-02-04,Bermuda,Roupas,161.3,5,Recife,PE
+2711,2024-03-28,Camisa Social,Roupas,193.83,1,Rio de Janeiro,RJ
+2712,2023-09-06,Camisa Social,Roupas,124.35,2,Recife,PE
+2713,2024-01-11,Saia,Roupas,28.49,1,Curitiba,PR
+2714,2023-09-29,Camisa Social,Roupas,166.52,5,Belo Horizonte,MG
+2715,2024-04-08,Saia,Roupas,163.47,5,Manaus,AM
+2716,2024-04-17,Tênis,Calçados,109.93,2,Porto Alegre,RS
+2717,2024-06-04,Casaco,Roupas,22.72,2,Curitiba,PR
+2718,2023-11-21,Moletom,Roupas,72.17,4,Manaus,AM
+2719,2024-01-21,Casaco,Roupas,93.31,5,São Paulo,SP
+2720,2024-04-04,Calça Jeans,Roupas,167.54,4,Porto Alegre,RS
+2721,2024-05-29,Camisa Social,Roupas,35.91,4,Belo Horizonte,MG
+2722,2024-06-30,Camisa Social,Roupas,112.09,1,Goiânia,GO
+2723,2023-12-27,Bermuda,Roupas,173.25,1,Fortaleza,CE
+2724,2023-10-29,Moletom,Roupas,154.31,1,Porto Alegre,RS
+2725,2023-10-03,Vestido,Roupas,168.82,1,Manaus,AM
+2726,2024-03-19,Calça Jeans,Roupas,164.99,1,Goiânia,GO
+2727,2024-01-21,Saia,Roupas,94.16,1,Rio de Janeiro,RJ
+2728,2023-12-14,Calça Jeans,Roupas,79.64,2,Curitiba,PR
+2729,2023-12-06,Bermuda,Roupas,178.25,1,Salvador,BA
+2730,2023-09-28,Bermuda,Roupas,118.6,1,São Paulo,SP
+2731,2023-11-26,Camiseta,Roupas,190.46,2,Curitiba,PR
+2732,2024-02-21,Camiseta,Roupas,118.99,2,Manaus,AM
+2733,2024-02-04,Calça Jeans,Roupas,132.14,4,Curitiba,PR
+2734,2024-04-16,Saia,Roupas,136.23,3,Porto Alegre,RS
+2735,2023-11-27,Vestido,Roupas,181.09,5,Belo Horizonte,MG
+2736,2023-08-27,Saia,Roupas,66.49,4,Recife,PE
+2737,2023-12-01,Saia,Roupas,136.17,1,Fortaleza,CE
+2738,2023-09-02,Saia,Roupas,71.25,5,Goiânia,GO
+2739,2023-09-25,Calça Jeans,Roupas,160.01,4,Belo Horizonte,MG
+2740,2024-06-01,Bermuda,Roupas,142.82,1,Salvador,BA
+2741,2024-01-17,Casaco,Roupas,54.12,4,Recife,PE
+2742,2024-05-30,Bermuda,Roupas,71.08,1,Curitiba,PR
+2743,2023-08-25,Saia,Roupas,152.08,2,Manaus,AM
+2744,2024-04-11,Bermuda,Roupas,48.73,5,Rio de Janeiro,RJ
+2745,2024-01-16,Blusa,Roupas,55.52,2,Belo Horizonte,MG
+2746,2024-03-04,Tênis,Calçados,147.15,2,Rio de Janeiro,RJ
+2747,2024-05-15,Moletom,Roupas,192.51,4,Rio de Janeiro,RJ
+2748,2024-02-12,Blusa,Roupas,88.24,1,Belo Horizonte,MG
+2749,2023-11-07,Casaco,Roupas,64.01,3,Rio de Janeiro,RJ
+2750,2024-07-20,Camisa Social,Roupas,114.56,1,Manaus,AM
+2751,2023-12-09,Moletom,Roupas,73.58,5,Fortaleza,CE
+2752,2024-06-28,Camiseta,Roupas,191.98,2,Salvador,BA
+2753,2024-03-02,Calça Jeans,Roupas,133.19,3,Manaus,AM
+2754,2023-10-16,Camiseta,Roupas,63.72,1,Manaus,AM
+2755,2023-12-16,Casaco,Roupas,87.74,4,Goiânia,GO
+2756,2024-03-14,Camiseta,Roupas,139.81,2,Fortaleza,CE
+2757,2024-06-03,Tênis,Calçados,146.15,2,Recife,PE
+2758,2023-10-21,Calça Jeans,Roupas,136.78,1,Manaus,AM
+2759,2023-09-10,Blusa,Roupas,58.91,2,São Paulo,SP
+2760,2024-07-06,Casaco,Roupas,104.34,2,Porto Alegre,RS
+2761,2023-11-24,Casaco,Roupas,54.48,3,Rio de Janeiro,RJ
+2762,2024-02-05,Moletom,Roupas,182.48,4,São Paulo,SP
+2763,2023-10-26,Moletom,Roupas,81.07,4,Goiânia,GO
+2764,2024-06-04,Camisa Social,Roupas,81.84,3,Recife,PE
+2765,2023-09-17,Blusa,Roupas,179.65,3,São Paulo,SP
+2766,2024-02-02,Saia,Roupas,168.51,2,Goiânia,GO
+2767,2024-03-23,Bermuda,Roupas,121.45,2,Porto Alegre,RS
+2768,2024-04-29,Calça Jeans,Roupas,59.44,3,Rio de Janeiro,RJ
+2769,2023-12-27,Tênis,Calçados,152.1,4,Recife,PE
+2770,2024-06-01,Tênis,Calçados,32.33,2,Manaus,AM
+2771,2023-08-29,Camisa Social,Roupas,147.29,1,Manaus,AM
+2772,2024-06-13,Camiseta,Roupas,27.17,3,Recife,PE
+2773,2024-07-28,Calça Jeans,Roupas,113.22,2,São Paulo,SP
+2774,2023-10-14,Calça Jeans,Roupas,116.09,1,Curitiba,PR
+2775,2024-01-19,Vestido,Roupas,100.88,3,Curitiba,PR
+2776,2024-06-27,Vestido,Roupas,65.14,1,Fortaleza,CE
+2777,2024-03-11,Vestido,Roupas,158.47,2,Belo Horizonte,MG
+2778,2024-02-22,Camiseta,Roupas,46.19,4,Goiânia,GO
+2779,2024-04-28,Tênis,Calçados,140.41,3,Porto Alegre,RS
+2780,2024-04-30,Tênis,Calçados,96.21,5,Fortaleza,CE
+2781,2024-07-28,Moletom,Roupas,64.74,3,Goiânia,GO
+2782,2023-10-15,Camisa Social,Roupas,187.67,4,Fortaleza,CE
+2783,2024-05-28,Vestido,Roupas,68.73,5,Porto Alegre,RS
+2784,2024-02-02,Blusa,Roupas,36.15,4,Belo Horizonte,MG
+2785,2024-03-10,Saia,Roupas,193.53,1,Manaus,AM
+2786,2024-07-22,Blusa,Roupas,113.87,1,Recife,PE
+2787,2023-12-20,Vestido,Roupas,163.93,1,Manaus,AM
+2788,2023-08-10,Moletom,Roupas,24.97,4,Belo Horizonte,MG
+2789,2024-06-24,Bermuda,Roupas,21.97,3,São Paulo,SP
+2790,2024-06-18,Camiseta,Roupas,167.74,2,Manaus,AM
+2791,2023-12-20,Camisa Social,Roupas,168.79,3,Fortaleza,CE
+2792,2024-08-05,Camisa Social,Roupas,195.22,2,Fortaleza,CE
+2793,2024-06-28,Moletom,Roupas,78.15,3,Rio de Janeiro,RJ
+2794,2023-12-25,Saia,Roupas,152.3,2,Manaus,AM
+2795,2024-08-07,Calça Jeans,Roupas,140.17,2,São Paulo,SP
+2796,2024-06-03,Moletom,Roupas,106.13,3,Fortaleza,CE
+2797,2023-11-27,Calça Jeans,Roupas,168.05,1,Porto Alegre,RS
+2798,2023-11-25,Casaco,Roupas,108.19,3,Curitiba,PR
+2799,2024-04-10,Blusa,Roupas,191.89,2,Porto Alegre,RS
+2800,2023-09-14,Camiseta,Roupas,135.78,1,São Paulo,SP
+2801,2024-05-16,Vestido,Roupas,184.49,5,Goiânia,GO
+2802,2024-03-03,Tênis,Calçados,162.46,3,Porto Alegre,RS
+2803,2024-01-06,Calça Jeans,Roupas,187.25,2,Manaus,AM
+2804,2023-09-09,Saia,Roupas,131.65,4,Goiânia,GO
+2805,2024-05-10,Moletom,Roupas,115.65,3,Manaus,AM
+2806,2023-09-22,Vestido,Roupas,152.25,4,Salvador,BA
+2807,2024-01-31,Camisa Social,Roupas,108.34,1,São Paulo,SP
+2808,2024-03-02,Blusa,Roupas,182.3,1,Belo Horizonte,MG
+2809,2023-10-26,Camiseta,Roupas,75.02,3,Recife,PE
+2810,2024-01-21,Tênis,Calçados,146.46,3,Fortaleza,CE
+2811,2024-02-07,Casaco,Roupas,198.22,2,Recife,PE
+2812,2024-05-21,Casaco,Roupas,84.64,2,Recife,PE
+2813,2024-05-12,Camiseta,Roupas,49.44,4,Fortaleza,CE
+2814,2024-04-18,Casaco,Roupas,117.92,4,Goiânia,GO
+2815,2024-05-10,Moletom,Roupas,153.66,5,Belo Horizonte,MG
+2816,2024-02-17,Calça Jeans,Roupas,131.16,2,Goiânia,GO
+2817,2024-02-16,Moletom,Roupas,80.93,4,Salvador,BA
+2818,2024-01-18,Calça Jeans,Roupas,166.42,1,Fortaleza,CE
+2819,2023-10-17,Casaco,Roupas,194.52,3,Goiânia,GO
+2820,2023-11-27,Tênis,Calçados,40.91,3,Manaus,AM
+2821,2023-12-22,Saia,Roupas,135.54,4,Belo Horizonte,MG
+2822,2024-05-11,Moletom,Roupas,145.83,1,Belo Horizonte,MG
+2823,2023-11-24,Vestido,Roupas,55.55,5,Manaus,AM
+2824,2023-11-22,Blusa,Roupas,188.38,1,Porto Alegre,RS
+2825,2024-06-15,Camisa Social,Roupas,47.4,4,Fortaleza,CE
+2826,2024-03-14,Blusa,Roupas,148.47,2,Porto Alegre,RS
+2827,2023-09-04,Blusa,Roupas,66.31,2,Recife,PE
+2828,2024-07-15,Moletom,Roupas,95.74,2,Recife,PE
+2829,2023-12-23,Saia,Roupas,188.62,4,Recife,PE
+2830,2023-08-22,Camisa Social,Roupas,85.76,1,Belo Horizonte,MG
+2831,2024-05-11,Camisa Social,Roupas,108.96,1,Manaus,AM
+2832,2023-11-04,Moletom,Roupas,182.19,4,Fortaleza,CE
+2833,2024-01-09,Vestido,Roupas,169.08,3,Curitiba,PR
+2834,2024-06-10,Blusa,Roupas,169.42,1,Manaus,AM
+2835,2024-07-19,Bermuda,Roupas,90.71,4,Recife,PE
+2836,2023-08-24,Camiseta,Roupas,167.78,1,Salvador,BA
+2837,2024-03-27,Bermuda,Roupas,131.09,1,Salvador,BA
+2838,2023-09-27,Vestido,Roupas,61.51,1,Porto Alegre,RS
+2839,2024-01-07,Saia,Roupas,137.92,1,Porto Alegre,RS
+2840,2023-09-20,Calça Jeans,Roupas,156.68,4,Recife,PE
+2841,2024-01-08,Moletom,Roupas,72.63,2,Goiânia,GO
+2842,2024-04-23,Vestido,Roupas,116.34,2,Salvador,BA
+2843,2023-11-06,Camisa Social,Roupas,134.21,3,Salvador,BA
+2844,2024-07-09,Calça Jeans,Roupas,188.6,3,Curitiba,PR
+2845,2023-11-11,Casaco,Roupas,176.17,4,Recife,PE
+2846,2023-09-26,Calça Jeans,Roupas,144.15,4,Curitiba,PR
+2847,2023-10-13,Camiseta,Roupas,100.61,5,Recife,PE
+2848,2023-11-30,Casaco,Roupas,108.47,1,Salvador,BA
+2849,2024-02-01,Moletom,Roupas,139.01,5,Fortaleza,CE
+2850,2024-03-02,Vestido,Roupas,50.01,3,Rio de Janeiro,RJ
+2851,2024-05-07,Camisa Social,Roupas,192.03,4,Salvador,BA
+2852,2024-01-27,Tênis,Calçados,196.06,5,Goiânia,GO
+2853,2024-03-29,Casaco,Roupas,184.61,3,São Paulo,SP
+2854,2024-01-26,Casaco,Roupas,123.28,5,Manaus,AM
+2855,2024-06-13,Calça Jeans,Roupas,180.57,3,São Paulo,SP
+2856,2024-03-03,Blusa,Roupas,52.72,4,São Paulo,SP
+2857,2024-03-10,Camiseta,Roupas,89.57,4,Salvador,BA
+2858,2024-07-14,Saia,Roupas,141.97,2,Goiânia,GO
+2859,2024-01-20,Tênis,Calçados,160.2,3,Curitiba,PR
+2860,2024-05-14,Blusa,Roupas,89.54,4,Belo Horizonte,MG
+2861,2024-01-04,Camisa Social,Roupas,157.22,4,Recife,PE
+2862,2023-09-03,Saia,Roupas,171.69,4,Goiânia,GO
+2863,2024-03-21,Calça Jeans,Roupas,142.98,2,São Paulo,SP
+2864,2024-07-17,Blusa,Roupas,68.5,5,Goiânia,GO
+2865,2024-03-07,Blusa,Roupas,98.95,2,Curitiba,PR
+2866,2023-11-05,Saia,Roupas,119.22,1,Curitiba,PR
+2867,2024-07-06,Camisa Social,Roupas,97.02,5,Porto Alegre,RS
+2868,2024-06-12,Tênis,Calçados,163.83,5,Belo Horizonte,MG
+2869,2024-06-23,Camisa Social,Roupas,22.81,5,São Paulo,SP
+2870,2023-12-18,Blusa,Roupas,172.26,4,Rio de Janeiro,RJ
+2871,2023-11-28,Bermuda,Roupas,86.98,3,Salvador,BA
+2872,2023-10-16,Saia,Roupas,184.18,1,Recife,PE
+2873,2023-08-18,Blusa,Roupas,40.93,3,Porto Alegre,RS
+2874,2024-04-06,Calça Jeans,Roupas,192.21,5,Curitiba,PR
+2875,2024-01-25,Casaco,Roupas,125.87,3,Porto Alegre,RS
+2876,2023-08-27,Vestido,Roupas,94.51,2,Fortaleza,CE
+2877,2024-01-13,Moletom,Roupas,179.32,3,Salvador,BA
+2878,2024-03-27,Bermuda,Roupas,185.16,1,Curitiba,PR
+2879,2024-05-05,Tênis,Calçados,24.92,1,Curitiba,PR
+2880,2024-02-14,Vestido,Roupas,151.22,5,São Paulo,SP
+2881,2023-12-24,Saia,Roupas,134.31,1,Fortaleza,CE
+2882,2024-02-02,Bermuda,Roupas,30.47,3,Fortaleza,CE
+2883,2024-01-04,Calça Jeans,Roupas,116.42,4,Belo Horizonte,MG
+2884,2024-04-07,Calça Jeans,Roupas,143.47,3,Rio de Janeiro,RJ
+2885,2023-11-22,Moletom,Roupas,156.34,1,Fortaleza,CE
+2886,2024-05-05,Vestido,Roupas,47.81,4,São Paulo,SP
+2887,2024-05-10,Vestido,Roupas,55.44,5,São Paulo,SP
+2888,2024-06-22,Moletom,Roupas,63.73,5,São Paulo,SP
+2889,2024-07-21,Saia,Roupas,52.27,4,Recife,PE
+2890,2024-07-12,Bermuda,Roupas,196.83,5,Rio de Janeiro,RJ
+2891,2024-04-11,Bermuda,Roupas,137.71,5,Curitiba,PR
+2892,2024-06-19,Casaco,Roupas,21.63,1,Manaus,AM
+2893,2024-05-31,Vestido,Roupas,35.22,5,Belo Horizonte,MG
+2894,2024-05-24,Camisa Social,Roupas,37.83,3,Salvador,BA
+2895,2024-06-23,Camisa Social,Roupas,127.97,3,São Paulo,SP
+2896,2024-01-04,Blusa,Roupas,40.05,4,Salvador,BA
+2897,2024-02-03,Moletom,Roupas,59.96,4,Manaus,AM
+2898,2024-08-04,Calça Jeans,Roupas,146.9,5,Goiânia,GO
+2899,2024-01-27,Calça Jeans,Roupas,176.78,5,Curitiba,PR
+2900,2023-12-10,Casaco,Roupas,157.15,5,Porto Alegre,RS
+2901,2024-01-14,Camisa Social,Roupas,153.29,1,Fortaleza,CE
+2902,2024-04-19,Bermuda,Roupas,75.1,4,Curitiba,PR
+2903,2024-05-12,Calça Jeans,Roupas,38.45,3,São Paulo,SP
+2904,2024-02-06,Tênis,Calçados,159.58,2,Curitiba,PR
+2905,2024-01-02,Tênis,Calçados,175.72,1,Fortaleza,CE
+2906,2023-11-16,Camisa Social,Roupas,86.35,5,Recife,PE
+2907,2024-06-12,Tênis,Calçados,28.89,4,Goiânia,GO
+2908,2023-09-29,Blusa,Roupas,188.82,5,Curitiba,PR
+2909,2023-10-20,Bermuda,Roupas,40.37,5,Manaus,AM
+2910,2023-12-28,Camiseta,Roupas,29.22,4,Manaus,AM
+2911,2024-04-26,Tênis,Calçados,127.74,4,Recife,PE
+2912,2023-10-21,Calça Jeans,Roupas,149.8,2,Belo Horizonte,MG
+2913,2024-02-05,Bermuda,Roupas,147.99,2,Salvador,BA
+2914,2024-07-19,Tênis,Calçados,161.38,2,Porto Alegre,RS
+2915,2024-05-13,Camiseta,Roupas,188.98,1,Belo Horizonte,MG
+2916,2024-06-20,Vestido,Roupas,144.68,5,Manaus,AM
+2917,2024-01-06,Tênis,Calçados,124.54,1,Porto Alegre,RS
+2918,2023-09-11,Vestido,Roupas,101.53,5,Goiânia,GO
+2919,2024-04-19,Blusa,Roupas,178.8,1,Fortaleza,CE
+2920,2023-12-20,Casaco,Roupas,140.82,4,Rio de Janeiro,RJ
+2921,2023-08-16,Vestido,Roupas,180.42,3,Goiânia,GO
+2922,2024-07-23,Camisa Social,Roupas,73.33,3,Porto Alegre,RS
+2923,2024-02-10,Camiseta,Roupas,166.84,1,Porto Alegre,RS
+2924,2024-01-25,Tênis,Calçados,185.44,4,Fortaleza,CE
+2925,2024-02-23,Moletom,Roupas,100.05,4,São Paulo,SP
+2926,2024-06-03,Camiseta,Roupas,152.13,5,Curitiba,PR
+2927,2024-07-16,Blusa,Roupas,156.81,5,Salvador,BA
+2928,2024-02-13,Calça Jeans,Roupas,78.66,2,Belo Horizonte,MG
+2929,2023-10-14,Vestido,Roupas,126.09,1,Curitiba,PR
+2930,2024-07-23,Bermuda,Roupas,26.66,3,Curitiba,PR
+2931,2023-08-21,Vestido,Roupas,136.68,4,Curitiba,PR
+2932,2024-04-25,Saia,Roupas,80.72,2,Rio de Janeiro,RJ
+2933,2023-12-20,Camiseta,Roupas,186.43,3,Rio de Janeiro,RJ
+2934,2024-02-13,Bermuda,Roupas,169.6,5,Curitiba,PR
+2935,2023-11-19,Calça Jeans,Roupas,92.73,3,Fortaleza,CE
+2936,2024-05-18,Moletom,Roupas,91.34,1,Salvador,BA
+2937,2024-02-04,Saia,Roupas,90.84,1,Belo Horizonte,MG
+2938,2024-08-01,Camisa Social,Roupas,81.48,2,Fortaleza,CE
+2939,2023-12-11,Vestido,Roupas,178.04,2,Belo Horizonte,MG
+2940,2024-08-02,Saia,Roupas,123.38,5,Recife,PE
+2941,2024-03-27,Saia,Roupas,184.1,1,Belo Horizonte,MG
+2942,2023-08-21,Casaco,Roupas,172.27,4,Curitiba,PR
+2943,2023-10-25,Camisa Social,Roupas,101.66,3,Recife,PE
+2944,2024-01-17,Casaco,Roupas,146.1,2,São Paulo,SP
+2945,2024-03-16,Bermuda,Roupas,139.27,3,Goiânia,GO
+2946,2024-02-08,Calça Jeans,Roupas,141.47,1,Fortaleza,CE
+2947,2024-07-30,Blusa,Roupas,36.56,5,Goiânia,GO
+2948,2023-10-11,Vestido,Roupas,199.89,1,Porto Alegre,RS
+2949,2023-09-02,Casaco,Roupas,163.09,5,Salvador,BA
+2950,2024-04-21,Vestido,Roupas,74.34,4,Rio de Janeiro,RJ
+2951,2023-09-23,Moletom,Roupas,188.82,2,Curitiba,PR
+2952,2024-06-14,Calça Jeans,Roupas,138.5,4,Porto Alegre,RS
+2953,2024-03-25,Bermuda,Roupas,99.43,1,Goiânia,GO
+2954,2024-02-25,Calça Jeans,Roupas,185.68,1,Rio de Janeiro,RJ
+2955,2024-07-19,Calça Jeans,Roupas,34.8,4,Belo Horizonte,MG
+2956,2024-03-18,Calça Jeans,Roupas,105.65,4,São Paulo,SP
+2957,2023-12-09,Vestido,Roupas,22.29,4,Curitiba,PR
+2958,2024-03-23,Camisa Social,Roupas,47.94,5,Salvador,BA
+2959,2024-07-25,Casaco,Roupas,28.09,2,Curitiba,PR
+2960,2024-01-11,Camisa Social,Roupas,99.02,2,Curitiba,PR
+2961,2024-05-25,Camisa Social,Roupas,139.07,5,Rio de Janeiro,RJ
+2962,2023-12-07,Tênis,Calçados,53.41,4,São Paulo,SP
+2963,2024-06-12,Camisa Social,Roupas,126.8,4,Belo Horizonte,MG
+2964,2023-08-27,Vestido,Roupas,101.34,2,Curitiba,PR
+2965,2024-02-07,Tênis,Calçados,72.08,1,Rio de Janeiro,RJ
+2966,2024-02-04,Camisa Social,Roupas,130.45,1,Fortaleza,CE
+2967,2024-02-25,Blusa,Roupas,161.92,1,Goiânia,GO
+2968,2023-12-10,Tênis,Calçados,197.54,1,Goiânia,GO
+2969,2023-11-20,Casaco,Roupas,26.35,3,Recife,PE
+2970,2023-10-21,Casaco,Roupas,45.35,3,Belo Horizonte,MG
+2971,2023-10-28,Camisa Social,Roupas,27.4,5,Fortaleza,CE
+2972,2024-05-08,Tênis,Calçados,105.6,1,Recife,PE
+2973,2024-06-30,Blusa,Roupas,154.67,1,Curitiba,PR
+2974,2024-05-01,Bermuda,Roupas,39.89,1,Salvador,BA
+2975,2023-12-29,Vestido,Roupas,55.39,5,Rio de Janeiro,RJ
+2976,2023-09-05,Bermuda,Roupas,181.81,1,Salvador,BA
+2977,2023-09-22,Blusa,Roupas,52.31,5,Porto Alegre,RS
+2978,2023-11-23,Moletom,Roupas,60.82,5,Curitiba,PR
+2979,2023-11-14,Moletom,Roupas,179.6,3,Salvador,BA
+2980,2024-05-09,Casaco,Roupas,69.1,5,Recife,PE
+2981,2023-08-27,Casaco,Roupas,56.95,1,São Paulo,SP
+2982,2024-06-08,Camiseta,Roupas,20.9,1,Curitiba,PR
+2983,2024-03-26,Blusa,Roupas,148.72,3,São Paulo,SP
+2984,2023-10-09,Saia,Roupas,101.84,1,São Paulo,SP
+2985,2024-01-16,Camiseta,Roupas,175.44,4,Porto Alegre,RS
+2986,2023-10-27,Vestido,Roupas,164.47,5,Porto Alegre,RS
+2987,2024-08-07,Tênis,Calçados,185.84,3,São Paulo,SP
+2988,2024-02-26,Camisa Social,Roupas,190.62,2,Porto Alegre,RS
+2989,2024-08-03,Blusa,Roupas,143.98,3,Fortaleza,CE
+2990,2024-05-29,Camiseta,Roupas,66.39,4,Rio de Janeiro,RJ
+2991,2023-09-02,Tênis,Calçados,37.69,3,Salvador,BA
+2992,2024-02-29,Camiseta,Roupas,128.31,1,Belo Horizonte,MG
+2993,2024-07-27,Camisa Social,Roupas,147.65,2,Recife,PE
+2994,2024-06-11,Bermuda,Roupas,35.24,1,Manaus,AM
+2995,2024-07-11,Vestido,Roupas,189.55,1,São Paulo,SP
+2996,2024-05-21,Bermuda,Roupas,70.88,5,Recife,PE
+2997,2024-01-10,Camiseta,Roupas,33.86,3,Porto Alegre,RS
+2998,2024-07-01,Casaco,Roupas,31.58,2,Recife,PE
+2999,2023-12-17,Vestido,Roupas,173.54,1,Salvador,BA
+3000,2024-03-27,Blusa,Roupas,69.19,2,Goiânia,GO
