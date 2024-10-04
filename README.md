@@ -4,7 +4,7 @@
 
 ## Organização do Projeto:
 - data/: Pasta com o arquivo de dados utilizado (dados_de_vendas.csv).
-- pdf/: Pasta com o notebook em pdf para melhor visualização
+- pdf/: Pasta com o notebook em pdf e html para melhor visualização
 - notebook/: Jupyter notebook contendo a análise exploratória e a limpeza dos dados.
 - README.md: Este arquivo, explicando a organização e execução do projeto.
   
