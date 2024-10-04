@@ -3,10 +3,8 @@
 ## Análise de Dados de Vendas
 
 ## Organização do Projeto:
-- src/: Pasta com o código principal utilizado no projeto.
 - data/: Pasta com o arquivo de dados utilizado (dados_de_vendas.csv).
-- output/: Relatórios gerados ao longo do projeto (HTML e PDF).
-- visualizations/: Pasta com as visualizações geradas durante a análise.
+- pdf/: Pasta com o notebook em pdf para melhor visualização
 - notebook/: Jupyter notebook contendo a análise exploratória e a limpeza dos dados.
 - README.md: Este arquivo, explicando a organização e execução do projeto.
   
