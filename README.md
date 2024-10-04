@@ -13,7 +13,7 @@
 ## Sobre o Projeto:
   O objetivo deste projeto é analisar os dados de vendas de uma loja online como parte do teste para a vaga de Estágio em Dados na senhasegura. A análise inclui a limpeza e preparação dos dados, uma análise exploratória detalhada, a criação de visualizações para identificar padrões e tendências, e a apresentação de recomendações estratégicas com base nos insights obtidos.
 
-##Ferramentas Utilizadas:
+## Ferramentas Utilizadas:
 
 - Python
 - Pandas para manipulação de dados
